@@ -1,0 +1,447 @@
+﻿FieldID,date,class,latitude,longitude,最高罹病級數_num,note
+嘉義縣_大林鎮_23.60745_120.43692,2019-10-16,1,23.60744668,120.436915,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+嘉義縣_大林鎮_23.60983_120.47706,2019-09-30,1,23.60983167,120.477055,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+嘉義縣_大林鎮_23.609_120.4264,2018-11-30,1,23.60899502,120.426395,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+嘉義縣_大林鎮_23.61673_120.47523,2018-10-18,1,23.61672668,120.47523,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+嘉義縣_太保市_23.45417_120.35077,2019-09-30,1,23.45417168,120.3507683,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+嘉義縣_太保市_23.47056_120.34086,2019-09-30,1,23.47055835,120.3408567,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+嘉義縣_新港鄉_23.52802_120.36422,2018-11-07,0,23.52802335,120.3642233,0,class=0; control_rank=1; control_for_event_on=2018-11-20; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+嘉義縣_新港鄉_23.52802_120.36422,2018-11-20,1,23.52802335,120.3642233,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+嘉義縣_新港鄉_23.54695_120.36265,2019-10-16,1,23.54695168,120.3626483,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+嘉義縣_新港鄉_23.56633_120.3647,2018-10-18,0,23.56633002,120.3646967,0,class=0; control_rank=1; control_for_event_on=2018-11-07; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+嘉義縣_新港鄉_23.56633_120.3647,2018-11-07,1,23.56633002,120.3646967,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+嘉義縣_民雄鄉_23.52952_120.3914,2019-10-09,1,23.52952335,120.3914033,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+嘉義縣_民雄鄉_23.55785_120.44518,2018-10-18,1,23.55785168,120.4451833,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+嘉義縣_民雄鄉_23.56618_120.45666,2019-10-09,1,23.56617835,120.4566583,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+嘉義縣_溪口鄉_23.57464_120.38754,2018-11-07,0,23.57464335,120.387535,0,"class=0; control_rank=2; control_for_event_on=2018-11-30; window=[2018-10-26,2018-11-08]; severity=0; paired_with_event_type=initial_onset"
+嘉義縣_溪口鄉_23.57464_120.38754,2018-11-20,0,23.57464335,120.387535,0,class=0; control_rank=1; control_for_event_on=2018-11-30; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+嘉義縣_溪口鄉_23.57464_120.38754,2018-11-30,1,23.57464335,120.387535,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+嘉義縣_鹿草鄉_23.39995_120.32564,2019-10-07,1,23.39995335,120.325645,5,class=1; simple_event_type=big_jump; severity=5; delta_severity_vs_prev15=5; has_zero_in_prev15=False
+嘉義縣_鹿草鄉_23.40014_120.28012,2019-10-17,1,23.400139,120.280115,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+嘉義縣_鹿草鄉_23.42206_120.31401,2019-10-07,1,23.42205668,120.3140133,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+屏東縣_屏東市_22.62487_120.50087,2018-08-02,0,22.6248715,120.5008672,0,"class=0; control_rank=2; control_for_event_on=2018-09-06; window=[2018-08-02,2018-08-15]; severity=0; paired_with_event_type=initial_onset"
+屏東縣_屏東市_22.62487_120.50087,2018-08-29,0,22.6248715,120.5008672,0,class=0; control_rank=1; control_for_event_on=2018-09-06; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.62487_120.50087,2018-09-06,1,22.6248715,120.5008672,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_屏東市_22.62623_120.49893,2018-07-25,0,22.62622912,120.4989264,0,class=0; control_rank=1; control_for_event_on=2018-08-02; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.62623_120.49893,2018-08-02,1,22.62622912,120.4989264,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_屏東市_22.6268_120.48828,2018-09-28,1,22.62680059,120.4882818,5,class=1; simple_event_type=big_jump; severity=5; delta_severity_vs_prev15=4; has_zero_in_prev15=False
+屏東縣_屏東市_22.6275_120.48544,2018-09-12,1,22.62750494,120.4854386,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+屏東縣_屏東市_22.6275_120.48546,2018-09-28,1,22.627505,120.485458,5,class=1; simple_event_type=big_jump; severity=5; delta_severity_vs_prev15=5; has_zero_in_prev15=False
+屏東縣_屏東市_22.62776_120.4894,2018-09-06,1,22.62776142,120.489397,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+屏東縣_屏東市_22.63254_120.48948,2021-08-13,0,22.63254003,120.48948,0,class=0; control_rank=1; control_for_event_on=2021-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.63254_120.48948,2021-08-23,1,22.63254003,120.48948,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_屏東市_22.63335_120.49406,2018-08-15,0,22.63334825,120.4940558,0,"class=0; control_rank=2; control_for_event_on=2018-09-06; window=[2018-08-02,2018-08-15]; severity=0; paired_with_event_type=initial_onset"
+屏東縣_屏東市_22.63335_120.49406,2018-08-29,0,22.63334825,120.4940558,0,class=0; control_rank=1; control_for_event_on=2018-09-06; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.63335_120.49406,2018-09-06,1,22.63334825,120.4940558,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_屏東市_22.63347_120.49843,2018-08-07,0,22.63347037,120.4984332,0,class=0; control_rank=1; control_for_event_on=2018-08-15; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.63347_120.49843,2018-08-15,1,22.63347037,120.4984332,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=0; has_zero_in_prev15=True
+屏東縣_屏東市_22.63634_120.50214,2018-08-29,0,22.63634472,120.5021392,0,class=0; control_rank=1; control_for_event_on=2018-09-06; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.63634_120.50214,2018-09-06,1,22.63634472,120.5021392,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_屏東市_22.64193_120.48857,2020-08-13,0,22.64192998,120.48857,0,"class=0; control_rank=2; control_for_event_on=2020-09-14; window=[2020-08-10,2020-08-23]; severity=0; paired_with_event_type=initial_onset"
+屏東縣_屏東市_22.64193_120.48857,2020-08-24,0,22.64192998,120.48857,0,class=0; control_rank=1; control_for_event_on=2020-09-14; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.64193_120.48857,2020-09-14,1,22.64192998,120.48857,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_屏東市_22.69225_120.4749,2020-08-13,0,22.69225001,120.4749,0,"class=0; control_rank=2; control_for_event_on=2020-09-14; window=[2020-08-10,2020-08-23]; severity=0; paired_with_event_type=initial_onset"
+屏東縣_屏東市_22.69225_120.4749,2020-08-24,0,22.69225001,120.4749,0,class=0; control_rank=1; control_for_event_on=2020-09-14; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.69225_120.4749,2020-09-14,1,22.69225001,120.4749,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_屏東市_22.69618_120.50169,2020-08-24,0,22.696177,120.501687,0,class=0; control_rank=1; control_for_event_on=2020-09-14; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_屏東市_22.69618_120.50169,2020-09-14,1,22.696177,120.501687,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_崁頂鄉_22.50095_120.49251,2018-08-01,0,22.50094927,120.4925073,0,"class=0; control_rank=2; control_for_event_on=2018-09-05; window=[2018-08-01,2018-08-14]; severity=0; paired_with_event_type=initial_onset"
+屏東縣_崁頂鄉_22.50095_120.49251,2018-08-16,0,22.50094927,120.4925073,0,class=0; control_rank=1; control_for_event_on=2018-09-05; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_崁頂鄉_22.50095_120.49251,2018-09-05,1,22.50094927,120.4925073,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_崁頂鄉_22.50439_120.49392,2018-08-30,0,22.50438552,120.4939236,0,"class=0; control_rank=2; control_for_event_on=2018-09-27; window=[2018-08-23,2018-09-05]; severity=0; paired_with_event_type=initial_onset"
+屏東縣_崁頂鄉_22.50439_120.49392,2018-09-12,0,22.50438552,120.4939236,0,class=0; control_rank=1; control_for_event_on=2018-09-27; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_崁頂鄉_22.50439_120.49392,2018-09-27,1,22.50438552,120.4939236,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_崁頂鄉_22.50756_120.49972,2018-07-26,0,22.50755547,120.4997244,0,class=0; control_rank=1; control_for_event_on=2018-08-01; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_崁頂鄉_22.50756_120.49972,2018-08-01,1,22.50755547,120.4997244,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_崁頂鄉_22.51136_120.49879,2018-07-26,0,22.51136366,120.4987873,0,class=0; control_rank=1; control_for_event_on=2018-08-16; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_崁頂鄉_22.51136_120.49879,2018-08-16,1,22.51136366,120.4987873,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_萬丹鄉_22.61074_120.48982,2018-08-16,0,22.61073949,120.4898197,0,class=0; control_rank=1; control_for_event_on=2018-09-05; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_萬丹鄉_22.61074_120.48982,2018-09-05,1,22.61073949,120.4898197,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.81504_120.58896,2018-09-28,1,22.81504102,120.5889609,5,class=1; simple_event_type=big_jump; severity=5; delta_severity_vs_prev15=5; has_zero_in_prev15=False
+屏東縣_高樹鄉_22.81513_120.59688,2023-08-08,0,22.81513,120.59688,0,class=0; control_rank=1; control_for_event_on=2023-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.81513_120.59688,2023-08-23,1,22.81513,120.59688,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.81553_120.59778,2022-08-15,0,22.81553,120.59778,0,class=0; control_rank=1; control_for_event_on=2022-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.81553_120.59778,2022-08-24,1,22.81553,120.59778,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.81713_120.59328,2018-09-13,1,22.81712918,120.59328,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+屏東縣_高樹鄉_22.82229_120.60577,2022-08-15,0,22.82229,120.60577,0,class=0; control_rank=1; control_for_event_on=2022-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.82229_120.60577,2022-08-24,1,22.82229,120.60577,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.82374_120.6109,2022-08-15,0,22.82374,120.6109,0,class=0; control_rank=1; control_for_event_on=2022-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.82374_120.6109,2022-08-24,1,22.82374,120.6109,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.82555_120.62412,2019-08-16,0,22.82555099,120.624124,0,class=0; control_rank=1; control_for_event_on=2019-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.82555_120.62412,2019-08-23,1,22.82555099,120.624124,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.82634_120.61821,2022-08-15,0,22.82634,120.61821,0,class=0; control_rank=1; control_for_event_on=2022-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.82634_120.61821,2022-08-24,1,22.82634,120.61821,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.82973_120.61226,2019-08-16,0,22.82973497,120.612259,0,class=0; control_rank=1; control_for_event_on=2019-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.82973_120.61226,2019-08-23,1,22.82973497,120.612259,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.82998_120.60569,2018-09-13,1,22.82997506,120.6056929,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+屏東縣_高樹鄉_22.83021_120.60574,2022-08-15,0,22.83021,120.60574,0,class=0; control_rank=1; control_for_event_on=2022-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.83021_120.60574,2022-08-24,1,22.83021,120.60574,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.83396_120.60739,2018-08-01,0,22.83396181,120.6073864,0,class=0; control_rank=1; control_for_event_on=2018-08-15; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.83396_120.60739,2018-08-15,1,22.83396181,120.6073864,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.83431_120.60752,2018-09-28,1,22.83430532,120.6075218,5,class=1; simple_event_type=big_jump; severity=5; delta_severity_vs_prev15=5; has_zero_in_prev15=False
+屏東縣_高樹鄉_22.834_120.6074,2020-08-13,0,22.83399996,120.6074,0,class=0; control_rank=1; control_for_event_on=2020-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.834_120.6074,2020-08-24,1,22.83399996,120.6074,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.8366_120.60883,2022-08-15,0,22.8366,120.60883,0,class=0; control_rank=1; control_for_event_on=2022-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.8366_120.60883,2022-08-24,1,22.8366,120.60883,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.83732_120.61525,2023-08-08,0,22.83732,120.61525,0,class=0; control_rank=1; control_for_event_on=2023-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.83732_120.61525,2023-08-23,1,22.83732,120.61525,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.83736_120.61804,2023-08-08,0,22.83736,120.61804,0,class=0; control_rank=1; control_for_event_on=2023-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.83736_120.61804,2023-08-23,1,22.83736,120.61804,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.83879_120.61601,2022-08-15,0,22.83879,120.61601,0,class=0; control_rank=1; control_for_event_on=2022-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.83879_120.61601,2022-08-24,1,22.83879,120.61601,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.83894_120.61604,2023-08-08,0,22.83894,120.61604,0,class=0; control_rank=1; control_for_event_on=2023-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.83894_120.61604,2023-08-23,1,22.83894,120.61604,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.83916_120.60956,2018-09-13,0,22.83915986,120.6095637,0,class=0; control_rank=1; control_for_event_on=2018-09-20; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.83916_120.60956,2018-09-20,1,22.83915986,120.6095637,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=0; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.8391_120.61046,2018-08-01,0,22.83909884,120.6104602,0,class=0; control_rank=1; control_for_event_on=2018-08-15; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.8391_120.61046,2018-08-15,1,22.83909884,120.6104602,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.8393_120.6186,2020-08-13,0,22.83929997,120.6186,0,class=0; control_rank=1; control_for_event_on=2020-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.8393_120.6186,2020-08-24,1,22.83929997,120.6186,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.83967_120.61884,2023-08-08,0,22.83967,120.61884,0,class=0; control_rank=1; control_for_event_on=2023-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.83967_120.61884,2023-08-23,1,22.83967,120.61884,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.839_120.6095,2020-08-13,0,22.83900004,120.6095,0,class=0; control_rank=1; control_for_event_on=2020-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.839_120.6095,2020-08-24,1,22.83900004,120.6095,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.84141_120.61759,2019-08-16,0,22.84141201,120.617589,0,class=0; control_rank=1; control_for_event_on=2019-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.84141_120.61759,2019-08-23,1,22.84141201,120.617589,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.84305_120.60691,2019-08-16,0,22.84305301,120.606913,0,class=0; control_rank=1; control_for_event_on=2019-08-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.84305_120.60691,2019-08-23,1,22.84305301,120.606913,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.843_120.62,2020-08-13,0,22.84299998,120.62,0,class=0; control_rank=1; control_for_event_on=2020-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.843_120.62,2020-08-24,1,22.84299998,120.62,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.84446_120.61883,2022-08-15,0,22.84446,120.61883,0,class=0; control_rank=1; control_for_event_on=2022-08-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.84446_120.61883,2022-08-24,1,22.84446,120.61883,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+屏東縣_高樹鄉_22.8444_120.6189,2021-08-13,1,22.84440001,120.6189,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+屏東縣_高樹鄉_22.84979_120.63132,2019-08-16,0,22.84979397,120.631315,0,class=0; control_rank=1; control_for_event_on=2019-09-03; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+屏東縣_高樹鄉_22.84979_120.63132,2019-09-03,1,22.84979397,120.631315,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_二水鄉_23.79852_120.62229,2018-08-28,0,23.79851896,120.622291,0,class=0; control_rank=1; control_for_event_on=2018-09-11; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_二水鄉_23.79852_120.62229,2018-09-11,1,23.79851896,120.622291,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_二水鄉_23.8031_120.67812,2018-08-28,0,23.80310203,120.678119,0,class=0; control_rank=1; control_for_event_on=2018-09-11; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_二水鄉_23.8031_120.67812,2018-09-11,1,23.80310203,120.678119,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_二水鄉_23.80385_120.66847,2018-08-28,0,23.80385301,120.66847,0,class=0; control_rank=1; control_for_event_on=2018-09-11; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_二水鄉_23.80385_120.66847,2018-09-11,1,23.80385301,120.66847,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_二水鄉_23.80456_120.61469,2018-08-28,0,23.80456296,120.614692,0,class=0; control_rank=1; control_for_event_on=2018-09-18; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_二水鄉_23.80456_120.61469,2018-09-18,1,23.80456296,120.614692,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_二水鄉_23.80504_120.67286,2018-08-28,0,23.80504102,120.672855,0,class=0; control_rank=1; control_for_event_on=2018-09-11; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_二水鄉_23.80504_120.67286,2018-09-11,1,23.80504102,120.672855,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_秀水鄉_24.00378_120.51402,2018-09-04,0,24.00377799,120.514015,0,class=0; control_rank=1; control_for_event_on=2018-09-25; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_秀水鄉_24.00378_120.51402,2018-09-25,1,24.00377799,120.514015,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_秀水鄉_24.02118_120.52413,2018-09-04,0,24.02118302,120.524133,0,"class=0; control_rank=2; control_for_event_on=2018-10-09; window=[2018-09-04,2018-09-17]; severity=0; paired_with_event_type=initial_onset"
+彰化縣_秀水鄉_24.02118_120.52413,2018-09-18,0,24.02118302,120.524133,0,class=0; control_rank=1; control_for_event_on=2018-10-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_秀水鄉_24.02118_120.52413,2018-10-09,1,24.02118302,120.524133,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_秀水鄉_24.03006_120.503,2018-09-04,0,24.03006201,120.503005,0,"class=0; control_rank=2; control_for_event_on=2018-10-09; window=[2018-09-04,2018-09-17]; severity=0; paired_with_event_type=initial_onset"
+彰化縣_秀水鄉_24.03006_120.503,2018-09-18,0,24.03006201,120.503005,0,class=0; control_rank=1; control_for_event_on=2018-10-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_秀水鄉_24.03006_120.503,2018-10-09,1,24.03006201,120.503005,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_秀水鄉_24.04541_120.49256,2018-09-04,0,24.04541297,120.49256,0,"class=0; control_rank=2; control_for_event_on=2018-10-02; window=[2018-08-28,2018-09-10]; severity=0; paired_with_event_type=initial_onset"
+彰化縣_秀水鄉_24.04541_120.49256,2018-09-11,0,24.04541297,120.49256,0,class=0; control_rank=1; control_for_event_on=2018-10-02; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_秀水鄉_24.04541_120.49256,2018-10-02,1,24.04541297,120.49256,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_秀水鄉_24.065_120.50099,2018-09-18,0,24.06499801,120.500991,0,class=0; control_rank=1; control_for_event_on=2018-10-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_秀水鄉_24.065_120.50099,2018-10-09,1,24.06499801,120.500991,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_鹿港鎮_24.05905_120.47828,2018-09-04,0,24.05904902,120.478282,0,"class=0; control_rank=2; control_for_event_on=2018-10-09; window=[2018-09-04,2018-09-17]; severity=0; paired_with_event_type=initial_onset"
+彰化縣_鹿港鎮_24.05905_120.47828,2018-09-18,0,24.05904902,120.478282,0,class=0; control_rank=1; control_for_event_on=2018-10-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_鹿港鎮_24.05905_120.47828,2018-10-09,1,24.05904902,120.478282,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_鹿港鎮_24.06849_120.47309,2018-09-11,0,24.06848901,120.473092,0,class=0; control_rank=1; control_for_event_on=2018-10-02; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_鹿港鎮_24.06849_120.47309,2018-10-02,1,24.06848901,120.473092,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_鹿港鎮_24.08395_120.45693,2018-09-04,0,24.08395398,120.456928,0,"class=0; control_rank=2; control_for_event_on=2018-10-02; window=[2018-08-28,2018-09-10]; severity=0; paired_with_event_type=initial_onset"
+彰化縣_鹿港鎮_24.08395_120.45693,2018-09-11,0,24.08395398,120.456928,0,class=0; control_rank=1; control_for_event_on=2018-10-02; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_鹿港鎮_24.08395_120.45693,2018-10-02,1,24.08395398,120.456928,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_鹿港鎮_24.09641_120.4651,2018-09-04,0,24.09641401,120.465098,0,"class=0; control_rank=2; control_for_event_on=2018-10-02; window=[2018-08-28,2018-09-10]; severity=0; paired_with_event_type=initial_onset"
+彰化縣_鹿港鎮_24.09641_120.4651,2018-09-11,0,24.09641401,120.465098,0,class=0; control_rank=1; control_for_event_on=2018-10-02; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_鹿港鎮_24.09641_120.4651,2018-10-02,1,24.09641401,120.465098,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+彰化縣_鹿港鎮_24.10419_120.44903,2018-09-18,0,24.10418902,120.449027,0,class=0; control_rank=1; control_for_event_on=2018-10-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+彰化縣_鹿港鎮_24.10419_120.44903,2018-10-09,1,24.10418902,120.449027,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"新竹縣_新埔鎮,竹北市,橫山鄉,新豐鄉,芎林鄉,北埔鄉,峨眉鄉_24.89158_120.97959",2023-09-06,0,24.891578,120.979594,0,class=0; control_rank=1; control_for_event_on=2023-09-18; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"新竹縣_新埔鎮,竹北市,橫山鄉,新豐鄉,芎林鄉,北埔鄉,峨眉鄉_24.89158_120.97959",2023-09-18,1,24.891578,120.979594,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_中壢區_24.98368_121.21048,2023-09-17,0,24.98368,121.21048,0,class=0; control_rank=1; control_for_event_on=2023-10-01; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_中壢區_24.98368_121.21048,2023-10-01,1,24.98368,121.21048,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_八德區_24.92733_121.27622,2019-09-19,0,24.92733004,121.27622,0,class=0; control_rank=1; control_for_event_on=2019-09-26; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_八德區_24.92733_121.27622,2019-09-26,1,24.92733004,121.27622,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_八德區_24.92762_121.27647,2023-09-17,0,24.92762,121.27647,0,class=0; control_rank=1; control_for_event_on=2023-10-01; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_八德區_24.92762_121.27647,2023-10-01,1,24.92762,121.27647,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_八德區_24.95885_121.26904,2023-09-17,0,24.95885,121.26904,0,class=0; control_rank=1; control_for_event_on=2023-10-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_八德區_24.95885_121.26904,2023-10-08,1,24.95885,121.26904,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_大園區_25.02057_121.22924,2019-08-20,0,25.02056998,121.22924,0,"class=0; control_rank=2; control_for_event_on=2019-09-17; window=[2019-08-13,2019-08-26]; severity=0; paired_with_event_type=initial_onset"
+桃園市_大園區_25.02057_121.22924,2019-08-27,0,25.02056998,121.22924,0,class=0; control_rank=1; control_for_event_on=2019-09-17; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_大園區_25.02057_121.22924,2019-09-17,1,25.02056998,121.22924,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_大園區_25.02519_121.23272,2021-10-12,0,25.02519005,121.23272,0,class=0; control_rank=1; control_for_event_on=2021-10-19; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_大園區_25.02519_121.23272,2021-10-19,1,25.02519005,121.23272,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"桃園市_大溪區,中壢區,楊梅區,大園區,八德區,龍潭區,新屋區,觀音區_24.93778_121.15212",2022-10-01,0,24.93778,121.15212,0,class=0; control_rank=1; control_for_event_on=2022-10-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"桃園市_大溪區,中壢區,楊梅區,大園區,八德區,龍潭區,新屋區,觀音區_24.93778_121.15212",2022-10-08,1,24.93778,121.15212,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"桃園市_大溪區,中壢區,楊梅區,大園區,八德區,龍潭區,新屋區,觀音區_24.99631_121.16037",2022-10-22,0,24.99631,121.16037,0,class=0; control_rank=1; control_for_event_on=2022-11-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"桃園市_大溪區,中壢區,楊梅區,大園區,八德區,龍潭區,新屋區,觀音區_24.99631_121.16037",2022-11-08,1,24.99631,121.16037,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"桃園市_大溪區,中壢區,楊梅區,大園區,八德區,龍潭區,新屋區,觀音區_25.02644_121.23384",2022-09-22,0,25.02644,121.23384,0,class=0; control_rank=1; control_for_event_on=2022-10-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"桃園市_大溪區,中壢區,楊梅區,大園區,八德區,龍潭區,新屋區,觀音區_25.02644_121.23384",2022-10-08,1,25.02644,121.23384,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_大溪區_24.88759_121.28762,2021-09-29,0,24.88759002,121.28762,0,class=0; control_rank=1; control_for_event_on=2021-10-06; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_大溪區_24.88759_121.28762,2021-10-06,1,24.88759002,121.28762,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_大溪區_24.88911_121.29171,2023-09-17,0,24.88911,121.29171,0,class=0; control_rank=1; control_for_event_on=2023-10-01; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_大溪區_24.88911_121.29171,2023-10-01,1,24.88911,121.29171,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_大溪區_24.8891_121.29197,2019-09-26,0,24.88909998,121.29197,0,class=0; control_rank=1; control_for_event_on=2019-10-10; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_大溪區_24.8891_121.29197,2019-10-10,1,24.88909998,121.29197,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_大溪區_24.90525_121.29458,2023-10-01,0,24.90525,121.29458,0,class=0; control_rank=1; control_for_event_on=2023-10-15; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_大溪區_24.90525_121.29458,2023-10-15,1,24.90525,121.29458,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_新屋區_24.94891_121.1062,2023-09-24,0,24.94891,121.1062,0,class=0; control_rank=1; control_for_event_on=2023-10-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_新屋區_24.94891_121.1062,2023-10-08,1,24.94891,121.1062,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_新屋區_24.95245_121.01993,2023-09-10,0,24.95245,121.01993,0,class=0; control_rank=1; control_for_event_on=2023-10-01; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_新屋區_24.95245_121.01993,2023-10-01,1,24.95245,121.01993,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_新屋區_24.96143_121.09664,2019-09-17,0,24.96142996,121.09664,0,class=0; control_rank=1; control_for_event_on=2019-10-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_新屋區_24.96143_121.09664,2019-10-08,1,24.96142996,121.09664,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_楊梅區_24.93778_121.15212,2021-10-12,0,24.93777999,121.15212,0,class=0; control_rank=1; control_for_event_on=2021-10-19; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_楊梅區_24.93778_121.15212,2021-10-19,1,24.93777999,121.15212,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_楊梅區_24.94414_121.13243,2021-10-05,0,24.94414,121.13243,0,class=0; control_rank=1; control_for_event_on=2021-10-12; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_楊梅區_24.94414_121.13243,2021-10-12,1,24.94414,121.13243,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_蘆竹區_25.01635_121.25137,2021-09-28,0,25.01635004,121.25137,0,class=0; control_rank=1; control_for_event_on=2021-10-19; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_蘆竹區_25.01635_121.25137,2021-10-19,1,25.01635004,121.25137,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_觀音區_24.99588_121.15909,2021-09-28,0,24.99588004,121.15909,0,class=0; control_rank=1; control_for_event_on=2021-10-12; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_觀音區_24.99588_121.15909,2021-10-12,1,24.99588004,121.15909,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_觀音區_24.99631_121.16037,2023-09-24,0,24.99631,121.16037,0,class=0; control_rank=1; control_for_event_on=2023-10-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_觀音區_24.99631_121.16037,2023-10-08,1,24.99631,121.16037,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_觀音區_25.00871_121.11023,2019-09-10,0,25.00870996,121.11023,0,class=0; control_rank=1; control_for_event_on=2019-09-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_觀音區_25.00871_121.11023,2019-09-24,1,25.00870996,121.11023,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_觀音區_25.01222_121.15188,2023-09-24,0,25.01222,121.15188,0,class=0; control_rank=1; control_for_event_on=2023-10-15; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_觀音區_25.01222_121.15188,2023-10-15,1,25.01222,121.15188,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_觀音區_25.01565_121.05888,2019-09-10,0,25.01565001,121.05888,0,class=0; control_rank=1; control_for_event_on=2019-09-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_觀音區_25.01565_121.05888,2019-09-24,1,25.01565001,121.05888,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_觀音區_25.02126_121.06611,2021-10-05,0,25.02125999,121.06611,0,class=0; control_rank=1; control_for_event_on=2021-10-19; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_觀音區_25.02126_121.06611,2021-10-19,1,25.02125999,121.06611,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_龍潭區_24.88506_121.22199,2023-10-01,0,24.88506,121.22199,0,class=0; control_rank=1; control_for_event_on=2023-10-15; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_龍潭區_24.88506_121.22199,2023-10-15,1,24.88506,121.22199,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_龍潭區_24.88555_121.23128,2021-09-24,0,24.88555002,121.23128,0,class=0; control_rank=1; control_for_event_on=2021-10-13; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_龍潭區_24.88555_121.23128,2021-10-13,1,24.88555002,121.23128,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_龜山區_25.01549_121.33988,2023-09-24,0,25.01549,121.33988,0,class=0; control_rank=1; control_for_event_on=2023-10-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_龜山區_25.01549_121.33988,2023-10-08,1,25.01549,121.33988,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_龜山區_25.01999_121.34256,2021-10-06,0,25.01999003,121.34256,0,class=0; control_rank=1; control_for_event_on=2021-10-12; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_龜山區_25.01999_121.34256,2021-10-12,1,25.01999003,121.34256,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_龜山區_25.02042_121.34272,2019-09-12,0,25.02042004,121.34272,0,class=0; control_rank=1; control_for_event_on=2019-09-26; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_龜山區_25.02042_121.34272,2019-09-26,1,25.02042004,121.34272,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+桃園市_龜山區_25.02714_121.33429,2019-09-12,0,25.02713504,121.33429,0,class=0; control_rank=1; control_for_event_on=2019-09-26; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+桃園市_龜山區_25.02714_121.33429,2019-09-26,1,25.02713504,121.33429,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_后里區_24.28966_120.71656,2019-10-04,0,24.28966104,120.716563,0,class=0; control_rank=1; control_for_event_on=2019-10-18; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_后里區_24.28966_120.71656,2019-10-18,1,24.28966104,120.716563,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_后里區_24.29454_120.67752,2019-09-09,0,24.294544,120.677525,0,"class=0; control_rank=2; control_for_event_on=2019-10-04; window=[2019-08-30,2019-09-12]; severity=0; paired_with_event_type=initial_onset"
+臺中市_后里區_24.29454_120.67752,2019-09-16,0,24.294544,120.677525,0,class=0; control_rank=1; control_for_event_on=2019-10-04; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_后里區_24.29454_120.67752,2019-10-04,1,24.294544,120.677525,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_后里區_24.33019_120.74171,2019-09-02,0,24.33019104,120.74171,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_后里區_24.33019_120.74171,2019-09-23,1,24.33019104,120.74171,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_外埔區_24.31953_120.65676,2019-08-27,0,24.31952702,120.656761,0,"class=0; control_rank=2; control_for_event_on=2019-09-23; window=[2019-08-19,2019-09-01]; severity=0; paired_with_event_type=initial_onset"
+臺中市_外埔區_24.31953_120.65676,2019-09-02,0,24.31952702,120.656761,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_外埔區_24.31953_120.65676,2019-09-23,1,24.31952702,120.656761,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_外埔區_24.33922_120.65655,2019-09-16,0,24.33921598,120.656549,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_外埔區_24.33922_120.65655,2019-09-23,1,24.33921598,120.656549,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_外埔區_24.34966_120.68982,2019-09-09,0,24.34966098,120.689823,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_外埔區_24.34966_120.68982,2019-09-23,1,24.34966098,120.689823,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_外埔區_24.34982_120.68975,2022-09-13,0,24.349821,120.68975,0,class=0; control_rank=1; control_for_event_on=2022-09-20; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_外埔區_24.34982_120.68975,2022-09-20,1,24.349821,120.68975,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大安區_24.35697_120.58417,2019-08-12,0,24.356972,120.584167,0,"class=0; control_rank=2; control_for_event_on=2019-09-16; window=[2019-08-12,2019-08-25]; severity=0; paired_with_event_type=initial_onset"
+臺中市_大安區_24.35697_120.58417,2019-09-02,0,24.356972,120.584167,0,class=0; control_rank=1; control_for_event_on=2019-09-16; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大安區_24.35697_120.58417,2019-09-16,1,24.356972,120.584167,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大安區_24.37619_120.59076,2019-09-20,0,24.37618601,120.590756,0,class=0; control_rank=1; control_for_event_on=2019-10-04; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+臺中市_大安區_24.37619_120.59076,2019-10-04,1,24.37618601,120.590756,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+臺中市_大甲區_24.33233_120.61364,2019-08-26,0,24.33233097,120.613636,0,class=0; control_rank=1; control_for_event_on=2019-09-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大甲區_24.33233_120.61364,2019-09-09,1,24.33233097,120.613636,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大甲區_24.34967_120.63761,2023-09-02,0,24.349667,120.637608,0,class=0; control_rank=1; control_for_event_on=2023-09-16; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大甲區_24.34967_120.63761,2023-09-16,1,24.349667,120.637608,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大甲區_24.364_120.63575,2019-09-16,0,24.36400104,120.635751,0,class=0; control_rank=1; control_for_event_on=2019-10-04; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+臺中市_大甲區_24.364_120.63575,2019-10-04,1,24.36400104,120.635751,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+臺中市_大甲區_24.38357_120.66552,2019-09-16,0,24.38357099,120.665515,0,class=0; control_rank=1; control_for_event_on=2019-09-20; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大甲區_24.38357_120.66552,2019-09-20,1,24.38357099,120.665515,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大甲區_24.41533_120.6175,2019-09-02,0,24.41533102,120.617502,0,class=0; control_rank=1; control_for_event_on=2019-09-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大甲區_24.41533_120.6175,2019-09-08,1,24.41533102,120.617502,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大肚區_24.11436_120.57089,2019-09-02,0,24.11436399,120.570892,0,"class=0; control_rank=2; control_for_event_on=2019-10-06; window=[2019-09-01,2019-09-14]; severity=0; paired_with_event_type=initial_onset"
+臺中市_大肚區_24.11436_120.57089,2019-09-16,0,24.11436399,120.570892,0,class=0; control_rank=1; control_for_event_on=2019-10-06; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大肚區_24.11436_120.57089,2019-10-06,1,24.11436399,120.570892,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大肚區_24.12663_120.54494,2019-09-09,0,24.12662599,120.544935,0,"class=0; control_rank=2; control_for_event_on=2019-10-06; window=[2019-09-01,2019-09-14]; severity=0; paired_with_event_type=initial_onset"
+臺中市_大肚區_24.12663_120.54494,2019-09-16,0,24.12662599,120.544935,0,class=0; control_rank=1; control_for_event_on=2019-10-06; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大肚區_24.12663_120.54494,2019-10-06,1,24.12662599,120.544935,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大肚區_24.14521_120.53924,2019-09-16,0,24.14521099,120.539235,0,class=0; control_rank=1; control_for_event_on=2019-10-06; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大肚區_24.14521_120.53924,2019-10-06,1,24.14521099,120.539235,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大里區_24.08754_120.66167,2019-09-09,0,24.08754201,120.661666,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大里區_24.08754_120.66167,2019-09-23,1,24.08754201,120.661666,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大雅區_24.21187_120.63482,2019-08-19,0,24.21187402,120.634824,0,"class=0; control_rank=2; control_for_event_on=2019-09-23; window=[2019-08-19,2019-09-01]; severity=0; paired_with_event_type=initial_onset"
+臺中市_大雅區_24.21187_120.63482,2019-09-02,0,24.21187402,120.634824,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大雅區_24.21187_120.63482,2019-09-23,1,24.21187402,120.634824,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大雅區_24.2154_120.6617,2019-11-03,0,24.21539898,120.661705,0,class=0; control_rank=1; control_for_event_on=2019-11-10; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大雅區_24.2154_120.6617,2019-11-10,1,24.21539898,120.661705,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_大雅區_24.21866_120.63076,2022-08-20,0,24.21866,120.630756,0,class=0; control_rank=1; control_for_event_on=2022-09-06; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_大雅區_24.21866_120.63076,2022-09-06,1,24.21866,120.630756,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_梧棲區_24.22996_120.52816,2019-09-16,0,24.22995801,120.528159,0,class=0; control_rank=1; control_for_event_on=2019-09-20; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_梧棲區_24.22996_120.52816,2019-09-20,1,24.22995801,120.528159,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_梧棲區_24.22999_120.52818,2021-08-14,0,24.22999202,120.528181,0,class=0; control_rank=1; control_for_event_on=2021-09-04; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_梧棲區_24.22999_120.52818,2021-09-04,1,24.22999202,120.528181,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_梧棲區_24.24593_120.52802,2019-08-12,0,24.245934,120.528015,0,"class=0; control_rank=2; control_for_event_on=2019-09-08; window=[2019-08-04,2019-08-17]; severity=0; paired_with_event_type=initial_onset"
+臺中市_梧棲區_24.24593_120.52802,2019-09-02,0,24.245934,120.528015,0,class=0; control_rank=1; control_for_event_on=2019-09-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_梧棲區_24.24593_120.52802,2019-09-08,1,24.245934,120.528015,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_沙鹿區_24.2198_120.54861,2019-09-02,0,24.21979697,120.54861,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_沙鹿區_24.2198_120.54861,2019-09-23,1,24.21979697,120.54861,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_沙鹿區_24.24992_120.55803,2019-09-09,0,24.24991902,120.558029,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_沙鹿區_24.24992_120.55803,2019-09-23,1,24.24991902,120.558029,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_清水區_24.27524_120.54689,2019-08-12,0,24.27524497,120.546891,0,"class=0; control_rank=2; control_for_event_on=2019-09-08; window=[2019-08-04,2019-08-17]; severity=0; paired_with_event_type=initial_onset"
+臺中市_清水區_24.27524_120.54689,2019-09-02,0,24.27524497,120.546891,0,class=0; control_rank=1; control_for_event_on=2019-09-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_清水區_24.27524_120.54689,2019-09-08,1,24.27524497,120.546891,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_清水區_24.29182_120.57529,2021-08-14,0,24.29181704,120.575292,0,class=0; control_rank=1; control_for_event_on=2021-08-28; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_清水區_24.29182_120.57529,2021-08-28,1,24.29181704,120.575292,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_清水區_24.29186_120.57528,2019-08-26,0,24.29185999,120.575282,0,class=0; control_rank=1; control_for_event_on=2019-09-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_清水區_24.29186_120.57528,2019-09-09,1,24.29185999,120.575282,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_清水區_24.3096_120.59498,2023-09-02,0,24.309604,120.594979,0,class=0; control_rank=1; control_for_event_on=2023-09-16; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_清水區_24.3096_120.59498,2023-09-16,1,24.309604,120.594979,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_清水區_24.31728_120.56417,2019-09-02,0,24.317275,120.564174,0,class=0; control_rank=1; control_for_event_on=2019-09-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_清水區_24.31728_120.56417,2019-09-08,1,24.317275,120.564174,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_潭子區_24.20578_120.69912,2019-09-16,0,24.20577799,120.699117,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_潭子區_24.20578_120.69912,2019-09-23,1,24.20577799,120.699117,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_烏日區_24.06938_120.63173,2019-08-26,0,24.06938297,120.631731,0,"class=0; control_rank=2; control_for_event_on=2019-09-23; window=[2019-08-19,2019-09-01]; severity=0; paired_with_event_type=initial_onset"
+臺中市_烏日區_24.06938_120.63173,2019-09-02,0,24.06938297,120.631731,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_烏日區_24.06938_120.63173,2019-09-23,1,24.06938297,120.631731,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_烏日區_24.08731_120.64044,2019-08-12,0,24.08731,120.640436,0,"class=0; control_rank=2; control_for_event_on=2019-09-09; window=[2019-08-05,2019-08-18]; severity=0; paired_with_event_type=initial_onset"
+臺中市_烏日區_24.08731_120.64044,2019-08-26,0,24.08731,120.640436,0,class=0; control_rank=1; control_for_event_on=2019-09-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_烏日區_24.08731_120.64044,2019-09-09,1,24.08731,120.640436,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_烏日區_24.08739_120.64048,2023-08-26,0,24.087388,120.64048,0,class=0; control_rank=1; control_for_event_on=2023-09-16; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_烏日區_24.08739_120.64048,2023-09-16,1,24.087388,120.64048,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_烏日區_24.11473_120.60882,2019-09-09,0,24.11472703,120.608823,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_烏日區_24.11473_120.60882,2019-09-23,1,24.11472703,120.608823,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_神岡區_24.26755_120.68688,2019-10-04,0,24.26754698,120.686883,0,class=0; control_rank=1; control_for_event_on=2019-10-18; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_神岡區_24.26755_120.68688,2019-10-18,1,24.26754698,120.686883,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_西屯區_24.18898_120.63064,2019-09-09,0,24.18898399,120.630641,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_西屯區_24.18898_120.63064,2019-09-23,1,24.18898399,120.630641,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_龍井區_24.17777_120.54362,2019-08-26,0,24.17777001,120.543624,0,class=0; control_rank=1; control_for_event_on=2019-09-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_龍井區_24.17777_120.54362,2019-09-09,1,24.17777001,120.543624,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_龍井區_24.18614_120.52118,2019-09-16,0,24.18613704,120.521185,0,class=0; control_rank=1; control_for_event_on=2019-10-04; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_龍井區_24.18614_120.52118,2019-10-04,1,24.18613704,120.521185,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_龍井區_24.19687_120.53695,2019-08-26,0,24.19686797,120.536953,0,"class=0; control_rank=2; control_for_event_on=2019-09-23; window=[2019-08-19,2019-09-01]; severity=0; paired_with_event_type=initial_onset"
+臺中市_龍井區_24.19687_120.53695,2019-09-02,0,24.19686797,120.536953,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_龍井區_24.19687_120.53695,2019-09-23,1,24.19686797,120.536953,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_龍井區_24.20243_120.51817,2023-09-02,0,24.202431,120.518173,0,class=0; control_rank=1; control_for_event_on=2023-09-16; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_龍井區_24.20243_120.51817,2023-09-16,1,24.202431,120.518173,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺中市_龍井區_24.21634_120.50561,2019-09-20,0,24.21634499,120.505614,0,class=0; control_rank=1; control_for_event_on=2019-10-04; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺中市_龍井區_24.21634_120.50561,2019-10-04,1,24.21634499,120.505614,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺南市_下營區_23.2065_120.2813,2019-10-09,1,23.206505,120.281305,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_下營區_23.21007_120.28002,2019-09-27,1,23.21007335,120.2800183,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_六甲區_23.23148_120.32884,2019-09-30,1,23.23148168,120.3288383,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_六甲區_23.24479_120.34675,2018-10-18,1,23.24478835,120.3467483,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_六甲區_23.24691_120.32942,2019-09-30,1,23.24690502,120.3294217,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+臺南市_後壁區_23.34044_120.35663,2019-10-07,1,23.34043502,120.3566267,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_後壁區_23.34897_120.33984,2018-10-16,1,23.34896502,120.3398433,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_後壁區_23.3506_120.33397,2019-10-07,1,23.35060002,120.3339717,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+臺南市_後壁區_23.35664_120.37023,2018-10-30,0,23.35663835,120.37023,0,class=0; control_rank=1; control_for_event_on=2018-11-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺南市_後壁區_23.35664_120.37023,2018-11-08,1,23.35663835,120.37023,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺南市_後壁區_23.35965_120.30869,2019-10-07,1,23.35965335,120.3086867,4,class=1; simple_event_type=big_jump; severity=4; delta_severity_vs_prev15=4; has_zero_in_prev15=False
+臺南市_後壁區_23.37206_120.31954,2019-10-17,1,23.372057,120.319537,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_東山區_23.30135_120.38579,2018-10-29,1,23.30134668,120.3857883,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_柳營區_23.26426_120.31995,2019-09-27,1,23.26425502,120.3199483,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺南市_柳營區_23.28268_120.32965,2018-10-18,0,23.28268168,120.3296467,0,"class=0; control_rank=2; control_for_event_on=2018-11-19; window=[2018-10-15,2018-10-28]; severity=0; paired_with_event_type=initial_onset"
+臺南市_柳營區_23.28268_120.32965,2018-10-29,0,23.28268168,120.3296467,0,class=0; control_rank=1; control_for_event_on=2018-11-19; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺南市_柳營區_23.28268_120.32965,2018-11-19,1,23.28268168,120.3296467,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺東縣_臺東市_22.7428_121.1313,2018-10-02,1,22.74280001,121.1313,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+臺東縣_臺東市_22.7772_121.1702,2018-10-02,1,22.77719998,121.1702,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+"臺東縣_關山鎮,鹿野鄉,池上鄉_22.97138_121.17171",2023-09-12,0,22.971377,121.171707,0,class=0; control_rank=1; control_for_event_on=2023-09-20; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"臺東縣_關山鎮,鹿野鄉,池上鄉_22.97138_121.17171",2023-09-20,1,22.971377,121.171707,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺東縣_關山鎮_23.01769_121.1498,2019-09-24,0,23.01769198,121.149802,0,class=0; control_rank=1; control_for_event_on=2019-10-01; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺東縣_關山鎮_23.01769_121.1498,2019-10-01,1,23.01769198,121.149802,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺東縣_鹿野鄉_22.89286_121.11684,2020-10-05,0,22.89286196,121.116843,0,class=0; control_rank=1; control_for_event_on=2020-10-26; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺東縣_鹿野鄉_22.89286_121.11684,2020-10-26,1,22.89286196,121.116843,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺東縣_鹿野鄉_22.9109_121.1635,2018-10-02,1,22.91089998,121.1635,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+臺東縣_鹿野鄉_22.91766_121.14426,2019-09-24,0,22.91766301,121.144258,0,class=0; control_rank=1; control_for_event_on=2019-10-01; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺東縣_鹿野鄉_22.91766_121.14426,2019-10-01,1,22.91766301,121.144258,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺東縣_鹿野鄉_22.9492_121.1515,2018-10-02,1,22.94920001,121.1515,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+臺東縣_鹿野鄉_22.96157_121.12,2019-09-24,0,22.96157104,121.12,0,class=0; control_rank=1; control_for_event_on=2019-10-08; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺東縣_鹿野鄉_22.96157_121.12,2019-10-08,1,22.96157104,121.12,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺東縣_鹿野鄉_22.96979_121.17481,2019-10-08,0,22.96978603,121.17481,0,class=0; control_rank=1; control_for_event_on=2019-10-22; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺東縣_鹿野鄉_22.96979_121.17481,2019-10-22,1,22.96978603,121.17481,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+臺東縣_鹿野鄉_22.98631_121.16343,2020-09-15,0,22.98630997,121.163428,0,class=0; control_rank=1; control_for_event_on=2020-10-05; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+臺東縣_鹿野鄉_22.98631_121.16343,2020-10-05,1,22.98630997,121.163428,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+花蓮縣_富里鄉_23.21876_121.28219,2018-11-16,1,23.21876203,121.282187,4,class=1; simple_event_type=big_jump; severity=4; delta_severity_vs_prev15=4; has_zero_in_prev15=False
+花蓮縣_富里鄉_23.26647_121.2964,2018-10-04,0,23.26646998,121.296404,0,class=0; control_rank=1; control_for_event_on=2018-10-18; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+花蓮縣_富里鄉_23.26647_121.2964,2018-10-18,1,23.26646998,121.296404,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+花蓮縣_玉里鎮_23.27361_121.28546,2018-10-04,1,23.27360698,121.285465,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+花蓮縣_玉里鎮_23.37319_121.32854,2018-10-04,0,23.37318696,121.328536,0,class=0; control_rank=1; control_for_event_on=2018-10-18; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+花蓮縣_玉里鎮_23.37319_121.32854,2018-10-18,1,23.37318696,121.328536,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.41296_120.68488",2022-09-14,0,24.412964,120.68488,0,class=0; control_rank=1; control_for_event_on=2022-09-27; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.41296_120.68488",2022-09-27,1,24.412964,120.68488,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.42751_120.67021",2022-09-27,1,24.427514,120.67021,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.428_120.67049",2022-09-14,0,24.428005,120.67049,0,class=0; control_rank=1; control_for_event_on=2022-09-27; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.428_120.67049",2022-09-27,1,24.428005,120.67049,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.49708_120.7141",2022-09-14,0,24.49708,120.7141,0,class=0; control_rank=1; control_for_event_on=2022-09-20; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.49708_120.7141",2022-09-20,1,24.49708,120.7141,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.50647_120.72521",2022-09-14,1,24.50647,120.72521,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.50772_120.72521",2022-10-24,0,24.50772,120.72521,0,class=0; control_rank=1; control_for_event_on=2022-11-03; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.50772_120.72521",2022-11-03,1,24.50772,120.72521,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.6579_120.879",2022-09-20,0,24.6579,120.879,0,class=0; control_rank=1; control_for_event_on=2022-10-03; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.6579_120.879",2022-10-03,1,24.6579,120.879,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.67374_120.90971",2022-10-03,0,24.673744,120.909708,0,class=0; control_rank=1; control_for_event_on=2022-10-18; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.67374_120.90971",2022-10-18,1,24.673744,120.909708,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.67408_120.90654",2022-09-27,0,24.674076,120.906543,0,class=0; control_rank=1; control_for_event_on=2022-10-18; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.67408_120.90654",2022-10-18,1,24.674076,120.906543,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+"苗栗縣_苑裡鎮,通霄鎮,頭份市_24.67816_120.92022",2022-09-14,1,24.678162,120.920221,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+苗栗縣_苑裡鎮_24.37624_120.6995,2020-09-23,0,24.37623503,120.699495,0,class=0; control_rank=1; control_for_event_on=2020-09-28; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_苑裡鎮_24.37624_120.6995,2020-09-28,1,24.37623503,120.699495,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_苑裡鎮_24.41295_120.68495,2019-09-06,0,24.41294603,120.684954,0,class=0; control_rank=1; control_for_event_on=2019-09-27; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+苗栗縣_苑裡鎮_24.41295_120.68495,2019-09-27,1,24.41294603,120.684954,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+苗栗縣_西湖鄉_24.52496_120.76513,2023-09-27,0,24.524965,120.765131,0,"class=0; control_rank=2; control_for_event_on=2023-10-24; window=[2023-09-19,2023-10-02]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_西湖鄉_24.52496_120.76513,2023-10-03,0,24.524965,120.765131,0,class=0; control_rank=1; control_for_event_on=2023-10-24; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_西湖鄉_24.52496_120.76513,2023-10-24,1,24.524965,120.765131,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_西湖鄉_24.52503_120.77187,2023-08-29,0,24.52503,120.77187,0,"class=0; control_rank=2; control_for_event_on=2023-10-03; window=[2023-08-29,2023-09-11]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_西湖鄉_24.52503_120.77187,2023-09-12,0,24.52503,120.77187,0,class=0; control_rank=1; control_for_event_on=2023-10-03; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_西湖鄉_24.52503_120.77187,2023-10-03,1,24.52503,120.77187,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_西湖鄉_24.54922_120.76469,2023-09-12,0,24.549221,120.764693,0,class=0; control_rank=1; control_for_event_on=2023-10-03; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_西湖鄉_24.54922_120.76469,2023-10-03,1,24.549221,120.764693,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_西湖鄉_24.55418_120.7601,2023-09-19,0,24.554178,120.760102,0,"class=0; control_rank=2; control_for_event_on=2023-10-24; window=[2023-09-19,2023-10-02]; severity=0; paired_with_event_type=onset_and_jump"
+苗栗縣_西湖鄉_24.55418_120.7601,2023-10-03,0,24.554178,120.760102,0,class=0; control_rank=1; control_for_event_on=2023-10-24; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+苗栗縣_西湖鄉_24.55418_120.7601,2023-10-24,1,24.554178,120.760102,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+苗栗縣_西湖鄉_24.55451_120.75019,2023-09-12,0,24.554508,120.750192,0,class=0; control_rank=1; control_for_event_on=2023-10-03; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_西湖鄉_24.55451_120.75019,2023-10-03,1,24.554508,120.750192,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_造橋鄉_24.60798_120.84031,2023-10-11,0,24.60798,120.840306,0,class=0; control_rank=1; control_for_event_on=2023-10-31; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_造橋鄉_24.60798_120.84031,2023-10-31,1,24.60798,120.840306,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_造橋鄉_24.61032_120.83987,2023-10-11,0,24.610315,120.839871,0,"class=0; control_rank=2; control_for_event_on=2023-11-14; window=[2023-10-10,2023-10-23]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_造橋鄉_24.61032_120.83987,2023-10-24,0,24.610315,120.839871,0,class=0; control_rank=1; control_for_event_on=2023-11-14; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_造橋鄉_24.61032_120.83987,2023-11-14,1,24.610315,120.839871,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_造橋鄉_24.65556_120.83633,2023-10-11,0,24.655563,120.836326,0,class=0; control_rank=1; control_for_event_on=2023-10-31; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_造橋鄉_24.65556_120.83633,2023-10-31,1,24.655563,120.836326,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_造橋鄉_24.65612_120.83633,2023-08-29,0,24.656119,120.836326,0,"class=0; control_rank=2; control_for_event_on=2023-10-03; window=[2023-08-29,2023-09-11]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_造橋鄉_24.65612_120.83633,2023-09-12,0,24.656119,120.836326,0,class=0; control_rank=1; control_for_event_on=2023-10-03; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_造橋鄉_24.65612_120.83633,2023-10-03,1,24.656119,120.836326,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_造橋鄉_24.6564_120.85555,2023-10-11,0,24.656405,120.855549,0,class=0; control_rank=1; control_for_event_on=2023-10-31; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_造橋鄉_24.6564_120.85555,2023-10-31,1,24.656405,120.855549,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_頭份市_24.6567_120.87724,2019-08-20,0,24.65669998,120.87724,0,"class=0; control_rank=2; control_for_event_on=2019-09-23; window=[2019-08-19,2019-09-01]; severity=0; paired_with_event_type=onset_and_jump"
+苗栗縣_頭份市_24.6567_120.87724,2019-09-04,0,24.65669998,120.87724,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+苗栗縣_頭份市_24.6567_120.87724,2019-09-23,1,24.65669998,120.87724,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+苗栗縣_頭份市_24.65738_120.87989,2021-10-12,0,24.65738,120.87989,0,class=0; control_rank=1; control_for_event_on=2021-10-26; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+苗栗縣_頭份市_24.65738_120.87989,2021-10-26,1,24.65738,120.87989,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+苗栗縣_頭份市_24.65781_120.87895,2023-10-03,0,24.657809,120.878951,0,"class=0; control_rank=2; control_for_event_on=2023-11-07; window=[2023-10-03,2023-10-16]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_頭份市_24.65781_120.87895,2023-10-17,0,24.657809,120.878951,0,class=0; control_rank=1; control_for_event_on=2023-11-07; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_頭份市_24.65781_120.87895,2023-11-07,1,24.657809,120.878951,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_頭份市_24.6579_120.879,2021-10-12,0,24.65789998,120.879,0,class=0; control_rank=1; control_for_event_on=2021-10-26; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+苗栗縣_頭份市_24.6579_120.879,2021-10-26,1,24.65789998,120.879,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+苗栗縣_頭份市_24.67708_120.93601,2021-10-04,0,24.67707996,120.93601,0,"class=0; control_rank=2; control_for_event_on=2021-10-26; window=[2021-09-21,2021-10-04]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_頭份市_24.67708_120.93601,2021-10-12,0,24.67707996,120.93601,0,class=0; control_rank=1; control_for_event_on=2021-10-26; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_頭份市_24.67708_120.93601,2021-10-26,1,24.67707996,120.93601,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_頭份市_24.6787_120.935,2019-09-04,0,24.67870001,120.935,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+苗栗縣_頭份市_24.6787_120.935,2019-09-23,1,24.67870001,120.935,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+苗栗縣_頭份市_24.6788_120.93447,2021-10-04,0,24.6788,120.93447,0,"class=0; control_rank=2; control_for_event_on=2021-10-26; window=[2021-09-21,2021-10-04]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_頭份市_24.6788_120.93447,2021-10-12,0,24.6788,120.93447,0,class=0; control_rank=1; control_for_event_on=2021-10-26; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_頭份市_24.6788_120.93447,2021-10-26,1,24.6788,120.93447,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_頭份市_24.6789_120.92116,2023-08-29,0,24.678905,120.921162,0,"class=0; control_rank=2; control_for_event_on=2023-10-03; window=[2023-08-29,2023-09-11]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_頭份市_24.6789_120.92116,2023-09-13,0,24.678905,120.921162,0,class=0; control_rank=1; control_for_event_on=2023-10-03; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_頭份市_24.6789_120.92116,2023-10-03,1,24.678905,120.921162,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_頭份市_24.67946_120.9354,2023-10-03,0,24.679465,120.935396,0,class=0; control_rank=1; control_for_event_on=2023-10-11; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_頭份市_24.67946_120.9354,2023-10-11,1,24.679465,120.935396,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_頭份市_24.68298_120.93202,2023-10-11,0,24.682977,120.932025,0,"class=0; control_rank=2; control_for_event_on=2023-11-07; window=[2023-10-03,2023-10-16]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_頭份市_24.68298_120.93202,2023-10-17,0,24.682977,120.932025,0,class=0; control_rank=1; control_for_event_on=2023-11-07; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_頭份市_24.68298_120.93202,2023-11-07,1,24.682977,120.932025,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_頭份市_24.69466_120.92353,2023-09-12,0,24.694661,120.923529,0,class=0; control_rank=1; control_for_event_on=2023-10-03; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+苗栗縣_頭份市_24.69466_120.92353,2023-10-03,1,24.694661,120.923529,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+苗栗縣_頭份市_24.69517_120.92639,2021-10-12,0,24.69517,120.92639,0,"class=0; control_rank=2; control_for_event_on=2021-11-09; window=[2021-10-05,2021-10-18]; severity=0; paired_with_event_type=initial_onset"
+苗栗縣_頭份市_24.69517_120.92639,2021-10-19,0,24.69517,120.92639,0,class=0; control_rank=1; control_for_event_on=2021-11-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+苗栗縣_頭份市_24.69517_120.92639,2021-11-09,1,24.69517,120.92639,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+苗栗縣_頭份市_24.6952_120.9261,2019-09-04,0,24.69520001,120.9261,0,class=0; control_rank=1; control_for_event_on=2019-09-23; within_21d_before_event; severity=0; paired_with_event_type=onset_and_jump
+苗栗縣_頭份市_24.6952_120.9261,2019-09-23,1,24.69520001,120.9261,2,class=1; simple_event_type=onset_and_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=True
+雲林縣_大埤鄉_23.64311_120.40011,2019-11-06,1,23.64310668,120.4001117,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+雲林縣_大埤鄉_23.65206_120.46248,2018-11-20,1,23.65206002,120.462475,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+雲林縣_大埤鄉_23.65571_120.4347,2019-11-06,1,23.65570668,120.434705,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+雲林縣_大埤鄉_23.66214_120.41485,2019-11-06,1,23.66213668,120.4148533,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+雲林縣_斗六市_23.7085_120.51606,2018-10-19,0,23.7085,120.5160556,0,class=0; control_rank=1; control_for_event_on=2018-11-09; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+雲林縣_斗六市_23.7085_120.51606,2018-11-09,1,23.7085,120.5160556,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+雲林縣_斗南鎮_23.66536_120.48992,2018-10-31,0,23.66536111,120.4899167,0,class=0; control_rank=1; control_for_event_on=2018-11-20; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+雲林縣_斗南鎮_23.66536_120.48992,2018-11-20,1,23.66536111,120.4899167,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+雲林縣_斗南鎮_23.66708_120.48353,2019-09-30,1,23.66708334,120.4835278,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+雲林縣_斗南鎮_23.6961_120.49594,2018-10-19,0,23.69609501,120.49594,0,class=0; control_rank=1; control_for_event_on=2018-10-31; within_21d_before_event; severity=0; paired_with_event_type=initial_onset
+雲林縣_斗南鎮_23.6961_120.49594,2018-10-31,1,23.69609501,120.49594,1,class=1; simple_event_type=initial_onset; severity=1; delta_severity_vs_prev15=1; has_zero_in_prev15=True
+雲林縣_莿桐鄉_23.74937_120.52716,2019-09-25,1,23.74937002,120.527155,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+雲林縣_莿桐鄉_23.75719_120.54428,2019-09-25,1,23.75718666,120.54428,3,class=1; simple_event_type=big_jump; severity=3; delta_severity_vs_prev15=3; has_zero_in_prev15=False
+雲林縣_莿桐鄉_23.76809_120.54837,2019-09-25,1,23.76809168,120.5483717,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
+雲林縣_莿桐鄉_23.78203_120.50769,2019-09-25,1,23.78202668,120.50769,2,class=1; simple_event_type=big_jump; severity=2; delta_severity_vs_prev15=2; has_zero_in_prev15=False
