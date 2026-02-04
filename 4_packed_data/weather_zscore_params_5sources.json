@@ -1,0 +1,47 @@
+{
+  "temperature_2m_max": {
+    "mean": 28.75225658803644,
+    "std": 2.591362163854249,
+    "log1p": false
+  },
+  "temperature_2m_mean": {
+    "mean": 25.83972051215322,
+    "std": 2.3065279818519167,
+    "log1p": false
+  },
+  "temperature_2m_min": {
+    "mean": 23.471345949878543,
+    "std": 2.545781806668899,
+    "log1p": false
+  },
+  "relative_humidity_2m_max": {
+    "mean": 92.57143165412954,
+    "std": 5.570164814448178,
+    "log1p": false
+  },
+  "relative_humidity_2m_mean": {
+    "mean": 83.06201391046923,
+    "std": 6.670022271504331,
+    "log1p": false
+  },
+  "relative_humidity_2m_min": {
+    "mean": 70.40942477985831,
+    "std": 9.761643630704828,
+    "log1p": false
+  },
+  "wind_speed_10m_max": {
+    "mean": 1.638912516288118,
+    "std": 0.3993519062617346,
+    "log1p": true
+  },
+  "wind_speed_10m_mean": {
+    "mean": 1.2506945042101176,
+    "std": 0.4600476266027854,
+    "log1p": true
+  },
+  "precipitation_sum": {
+    "mean": 1.278567870132173,
+    "std": 1.3073709694015754,
+    "log1p": true
+  }
+}
