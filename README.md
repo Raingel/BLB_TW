@@ -2,6 +2,10 @@
 
 This repository contains the weather inputs, final training datasets, analysis code, trained-model outputs, and numerical results supporting our study of weather-source heterogeneity in rice bacterial leaf blight (BLB) forecasting in Taiwan.
 
+Associated article:
+
+Ou, J.-H. et al. (2026). [Weather source heterogeneity affects disease forecasting: A case study of rice bacterial leaf blight in Taiwan](https://doi.org/10.1016/j.agrformet.2026.111291). *Agricultural and Forest Meteorology*, **388**, 111291.
+
 ## Final dataset
 
 The final dataset contains 404 labeled field-survey records:
@@ -68,7 +72,21 @@ For example, `ERA5_temperature_2m_mean_d21` is ERA5-Land mean 2-m temperature 21
 
 ## Citation and license
 
-Please cite the associated manuscript when using these data or outputs.
+Please cite the associated article when using these data or outputs:
+
+> Ou, J.-H., Lin, G.-C., Wu, Y.-F., Chen, C.-Y., Huang, G.-Y., Chou, H.-P., Kuo, C.-C., Wu, H.-Y., Lai, Q.-J., Wang, C.-W., Tsai, Y.-C., Kuo, C.-H., Tsai, X.-Y., and Huang, M.-C. (2026). Weather source heterogeneity affects disease forecasting: A case study of rice bacterial leaf blight in Taiwan. *Agricultural and Forest Meteorology*, 388, 111291. https://doi.org/10.1016/j.agrformet.2026.111291
+
+```bibtex
+@article{Ou2026WeatherSourceHeterogeneity,
+  author  = {Ou, Jie-Hao and Lin, Guo-Cih and Wu, Yea-Fang and Chen, Chi-Yu and Huang, Guan-Ying and Chou, Hau-Ping and Kuo, Chien-Chih and Wu, Hsin-Yuh and Lai, Qiao-Juan and Wang, Chih-Wei and Tsai, Yi-Chen and Kuo, Chang-Hsin and Tsai, Xin-Yi and Huang, Ming-Chu},
+  title   = {Weather source heterogeneity affects disease forecasting: A case study of rice bacterial leaf blight in Taiwan},
+  journal = {Agricultural and Forest Meteorology},
+  year    = {2026},
+  volume  = {388},
+  pages   = {111291},
+  doi     = {10.1016/j.agrformet.2026.111291}
+}
+```
 
 Data in this repository are released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
