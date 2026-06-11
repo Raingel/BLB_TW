@@ -1,0 +1,34 @@
+{
+  "source": "CWA",
+  "best_epoch": 11,
+  "best_val_loss": 0.5580317912430599,
+  "used_train_seed": 9551,
+  "retry_count": 0,
+  "n_train": 266,
+  "n_val": 58,
+  "n_test": 80,
+  "val": {
+    "n": 58,
+    "class0": 29,
+    "class1": 29,
+    "accuracy": 0.7241379310344828,
+    "mcc": 0.46637240216721393,
+    "roc_auc": 0.8091557669441141,
+    "tn": 25,
+    "fp": 4,
+    "fn": 12,
+    "tp": 17
+  },
+  "test": {
+    "n": 80,
+    "class0": 40,
+    "class1": 40,
+    "accuracy": 0.7375,
+    "mcc": 0.4751485071163376,
+    "roc_auc": 0.816875,
+    "tn": 30,
+    "fp": 10,
+    "fn": 11,
+    "tp": 29
+  }
+}

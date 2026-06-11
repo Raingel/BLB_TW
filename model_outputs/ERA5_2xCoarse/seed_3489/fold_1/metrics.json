@@ -1,0 +1,34 @@
+{
+  "source": "ERA5_2xCoarse",
+  "best_epoch": 7,
+  "best_val_loss": 0.49014954368273417,
+  "used_train_seed": 49351,
+  "retry_count": 0,
+  "n_train": 262,
+  "n_val": 60,
+  "n_test": 82,
+  "val": {
+    "n": 60,
+    "class0": 30,
+    "class1": 30,
+    "accuracy": 0.8,
+    "mcc": 0.6013377943029549,
+    "roc_auc": 0.8433333333333334,
+    "tn": 23,
+    "fp": 7,
+    "fn": 5,
+    "tp": 25
+  },
+  "test": {
+    "n": 82,
+    "class0": 41,
+    "class1": 41,
+    "accuracy": 0.6951219512195121,
+    "mcc": 0.39036002917941326,
+    "roc_auc": 0.8411659726353362,
+    "tn": 28,
+    "fp": 13,
+    "fn": 12,
+    "tp": 29
+  }
+}

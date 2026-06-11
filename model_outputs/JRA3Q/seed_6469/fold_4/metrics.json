@@ -1,0 +1,34 @@
+{
+  "source": "JRA3Q",
+  "best_epoch": 13,
+  "best_val_loss": 0.5054998924334844,
+  "used_train_seed": 12590,
+  "retry_count": 0,
+  "n_train": 266,
+  "n_val": 60,
+  "n_test": 78,
+  "val": {
+    "n": 60,
+    "class0": 30,
+    "class1": 30,
+    "accuracy": 0.8,
+    "mcc": 0.6013377943029549,
+    "roc_auc": 0.8466666666666667,
+    "tn": 23,
+    "fp": 7,
+    "fn": 5,
+    "tp": 25
+  },
+  "test": {
+    "n": 78,
+    "class0": 39,
+    "class1": 39,
+    "accuracy": 0.6794871794871795,
+    "mcc": 0.36196138299651337,
+    "roc_auc": 0.7804076265614728,
+    "tn": 24,
+    "fp": 15,
+    "fn": 10,
+    "tp": 29
+  }
+}

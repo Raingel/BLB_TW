@@ -1,0 +1,34 @@
+{
+  "source": "MERRA2",
+  "best_epoch": 14,
+  "best_val_loss": 0.46847064227893437,
+  "used_train_seed": 28251,
+  "retry_count": 0,
+  "n_train": 266,
+  "n_val": 58,
+  "n_test": 80,
+  "val": {
+    "n": 58,
+    "class0": 29,
+    "class1": 29,
+    "accuracy": 0.7758620689655172,
+    "mcc": 0.5520524474738834,
+    "roc_auc": 0.868014268727705,
+    "tn": 23,
+    "fp": 6,
+    "fn": 7,
+    "tp": 22
+  },
+  "test": {
+    "n": 80,
+    "class0": 40,
+    "class1": 40,
+    "accuracy": 0.725,
+    "mcc": 0.46475800154489005,
+    "roc_auc": 0.8671875,
+    "tn": 34,
+    "fp": 6,
+    "fn": 16,
+    "tp": 24
+  }
+}

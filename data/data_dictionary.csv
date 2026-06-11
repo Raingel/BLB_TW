@@ -1,0 +1,955 @@
+﻿column,category,description,unit,time_position
+record_id,metadata,Anonymous unique record identifier.,,
+pair_id,metadata,Anonymous event-control pair identifier; each pair contains class 0 and class 1.,,
+FieldID,metadata,Anonymous field-group identifier used for grouped cross-validation.,,
+class,metadata,Disease label: 0 = no observed BLB; 1 = onset-related BLB record.,binary,0 or 1
+CWA_temperature_2m_mean_d21,flattened SAWD,"CWA temperature_2m_mean, 21 days before survey.",degrees Celsius,day -21
+CWA_temperature_2m_mean_d20,flattened SAWD,"CWA temperature_2m_mean, 20 days before survey.",degrees Celsius,day -20
+CWA_temperature_2m_mean_d19,flattened SAWD,"CWA temperature_2m_mean, 19 days before survey.",degrees Celsius,day -19
+CWA_temperature_2m_mean_d18,flattened SAWD,"CWA temperature_2m_mean, 18 days before survey.",degrees Celsius,day -18
+CWA_temperature_2m_mean_d17,flattened SAWD,"CWA temperature_2m_mean, 17 days before survey.",degrees Celsius,day -17
+CWA_temperature_2m_mean_d16,flattened SAWD,"CWA temperature_2m_mean, 16 days before survey.",degrees Celsius,day -16
+CWA_temperature_2m_mean_d15,flattened SAWD,"CWA temperature_2m_mean, 15 days before survey.",degrees Celsius,day -15
+CWA_temperature_2m_mean_d14,flattened SAWD,"CWA temperature_2m_mean, 14 days before survey.",degrees Celsius,day -14
+CWA_temperature_2m_mean_d13,flattened SAWD,"CWA temperature_2m_mean, 13 days before survey.",degrees Celsius,day -13
+CWA_temperature_2m_mean_d12,flattened SAWD,"CWA temperature_2m_mean, 12 days before survey.",degrees Celsius,day -12
+CWA_temperature_2m_mean_d11,flattened SAWD,"CWA temperature_2m_mean, 11 days before survey.",degrees Celsius,day -11
+CWA_temperature_2m_mean_d10,flattened SAWD,"CWA temperature_2m_mean, 10 days before survey.",degrees Celsius,day -10
+CWA_temperature_2m_mean_d9,flattened SAWD,"CWA temperature_2m_mean, 9 days before survey.",degrees Celsius,day -9
+CWA_temperature_2m_mean_d8,flattened SAWD,"CWA temperature_2m_mean, 8 days before survey.",degrees Celsius,day -8
+CWA_temperature_2m_mean_d7,flattened SAWD,"CWA temperature_2m_mean, 7 days before survey.",degrees Celsius,day -7
+CWA_temperature_2m_mean_d6,flattened SAWD,"CWA temperature_2m_mean, 6 days before survey.",degrees Celsius,day -6
+CWA_temperature_2m_mean_d5,flattened SAWD,"CWA temperature_2m_mean, 5 days before survey.",degrees Celsius,day -5
+CWA_temperature_2m_mean_d4,flattened SAWD,"CWA temperature_2m_mean, 4 days before survey.",degrees Celsius,day -4
+CWA_temperature_2m_mean_d3,flattened SAWD,"CWA temperature_2m_mean, 3 days before survey.",degrees Celsius,day -3
+CWA_temperature_2m_max_d21,flattened SAWD,"CWA temperature_2m_max, 21 days before survey.",degrees Celsius,day -21
+CWA_temperature_2m_max_d20,flattened SAWD,"CWA temperature_2m_max, 20 days before survey.",degrees Celsius,day -20
+CWA_temperature_2m_max_d19,flattened SAWD,"CWA temperature_2m_max, 19 days before survey.",degrees Celsius,day -19
+CWA_temperature_2m_max_d18,flattened SAWD,"CWA temperature_2m_max, 18 days before survey.",degrees Celsius,day -18
+CWA_temperature_2m_max_d17,flattened SAWD,"CWA temperature_2m_max, 17 days before survey.",degrees Celsius,day -17
+CWA_temperature_2m_max_d16,flattened SAWD,"CWA temperature_2m_max, 16 days before survey.",degrees Celsius,day -16
+CWA_temperature_2m_max_d15,flattened SAWD,"CWA temperature_2m_max, 15 days before survey.",degrees Celsius,day -15
+CWA_temperature_2m_max_d14,flattened SAWD,"CWA temperature_2m_max, 14 days before survey.",degrees Celsius,day -14
+CWA_temperature_2m_max_d13,flattened SAWD,"CWA temperature_2m_max, 13 days before survey.",degrees Celsius,day -13
+CWA_temperature_2m_max_d12,flattened SAWD,"CWA temperature_2m_max, 12 days before survey.",degrees Celsius,day -12
+CWA_temperature_2m_max_d11,flattened SAWD,"CWA temperature_2m_max, 11 days before survey.",degrees Celsius,day -11
+CWA_temperature_2m_max_d10,flattened SAWD,"CWA temperature_2m_max, 10 days before survey.",degrees Celsius,day -10
+CWA_temperature_2m_max_d9,flattened SAWD,"CWA temperature_2m_max, 9 days before survey.",degrees Celsius,day -9
+CWA_temperature_2m_max_d8,flattened SAWD,"CWA temperature_2m_max, 8 days before survey.",degrees Celsius,day -8
+CWA_temperature_2m_max_d7,flattened SAWD,"CWA temperature_2m_max, 7 days before survey.",degrees Celsius,day -7
+CWA_temperature_2m_max_d6,flattened SAWD,"CWA temperature_2m_max, 6 days before survey.",degrees Celsius,day -6
+CWA_temperature_2m_max_d5,flattened SAWD,"CWA temperature_2m_max, 5 days before survey.",degrees Celsius,day -5
+CWA_temperature_2m_max_d4,flattened SAWD,"CWA temperature_2m_max, 4 days before survey.",degrees Celsius,day -4
+CWA_temperature_2m_max_d3,flattened SAWD,"CWA temperature_2m_max, 3 days before survey.",degrees Celsius,day -3
+CWA_temperature_2m_min_d21,flattened SAWD,"CWA temperature_2m_min, 21 days before survey.",degrees Celsius,day -21
+CWA_temperature_2m_min_d20,flattened SAWD,"CWA temperature_2m_min, 20 days before survey.",degrees Celsius,day -20
+CWA_temperature_2m_min_d19,flattened SAWD,"CWA temperature_2m_min, 19 days before survey.",degrees Celsius,day -19
+CWA_temperature_2m_min_d18,flattened SAWD,"CWA temperature_2m_min, 18 days before survey.",degrees Celsius,day -18
+CWA_temperature_2m_min_d17,flattened SAWD,"CWA temperature_2m_min, 17 days before survey.",degrees Celsius,day -17
+CWA_temperature_2m_min_d16,flattened SAWD,"CWA temperature_2m_min, 16 days before survey.",degrees Celsius,day -16
+CWA_temperature_2m_min_d15,flattened SAWD,"CWA temperature_2m_min, 15 days before survey.",degrees Celsius,day -15
+CWA_temperature_2m_min_d14,flattened SAWD,"CWA temperature_2m_min, 14 days before survey.",degrees Celsius,day -14
+CWA_temperature_2m_min_d13,flattened SAWD,"CWA temperature_2m_min, 13 days before survey.",degrees Celsius,day -13
+CWA_temperature_2m_min_d12,flattened SAWD,"CWA temperature_2m_min, 12 days before survey.",degrees Celsius,day -12
+CWA_temperature_2m_min_d11,flattened SAWD,"CWA temperature_2m_min, 11 days before survey.",degrees Celsius,day -11
+CWA_temperature_2m_min_d10,flattened SAWD,"CWA temperature_2m_min, 10 days before survey.",degrees Celsius,day -10
+CWA_temperature_2m_min_d9,flattened SAWD,"CWA temperature_2m_min, 9 days before survey.",degrees Celsius,day -9
+CWA_temperature_2m_min_d8,flattened SAWD,"CWA temperature_2m_min, 8 days before survey.",degrees Celsius,day -8
+CWA_temperature_2m_min_d7,flattened SAWD,"CWA temperature_2m_min, 7 days before survey.",degrees Celsius,day -7
+CWA_temperature_2m_min_d6,flattened SAWD,"CWA temperature_2m_min, 6 days before survey.",degrees Celsius,day -6
+CWA_temperature_2m_min_d5,flattened SAWD,"CWA temperature_2m_min, 5 days before survey.",degrees Celsius,day -5
+CWA_temperature_2m_min_d4,flattened SAWD,"CWA temperature_2m_min, 4 days before survey.",degrees Celsius,day -4
+CWA_temperature_2m_min_d3,flattened SAWD,"CWA temperature_2m_min, 3 days before survey.",degrees Celsius,day -3
+CWA_wind_speed_10m_max_d21,flattened SAWD,"CWA wind_speed_10m_max, 21 days before survey.",m/s,day -21
+CWA_wind_speed_10m_max_d20,flattened SAWD,"CWA wind_speed_10m_max, 20 days before survey.",m/s,day -20
+CWA_wind_speed_10m_max_d19,flattened SAWD,"CWA wind_speed_10m_max, 19 days before survey.",m/s,day -19
+CWA_wind_speed_10m_max_d18,flattened SAWD,"CWA wind_speed_10m_max, 18 days before survey.",m/s,day -18
+CWA_wind_speed_10m_max_d17,flattened SAWD,"CWA wind_speed_10m_max, 17 days before survey.",m/s,day -17
+CWA_wind_speed_10m_max_d16,flattened SAWD,"CWA wind_speed_10m_max, 16 days before survey.",m/s,day -16
+CWA_wind_speed_10m_max_d15,flattened SAWD,"CWA wind_speed_10m_max, 15 days before survey.",m/s,day -15
+CWA_wind_speed_10m_max_d14,flattened SAWD,"CWA wind_speed_10m_max, 14 days before survey.",m/s,day -14
+CWA_wind_speed_10m_max_d13,flattened SAWD,"CWA wind_speed_10m_max, 13 days before survey.",m/s,day -13
+CWA_wind_speed_10m_max_d12,flattened SAWD,"CWA wind_speed_10m_max, 12 days before survey.",m/s,day -12
+CWA_wind_speed_10m_max_d11,flattened SAWD,"CWA wind_speed_10m_max, 11 days before survey.",m/s,day -11
+CWA_wind_speed_10m_max_d10,flattened SAWD,"CWA wind_speed_10m_max, 10 days before survey.",m/s,day -10
+CWA_wind_speed_10m_max_d9,flattened SAWD,"CWA wind_speed_10m_max, 9 days before survey.",m/s,day -9
+CWA_wind_speed_10m_max_d8,flattened SAWD,"CWA wind_speed_10m_max, 8 days before survey.",m/s,day -8
+CWA_wind_speed_10m_max_d7,flattened SAWD,"CWA wind_speed_10m_max, 7 days before survey.",m/s,day -7
+CWA_wind_speed_10m_max_d6,flattened SAWD,"CWA wind_speed_10m_max, 6 days before survey.",m/s,day -6
+CWA_wind_speed_10m_max_d5,flattened SAWD,"CWA wind_speed_10m_max, 5 days before survey.",m/s,day -5
+CWA_wind_speed_10m_max_d4,flattened SAWD,"CWA wind_speed_10m_max, 4 days before survey.",m/s,day -4
+CWA_wind_speed_10m_max_d3,flattened SAWD,"CWA wind_speed_10m_max, 3 days before survey.",m/s,day -3
+CWA_wind_speed_10m_mean_d21,flattened SAWD,"CWA wind_speed_10m_mean, 21 days before survey.",m/s,day -21
+CWA_wind_speed_10m_mean_d20,flattened SAWD,"CWA wind_speed_10m_mean, 20 days before survey.",m/s,day -20
+CWA_wind_speed_10m_mean_d19,flattened SAWD,"CWA wind_speed_10m_mean, 19 days before survey.",m/s,day -19
+CWA_wind_speed_10m_mean_d18,flattened SAWD,"CWA wind_speed_10m_mean, 18 days before survey.",m/s,day -18
+CWA_wind_speed_10m_mean_d17,flattened SAWD,"CWA wind_speed_10m_mean, 17 days before survey.",m/s,day -17
+CWA_wind_speed_10m_mean_d16,flattened SAWD,"CWA wind_speed_10m_mean, 16 days before survey.",m/s,day -16
+CWA_wind_speed_10m_mean_d15,flattened SAWD,"CWA wind_speed_10m_mean, 15 days before survey.",m/s,day -15
+CWA_wind_speed_10m_mean_d14,flattened SAWD,"CWA wind_speed_10m_mean, 14 days before survey.",m/s,day -14
+CWA_wind_speed_10m_mean_d13,flattened SAWD,"CWA wind_speed_10m_mean, 13 days before survey.",m/s,day -13
+CWA_wind_speed_10m_mean_d12,flattened SAWD,"CWA wind_speed_10m_mean, 12 days before survey.",m/s,day -12
+CWA_wind_speed_10m_mean_d11,flattened SAWD,"CWA wind_speed_10m_mean, 11 days before survey.",m/s,day -11
+CWA_wind_speed_10m_mean_d10,flattened SAWD,"CWA wind_speed_10m_mean, 10 days before survey.",m/s,day -10
+CWA_wind_speed_10m_mean_d9,flattened SAWD,"CWA wind_speed_10m_mean, 9 days before survey.",m/s,day -9
+CWA_wind_speed_10m_mean_d8,flattened SAWD,"CWA wind_speed_10m_mean, 8 days before survey.",m/s,day -8
+CWA_wind_speed_10m_mean_d7,flattened SAWD,"CWA wind_speed_10m_mean, 7 days before survey.",m/s,day -7
+CWA_wind_speed_10m_mean_d6,flattened SAWD,"CWA wind_speed_10m_mean, 6 days before survey.",m/s,day -6
+CWA_wind_speed_10m_mean_d5,flattened SAWD,"CWA wind_speed_10m_mean, 5 days before survey.",m/s,day -5
+CWA_wind_speed_10m_mean_d4,flattened SAWD,"CWA wind_speed_10m_mean, 4 days before survey.",m/s,day -4
+CWA_wind_speed_10m_mean_d3,flattened SAWD,"CWA wind_speed_10m_mean, 3 days before survey.",m/s,day -3
+CWA_wind_speed_10m_min_d21,flattened SAWD,"CWA wind_speed_10m_min, 21 days before survey.",m/s,day -21
+CWA_wind_speed_10m_min_d20,flattened SAWD,"CWA wind_speed_10m_min, 20 days before survey.",m/s,day -20
+CWA_wind_speed_10m_min_d19,flattened SAWD,"CWA wind_speed_10m_min, 19 days before survey.",m/s,day -19
+CWA_wind_speed_10m_min_d18,flattened SAWD,"CWA wind_speed_10m_min, 18 days before survey.",m/s,day -18
+CWA_wind_speed_10m_min_d17,flattened SAWD,"CWA wind_speed_10m_min, 17 days before survey.",m/s,day -17
+CWA_wind_speed_10m_min_d16,flattened SAWD,"CWA wind_speed_10m_min, 16 days before survey.",m/s,day -16
+CWA_wind_speed_10m_min_d15,flattened SAWD,"CWA wind_speed_10m_min, 15 days before survey.",m/s,day -15
+CWA_wind_speed_10m_min_d14,flattened SAWD,"CWA wind_speed_10m_min, 14 days before survey.",m/s,day -14
+CWA_wind_speed_10m_min_d13,flattened SAWD,"CWA wind_speed_10m_min, 13 days before survey.",m/s,day -13
+CWA_wind_speed_10m_min_d12,flattened SAWD,"CWA wind_speed_10m_min, 12 days before survey.",m/s,day -12
+CWA_wind_speed_10m_min_d11,flattened SAWD,"CWA wind_speed_10m_min, 11 days before survey.",m/s,day -11
+CWA_wind_speed_10m_min_d10,flattened SAWD,"CWA wind_speed_10m_min, 10 days before survey.",m/s,day -10
+CWA_wind_speed_10m_min_d9,flattened SAWD,"CWA wind_speed_10m_min, 9 days before survey.",m/s,day -9
+CWA_wind_speed_10m_min_d8,flattened SAWD,"CWA wind_speed_10m_min, 8 days before survey.",m/s,day -8
+CWA_wind_speed_10m_min_d7,flattened SAWD,"CWA wind_speed_10m_min, 7 days before survey.",m/s,day -7
+CWA_wind_speed_10m_min_d6,flattened SAWD,"CWA wind_speed_10m_min, 6 days before survey.",m/s,day -6
+CWA_wind_speed_10m_min_d5,flattened SAWD,"CWA wind_speed_10m_min, 5 days before survey.",m/s,day -5
+CWA_wind_speed_10m_min_d4,flattened SAWD,"CWA wind_speed_10m_min, 4 days before survey.",m/s,day -4
+CWA_wind_speed_10m_min_d3,flattened SAWD,"CWA wind_speed_10m_min, 3 days before survey.",m/s,day -3
+CWA_precipitation_sum_d21,flattened SAWD,"CWA precipitation_sum, 21 days before survey.",mm/day,day -21
+CWA_precipitation_sum_d20,flattened SAWD,"CWA precipitation_sum, 20 days before survey.",mm/day,day -20
+CWA_precipitation_sum_d19,flattened SAWD,"CWA precipitation_sum, 19 days before survey.",mm/day,day -19
+CWA_precipitation_sum_d18,flattened SAWD,"CWA precipitation_sum, 18 days before survey.",mm/day,day -18
+CWA_precipitation_sum_d17,flattened SAWD,"CWA precipitation_sum, 17 days before survey.",mm/day,day -17
+CWA_precipitation_sum_d16,flattened SAWD,"CWA precipitation_sum, 16 days before survey.",mm/day,day -16
+CWA_precipitation_sum_d15,flattened SAWD,"CWA precipitation_sum, 15 days before survey.",mm/day,day -15
+CWA_precipitation_sum_d14,flattened SAWD,"CWA precipitation_sum, 14 days before survey.",mm/day,day -14
+CWA_precipitation_sum_d13,flattened SAWD,"CWA precipitation_sum, 13 days before survey.",mm/day,day -13
+CWA_precipitation_sum_d12,flattened SAWD,"CWA precipitation_sum, 12 days before survey.",mm/day,day -12
+CWA_precipitation_sum_d11,flattened SAWD,"CWA precipitation_sum, 11 days before survey.",mm/day,day -11
+CWA_precipitation_sum_d10,flattened SAWD,"CWA precipitation_sum, 10 days before survey.",mm/day,day -10
+CWA_precipitation_sum_d9,flattened SAWD,"CWA precipitation_sum, 9 days before survey.",mm/day,day -9
+CWA_precipitation_sum_d8,flattened SAWD,"CWA precipitation_sum, 8 days before survey.",mm/day,day -8
+CWA_precipitation_sum_d7,flattened SAWD,"CWA precipitation_sum, 7 days before survey.",mm/day,day -7
+CWA_precipitation_sum_d6,flattened SAWD,"CWA precipitation_sum, 6 days before survey.",mm/day,day -6
+CWA_precipitation_sum_d5,flattened SAWD,"CWA precipitation_sum, 5 days before survey.",mm/day,day -5
+CWA_precipitation_sum_d4,flattened SAWD,"CWA precipitation_sum, 4 days before survey.",mm/day,day -4
+CWA_precipitation_sum_d3,flattened SAWD,"CWA precipitation_sum, 3 days before survey.",mm/day,day -3
+CWA_relative_humidity_2m_max_d21,flattened SAWD,"CWA relative_humidity_2m_max, 21 days before survey.",%,day -21
+CWA_relative_humidity_2m_max_d20,flattened SAWD,"CWA relative_humidity_2m_max, 20 days before survey.",%,day -20
+CWA_relative_humidity_2m_max_d19,flattened SAWD,"CWA relative_humidity_2m_max, 19 days before survey.",%,day -19
+CWA_relative_humidity_2m_max_d18,flattened SAWD,"CWA relative_humidity_2m_max, 18 days before survey.",%,day -18
+CWA_relative_humidity_2m_max_d17,flattened SAWD,"CWA relative_humidity_2m_max, 17 days before survey.",%,day -17
+CWA_relative_humidity_2m_max_d16,flattened SAWD,"CWA relative_humidity_2m_max, 16 days before survey.",%,day -16
+CWA_relative_humidity_2m_max_d15,flattened SAWD,"CWA relative_humidity_2m_max, 15 days before survey.",%,day -15
+CWA_relative_humidity_2m_max_d14,flattened SAWD,"CWA relative_humidity_2m_max, 14 days before survey.",%,day -14
+CWA_relative_humidity_2m_max_d13,flattened SAWD,"CWA relative_humidity_2m_max, 13 days before survey.",%,day -13
+CWA_relative_humidity_2m_max_d12,flattened SAWD,"CWA relative_humidity_2m_max, 12 days before survey.",%,day -12
+CWA_relative_humidity_2m_max_d11,flattened SAWD,"CWA relative_humidity_2m_max, 11 days before survey.",%,day -11
+CWA_relative_humidity_2m_max_d10,flattened SAWD,"CWA relative_humidity_2m_max, 10 days before survey.",%,day -10
+CWA_relative_humidity_2m_max_d9,flattened SAWD,"CWA relative_humidity_2m_max, 9 days before survey.",%,day -9
+CWA_relative_humidity_2m_max_d8,flattened SAWD,"CWA relative_humidity_2m_max, 8 days before survey.",%,day -8
+CWA_relative_humidity_2m_max_d7,flattened SAWD,"CWA relative_humidity_2m_max, 7 days before survey.",%,day -7
+CWA_relative_humidity_2m_max_d6,flattened SAWD,"CWA relative_humidity_2m_max, 6 days before survey.",%,day -6
+CWA_relative_humidity_2m_max_d5,flattened SAWD,"CWA relative_humidity_2m_max, 5 days before survey.",%,day -5
+CWA_relative_humidity_2m_max_d4,flattened SAWD,"CWA relative_humidity_2m_max, 4 days before survey.",%,day -4
+CWA_relative_humidity_2m_max_d3,flattened SAWD,"CWA relative_humidity_2m_max, 3 days before survey.",%,day -3
+CWA_relative_humidity_2m_min_d21,flattened SAWD,"CWA relative_humidity_2m_min, 21 days before survey.",%,day -21
+CWA_relative_humidity_2m_min_d20,flattened SAWD,"CWA relative_humidity_2m_min, 20 days before survey.",%,day -20
+CWA_relative_humidity_2m_min_d19,flattened SAWD,"CWA relative_humidity_2m_min, 19 days before survey.",%,day -19
+CWA_relative_humidity_2m_min_d18,flattened SAWD,"CWA relative_humidity_2m_min, 18 days before survey.",%,day -18
+CWA_relative_humidity_2m_min_d17,flattened SAWD,"CWA relative_humidity_2m_min, 17 days before survey.",%,day -17
+CWA_relative_humidity_2m_min_d16,flattened SAWD,"CWA relative_humidity_2m_min, 16 days before survey.",%,day -16
+CWA_relative_humidity_2m_min_d15,flattened SAWD,"CWA relative_humidity_2m_min, 15 days before survey.",%,day -15
+CWA_relative_humidity_2m_min_d14,flattened SAWD,"CWA relative_humidity_2m_min, 14 days before survey.",%,day -14
+CWA_relative_humidity_2m_min_d13,flattened SAWD,"CWA relative_humidity_2m_min, 13 days before survey.",%,day -13
+CWA_relative_humidity_2m_min_d12,flattened SAWD,"CWA relative_humidity_2m_min, 12 days before survey.",%,day -12
+CWA_relative_humidity_2m_min_d11,flattened SAWD,"CWA relative_humidity_2m_min, 11 days before survey.",%,day -11
+CWA_relative_humidity_2m_min_d10,flattened SAWD,"CWA relative_humidity_2m_min, 10 days before survey.",%,day -10
+CWA_relative_humidity_2m_min_d9,flattened SAWD,"CWA relative_humidity_2m_min, 9 days before survey.",%,day -9
+CWA_relative_humidity_2m_min_d8,flattened SAWD,"CWA relative_humidity_2m_min, 8 days before survey.",%,day -8
+CWA_relative_humidity_2m_min_d7,flattened SAWD,"CWA relative_humidity_2m_min, 7 days before survey.",%,day -7
+CWA_relative_humidity_2m_min_d6,flattened SAWD,"CWA relative_humidity_2m_min, 6 days before survey.",%,day -6
+CWA_relative_humidity_2m_min_d5,flattened SAWD,"CWA relative_humidity_2m_min, 5 days before survey.",%,day -5
+CWA_relative_humidity_2m_min_d4,flattened SAWD,"CWA relative_humidity_2m_min, 4 days before survey.",%,day -4
+CWA_relative_humidity_2m_min_d3,flattened SAWD,"CWA relative_humidity_2m_min, 3 days before survey.",%,day -3
+CWA_relative_humidity_2m_mean_d21,flattened SAWD,"CWA relative_humidity_2m_mean, 21 days before survey.",%,day -21
+CWA_relative_humidity_2m_mean_d20,flattened SAWD,"CWA relative_humidity_2m_mean, 20 days before survey.",%,day -20
+CWA_relative_humidity_2m_mean_d19,flattened SAWD,"CWA relative_humidity_2m_mean, 19 days before survey.",%,day -19
+CWA_relative_humidity_2m_mean_d18,flattened SAWD,"CWA relative_humidity_2m_mean, 18 days before survey.",%,day -18
+CWA_relative_humidity_2m_mean_d17,flattened SAWD,"CWA relative_humidity_2m_mean, 17 days before survey.",%,day -17
+CWA_relative_humidity_2m_mean_d16,flattened SAWD,"CWA relative_humidity_2m_mean, 16 days before survey.",%,day -16
+CWA_relative_humidity_2m_mean_d15,flattened SAWD,"CWA relative_humidity_2m_mean, 15 days before survey.",%,day -15
+CWA_relative_humidity_2m_mean_d14,flattened SAWD,"CWA relative_humidity_2m_mean, 14 days before survey.",%,day -14
+CWA_relative_humidity_2m_mean_d13,flattened SAWD,"CWA relative_humidity_2m_mean, 13 days before survey.",%,day -13
+CWA_relative_humidity_2m_mean_d12,flattened SAWD,"CWA relative_humidity_2m_mean, 12 days before survey.",%,day -12
+CWA_relative_humidity_2m_mean_d11,flattened SAWD,"CWA relative_humidity_2m_mean, 11 days before survey.",%,day -11
+CWA_relative_humidity_2m_mean_d10,flattened SAWD,"CWA relative_humidity_2m_mean, 10 days before survey.",%,day -10
+CWA_relative_humidity_2m_mean_d9,flattened SAWD,"CWA relative_humidity_2m_mean, 9 days before survey.",%,day -9
+CWA_relative_humidity_2m_mean_d8,flattened SAWD,"CWA relative_humidity_2m_mean, 8 days before survey.",%,day -8
+CWA_relative_humidity_2m_mean_d7,flattened SAWD,"CWA relative_humidity_2m_mean, 7 days before survey.",%,day -7
+CWA_relative_humidity_2m_mean_d6,flattened SAWD,"CWA relative_humidity_2m_mean, 6 days before survey.",%,day -6
+CWA_relative_humidity_2m_mean_d5,flattened SAWD,"CWA relative_humidity_2m_mean, 5 days before survey.",%,day -5
+CWA_relative_humidity_2m_mean_d4,flattened SAWD,"CWA relative_humidity_2m_mean, 4 days before survey.",%,day -4
+CWA_relative_humidity_2m_mean_d3,flattened SAWD,"CWA relative_humidity_2m_mean, 3 days before survey.",%,day -3
+JRA3Q_temperature_2m_mean_d21,flattened SAWD,"JRA3Q temperature_2m_mean, 21 days before survey.",degrees Celsius,day -21
+JRA3Q_temperature_2m_mean_d20,flattened SAWD,"JRA3Q temperature_2m_mean, 20 days before survey.",degrees Celsius,day -20
+JRA3Q_temperature_2m_mean_d19,flattened SAWD,"JRA3Q temperature_2m_mean, 19 days before survey.",degrees Celsius,day -19
+JRA3Q_temperature_2m_mean_d18,flattened SAWD,"JRA3Q temperature_2m_mean, 18 days before survey.",degrees Celsius,day -18
+JRA3Q_temperature_2m_mean_d17,flattened SAWD,"JRA3Q temperature_2m_mean, 17 days before survey.",degrees Celsius,day -17
+JRA3Q_temperature_2m_mean_d16,flattened SAWD,"JRA3Q temperature_2m_mean, 16 days before survey.",degrees Celsius,day -16
+JRA3Q_temperature_2m_mean_d15,flattened SAWD,"JRA3Q temperature_2m_mean, 15 days before survey.",degrees Celsius,day -15
+JRA3Q_temperature_2m_mean_d14,flattened SAWD,"JRA3Q temperature_2m_mean, 14 days before survey.",degrees Celsius,day -14
+JRA3Q_temperature_2m_mean_d13,flattened SAWD,"JRA3Q temperature_2m_mean, 13 days before survey.",degrees Celsius,day -13
+JRA3Q_temperature_2m_mean_d12,flattened SAWD,"JRA3Q temperature_2m_mean, 12 days before survey.",degrees Celsius,day -12
+JRA3Q_temperature_2m_mean_d11,flattened SAWD,"JRA3Q temperature_2m_mean, 11 days before survey.",degrees Celsius,day -11
+JRA3Q_temperature_2m_mean_d10,flattened SAWD,"JRA3Q temperature_2m_mean, 10 days before survey.",degrees Celsius,day -10
+JRA3Q_temperature_2m_mean_d9,flattened SAWD,"JRA3Q temperature_2m_mean, 9 days before survey.",degrees Celsius,day -9
+JRA3Q_temperature_2m_mean_d8,flattened SAWD,"JRA3Q temperature_2m_mean, 8 days before survey.",degrees Celsius,day -8
+JRA3Q_temperature_2m_mean_d7,flattened SAWD,"JRA3Q temperature_2m_mean, 7 days before survey.",degrees Celsius,day -7
+JRA3Q_temperature_2m_mean_d6,flattened SAWD,"JRA3Q temperature_2m_mean, 6 days before survey.",degrees Celsius,day -6
+JRA3Q_temperature_2m_mean_d5,flattened SAWD,"JRA3Q temperature_2m_mean, 5 days before survey.",degrees Celsius,day -5
+JRA3Q_temperature_2m_mean_d4,flattened SAWD,"JRA3Q temperature_2m_mean, 4 days before survey.",degrees Celsius,day -4
+JRA3Q_temperature_2m_mean_d3,flattened SAWD,"JRA3Q temperature_2m_mean, 3 days before survey.",degrees Celsius,day -3
+JRA3Q_temperature_2m_max_d21,flattened SAWD,"JRA3Q temperature_2m_max, 21 days before survey.",degrees Celsius,day -21
+JRA3Q_temperature_2m_max_d20,flattened SAWD,"JRA3Q temperature_2m_max, 20 days before survey.",degrees Celsius,day -20
+JRA3Q_temperature_2m_max_d19,flattened SAWD,"JRA3Q temperature_2m_max, 19 days before survey.",degrees Celsius,day -19
+JRA3Q_temperature_2m_max_d18,flattened SAWD,"JRA3Q temperature_2m_max, 18 days before survey.",degrees Celsius,day -18
+JRA3Q_temperature_2m_max_d17,flattened SAWD,"JRA3Q temperature_2m_max, 17 days before survey.",degrees Celsius,day -17
+JRA3Q_temperature_2m_max_d16,flattened SAWD,"JRA3Q temperature_2m_max, 16 days before survey.",degrees Celsius,day -16
+JRA3Q_temperature_2m_max_d15,flattened SAWD,"JRA3Q temperature_2m_max, 15 days before survey.",degrees Celsius,day -15
+JRA3Q_temperature_2m_max_d14,flattened SAWD,"JRA3Q temperature_2m_max, 14 days before survey.",degrees Celsius,day -14
+JRA3Q_temperature_2m_max_d13,flattened SAWD,"JRA3Q temperature_2m_max, 13 days before survey.",degrees Celsius,day -13
+JRA3Q_temperature_2m_max_d12,flattened SAWD,"JRA3Q temperature_2m_max, 12 days before survey.",degrees Celsius,day -12
+JRA3Q_temperature_2m_max_d11,flattened SAWD,"JRA3Q temperature_2m_max, 11 days before survey.",degrees Celsius,day -11
+JRA3Q_temperature_2m_max_d10,flattened SAWD,"JRA3Q temperature_2m_max, 10 days before survey.",degrees Celsius,day -10
+JRA3Q_temperature_2m_max_d9,flattened SAWD,"JRA3Q temperature_2m_max, 9 days before survey.",degrees Celsius,day -9
+JRA3Q_temperature_2m_max_d8,flattened SAWD,"JRA3Q temperature_2m_max, 8 days before survey.",degrees Celsius,day -8
+JRA3Q_temperature_2m_max_d7,flattened SAWD,"JRA3Q temperature_2m_max, 7 days before survey.",degrees Celsius,day -7
+JRA3Q_temperature_2m_max_d6,flattened SAWD,"JRA3Q temperature_2m_max, 6 days before survey.",degrees Celsius,day -6
+JRA3Q_temperature_2m_max_d5,flattened SAWD,"JRA3Q temperature_2m_max, 5 days before survey.",degrees Celsius,day -5
+JRA3Q_temperature_2m_max_d4,flattened SAWD,"JRA3Q temperature_2m_max, 4 days before survey.",degrees Celsius,day -4
+JRA3Q_temperature_2m_max_d3,flattened SAWD,"JRA3Q temperature_2m_max, 3 days before survey.",degrees Celsius,day -3
+JRA3Q_temperature_2m_min_d21,flattened SAWD,"JRA3Q temperature_2m_min, 21 days before survey.",degrees Celsius,day -21
+JRA3Q_temperature_2m_min_d20,flattened SAWD,"JRA3Q temperature_2m_min, 20 days before survey.",degrees Celsius,day -20
+JRA3Q_temperature_2m_min_d19,flattened SAWD,"JRA3Q temperature_2m_min, 19 days before survey.",degrees Celsius,day -19
+JRA3Q_temperature_2m_min_d18,flattened SAWD,"JRA3Q temperature_2m_min, 18 days before survey.",degrees Celsius,day -18
+JRA3Q_temperature_2m_min_d17,flattened SAWD,"JRA3Q temperature_2m_min, 17 days before survey.",degrees Celsius,day -17
+JRA3Q_temperature_2m_min_d16,flattened SAWD,"JRA3Q temperature_2m_min, 16 days before survey.",degrees Celsius,day -16
+JRA3Q_temperature_2m_min_d15,flattened SAWD,"JRA3Q temperature_2m_min, 15 days before survey.",degrees Celsius,day -15
+JRA3Q_temperature_2m_min_d14,flattened SAWD,"JRA3Q temperature_2m_min, 14 days before survey.",degrees Celsius,day -14
+JRA3Q_temperature_2m_min_d13,flattened SAWD,"JRA3Q temperature_2m_min, 13 days before survey.",degrees Celsius,day -13
+JRA3Q_temperature_2m_min_d12,flattened SAWD,"JRA3Q temperature_2m_min, 12 days before survey.",degrees Celsius,day -12
+JRA3Q_temperature_2m_min_d11,flattened SAWD,"JRA3Q temperature_2m_min, 11 days before survey.",degrees Celsius,day -11
+JRA3Q_temperature_2m_min_d10,flattened SAWD,"JRA3Q temperature_2m_min, 10 days before survey.",degrees Celsius,day -10
+JRA3Q_temperature_2m_min_d9,flattened SAWD,"JRA3Q temperature_2m_min, 9 days before survey.",degrees Celsius,day -9
+JRA3Q_temperature_2m_min_d8,flattened SAWD,"JRA3Q temperature_2m_min, 8 days before survey.",degrees Celsius,day -8
+JRA3Q_temperature_2m_min_d7,flattened SAWD,"JRA3Q temperature_2m_min, 7 days before survey.",degrees Celsius,day -7
+JRA3Q_temperature_2m_min_d6,flattened SAWD,"JRA3Q temperature_2m_min, 6 days before survey.",degrees Celsius,day -6
+JRA3Q_temperature_2m_min_d5,flattened SAWD,"JRA3Q temperature_2m_min, 5 days before survey.",degrees Celsius,day -5
+JRA3Q_temperature_2m_min_d4,flattened SAWD,"JRA3Q temperature_2m_min, 4 days before survey.",degrees Celsius,day -4
+JRA3Q_temperature_2m_min_d3,flattened SAWD,"JRA3Q temperature_2m_min, 3 days before survey.",degrees Celsius,day -3
+JRA3Q_wind_speed_10m_max_d21,flattened SAWD,"JRA3Q wind_speed_10m_max, 21 days before survey.",m/s,day -21
+JRA3Q_wind_speed_10m_max_d20,flattened SAWD,"JRA3Q wind_speed_10m_max, 20 days before survey.",m/s,day -20
+JRA3Q_wind_speed_10m_max_d19,flattened SAWD,"JRA3Q wind_speed_10m_max, 19 days before survey.",m/s,day -19
+JRA3Q_wind_speed_10m_max_d18,flattened SAWD,"JRA3Q wind_speed_10m_max, 18 days before survey.",m/s,day -18
+JRA3Q_wind_speed_10m_max_d17,flattened SAWD,"JRA3Q wind_speed_10m_max, 17 days before survey.",m/s,day -17
+JRA3Q_wind_speed_10m_max_d16,flattened SAWD,"JRA3Q wind_speed_10m_max, 16 days before survey.",m/s,day -16
+JRA3Q_wind_speed_10m_max_d15,flattened SAWD,"JRA3Q wind_speed_10m_max, 15 days before survey.",m/s,day -15
+JRA3Q_wind_speed_10m_max_d14,flattened SAWD,"JRA3Q wind_speed_10m_max, 14 days before survey.",m/s,day -14
+JRA3Q_wind_speed_10m_max_d13,flattened SAWD,"JRA3Q wind_speed_10m_max, 13 days before survey.",m/s,day -13
+JRA3Q_wind_speed_10m_max_d12,flattened SAWD,"JRA3Q wind_speed_10m_max, 12 days before survey.",m/s,day -12
+JRA3Q_wind_speed_10m_max_d11,flattened SAWD,"JRA3Q wind_speed_10m_max, 11 days before survey.",m/s,day -11
+JRA3Q_wind_speed_10m_max_d10,flattened SAWD,"JRA3Q wind_speed_10m_max, 10 days before survey.",m/s,day -10
+JRA3Q_wind_speed_10m_max_d9,flattened SAWD,"JRA3Q wind_speed_10m_max, 9 days before survey.",m/s,day -9
+JRA3Q_wind_speed_10m_max_d8,flattened SAWD,"JRA3Q wind_speed_10m_max, 8 days before survey.",m/s,day -8
+JRA3Q_wind_speed_10m_max_d7,flattened SAWD,"JRA3Q wind_speed_10m_max, 7 days before survey.",m/s,day -7
+JRA3Q_wind_speed_10m_max_d6,flattened SAWD,"JRA3Q wind_speed_10m_max, 6 days before survey.",m/s,day -6
+JRA3Q_wind_speed_10m_max_d5,flattened SAWD,"JRA3Q wind_speed_10m_max, 5 days before survey.",m/s,day -5
+JRA3Q_wind_speed_10m_max_d4,flattened SAWD,"JRA3Q wind_speed_10m_max, 4 days before survey.",m/s,day -4
+JRA3Q_wind_speed_10m_max_d3,flattened SAWD,"JRA3Q wind_speed_10m_max, 3 days before survey.",m/s,day -3
+JRA3Q_wind_speed_10m_mean_d21,flattened SAWD,"JRA3Q wind_speed_10m_mean, 21 days before survey.",m/s,day -21
+JRA3Q_wind_speed_10m_mean_d20,flattened SAWD,"JRA3Q wind_speed_10m_mean, 20 days before survey.",m/s,day -20
+JRA3Q_wind_speed_10m_mean_d19,flattened SAWD,"JRA3Q wind_speed_10m_mean, 19 days before survey.",m/s,day -19
+JRA3Q_wind_speed_10m_mean_d18,flattened SAWD,"JRA3Q wind_speed_10m_mean, 18 days before survey.",m/s,day -18
+JRA3Q_wind_speed_10m_mean_d17,flattened SAWD,"JRA3Q wind_speed_10m_mean, 17 days before survey.",m/s,day -17
+JRA3Q_wind_speed_10m_mean_d16,flattened SAWD,"JRA3Q wind_speed_10m_mean, 16 days before survey.",m/s,day -16
+JRA3Q_wind_speed_10m_mean_d15,flattened SAWD,"JRA3Q wind_speed_10m_mean, 15 days before survey.",m/s,day -15
+JRA3Q_wind_speed_10m_mean_d14,flattened SAWD,"JRA3Q wind_speed_10m_mean, 14 days before survey.",m/s,day -14
+JRA3Q_wind_speed_10m_mean_d13,flattened SAWD,"JRA3Q wind_speed_10m_mean, 13 days before survey.",m/s,day -13
+JRA3Q_wind_speed_10m_mean_d12,flattened SAWD,"JRA3Q wind_speed_10m_mean, 12 days before survey.",m/s,day -12
+JRA3Q_wind_speed_10m_mean_d11,flattened SAWD,"JRA3Q wind_speed_10m_mean, 11 days before survey.",m/s,day -11
+JRA3Q_wind_speed_10m_mean_d10,flattened SAWD,"JRA3Q wind_speed_10m_mean, 10 days before survey.",m/s,day -10
+JRA3Q_wind_speed_10m_mean_d9,flattened SAWD,"JRA3Q wind_speed_10m_mean, 9 days before survey.",m/s,day -9
+JRA3Q_wind_speed_10m_mean_d8,flattened SAWD,"JRA3Q wind_speed_10m_mean, 8 days before survey.",m/s,day -8
+JRA3Q_wind_speed_10m_mean_d7,flattened SAWD,"JRA3Q wind_speed_10m_mean, 7 days before survey.",m/s,day -7
+JRA3Q_wind_speed_10m_mean_d6,flattened SAWD,"JRA3Q wind_speed_10m_mean, 6 days before survey.",m/s,day -6
+JRA3Q_wind_speed_10m_mean_d5,flattened SAWD,"JRA3Q wind_speed_10m_mean, 5 days before survey.",m/s,day -5
+JRA3Q_wind_speed_10m_mean_d4,flattened SAWD,"JRA3Q wind_speed_10m_mean, 4 days before survey.",m/s,day -4
+JRA3Q_wind_speed_10m_mean_d3,flattened SAWD,"JRA3Q wind_speed_10m_mean, 3 days before survey.",m/s,day -3
+JRA3Q_wind_speed_10m_min_d21,flattened SAWD,"JRA3Q wind_speed_10m_min, 21 days before survey.",m/s,day -21
+JRA3Q_wind_speed_10m_min_d20,flattened SAWD,"JRA3Q wind_speed_10m_min, 20 days before survey.",m/s,day -20
+JRA3Q_wind_speed_10m_min_d19,flattened SAWD,"JRA3Q wind_speed_10m_min, 19 days before survey.",m/s,day -19
+JRA3Q_wind_speed_10m_min_d18,flattened SAWD,"JRA3Q wind_speed_10m_min, 18 days before survey.",m/s,day -18
+JRA3Q_wind_speed_10m_min_d17,flattened SAWD,"JRA3Q wind_speed_10m_min, 17 days before survey.",m/s,day -17
+JRA3Q_wind_speed_10m_min_d16,flattened SAWD,"JRA3Q wind_speed_10m_min, 16 days before survey.",m/s,day -16
+JRA3Q_wind_speed_10m_min_d15,flattened SAWD,"JRA3Q wind_speed_10m_min, 15 days before survey.",m/s,day -15
+JRA3Q_wind_speed_10m_min_d14,flattened SAWD,"JRA3Q wind_speed_10m_min, 14 days before survey.",m/s,day -14
+JRA3Q_wind_speed_10m_min_d13,flattened SAWD,"JRA3Q wind_speed_10m_min, 13 days before survey.",m/s,day -13
+JRA3Q_wind_speed_10m_min_d12,flattened SAWD,"JRA3Q wind_speed_10m_min, 12 days before survey.",m/s,day -12
+JRA3Q_wind_speed_10m_min_d11,flattened SAWD,"JRA3Q wind_speed_10m_min, 11 days before survey.",m/s,day -11
+JRA3Q_wind_speed_10m_min_d10,flattened SAWD,"JRA3Q wind_speed_10m_min, 10 days before survey.",m/s,day -10
+JRA3Q_wind_speed_10m_min_d9,flattened SAWD,"JRA3Q wind_speed_10m_min, 9 days before survey.",m/s,day -9
+JRA3Q_wind_speed_10m_min_d8,flattened SAWD,"JRA3Q wind_speed_10m_min, 8 days before survey.",m/s,day -8
+JRA3Q_wind_speed_10m_min_d7,flattened SAWD,"JRA3Q wind_speed_10m_min, 7 days before survey.",m/s,day -7
+JRA3Q_wind_speed_10m_min_d6,flattened SAWD,"JRA3Q wind_speed_10m_min, 6 days before survey.",m/s,day -6
+JRA3Q_wind_speed_10m_min_d5,flattened SAWD,"JRA3Q wind_speed_10m_min, 5 days before survey.",m/s,day -5
+JRA3Q_wind_speed_10m_min_d4,flattened SAWD,"JRA3Q wind_speed_10m_min, 4 days before survey.",m/s,day -4
+JRA3Q_wind_speed_10m_min_d3,flattened SAWD,"JRA3Q wind_speed_10m_min, 3 days before survey.",m/s,day -3
+JRA3Q_precipitation_sum_d21,flattened SAWD,"JRA3Q precipitation_sum, 21 days before survey.",mm/day,day -21
+JRA3Q_precipitation_sum_d20,flattened SAWD,"JRA3Q precipitation_sum, 20 days before survey.",mm/day,day -20
+JRA3Q_precipitation_sum_d19,flattened SAWD,"JRA3Q precipitation_sum, 19 days before survey.",mm/day,day -19
+JRA3Q_precipitation_sum_d18,flattened SAWD,"JRA3Q precipitation_sum, 18 days before survey.",mm/day,day -18
+JRA3Q_precipitation_sum_d17,flattened SAWD,"JRA3Q precipitation_sum, 17 days before survey.",mm/day,day -17
+JRA3Q_precipitation_sum_d16,flattened SAWD,"JRA3Q precipitation_sum, 16 days before survey.",mm/day,day -16
+JRA3Q_precipitation_sum_d15,flattened SAWD,"JRA3Q precipitation_sum, 15 days before survey.",mm/day,day -15
+JRA3Q_precipitation_sum_d14,flattened SAWD,"JRA3Q precipitation_sum, 14 days before survey.",mm/day,day -14
+JRA3Q_precipitation_sum_d13,flattened SAWD,"JRA3Q precipitation_sum, 13 days before survey.",mm/day,day -13
+JRA3Q_precipitation_sum_d12,flattened SAWD,"JRA3Q precipitation_sum, 12 days before survey.",mm/day,day -12
+JRA3Q_precipitation_sum_d11,flattened SAWD,"JRA3Q precipitation_sum, 11 days before survey.",mm/day,day -11
+JRA3Q_precipitation_sum_d10,flattened SAWD,"JRA3Q precipitation_sum, 10 days before survey.",mm/day,day -10
+JRA3Q_precipitation_sum_d9,flattened SAWD,"JRA3Q precipitation_sum, 9 days before survey.",mm/day,day -9
+JRA3Q_precipitation_sum_d8,flattened SAWD,"JRA3Q precipitation_sum, 8 days before survey.",mm/day,day -8
+JRA3Q_precipitation_sum_d7,flattened SAWD,"JRA3Q precipitation_sum, 7 days before survey.",mm/day,day -7
+JRA3Q_precipitation_sum_d6,flattened SAWD,"JRA3Q precipitation_sum, 6 days before survey.",mm/day,day -6
+JRA3Q_precipitation_sum_d5,flattened SAWD,"JRA3Q precipitation_sum, 5 days before survey.",mm/day,day -5
+JRA3Q_precipitation_sum_d4,flattened SAWD,"JRA3Q precipitation_sum, 4 days before survey.",mm/day,day -4
+JRA3Q_precipitation_sum_d3,flattened SAWD,"JRA3Q precipitation_sum, 3 days before survey.",mm/day,day -3
+JRA3Q_relative_humidity_2m_max_d21,flattened SAWD,"JRA3Q relative_humidity_2m_max, 21 days before survey.",%,day -21
+JRA3Q_relative_humidity_2m_max_d20,flattened SAWD,"JRA3Q relative_humidity_2m_max, 20 days before survey.",%,day -20
+JRA3Q_relative_humidity_2m_max_d19,flattened SAWD,"JRA3Q relative_humidity_2m_max, 19 days before survey.",%,day -19
+JRA3Q_relative_humidity_2m_max_d18,flattened SAWD,"JRA3Q relative_humidity_2m_max, 18 days before survey.",%,day -18
+JRA3Q_relative_humidity_2m_max_d17,flattened SAWD,"JRA3Q relative_humidity_2m_max, 17 days before survey.",%,day -17
+JRA3Q_relative_humidity_2m_max_d16,flattened SAWD,"JRA3Q relative_humidity_2m_max, 16 days before survey.",%,day -16
+JRA3Q_relative_humidity_2m_max_d15,flattened SAWD,"JRA3Q relative_humidity_2m_max, 15 days before survey.",%,day -15
+JRA3Q_relative_humidity_2m_max_d14,flattened SAWD,"JRA3Q relative_humidity_2m_max, 14 days before survey.",%,day -14
+JRA3Q_relative_humidity_2m_max_d13,flattened SAWD,"JRA3Q relative_humidity_2m_max, 13 days before survey.",%,day -13
+JRA3Q_relative_humidity_2m_max_d12,flattened SAWD,"JRA3Q relative_humidity_2m_max, 12 days before survey.",%,day -12
+JRA3Q_relative_humidity_2m_max_d11,flattened SAWD,"JRA3Q relative_humidity_2m_max, 11 days before survey.",%,day -11
+JRA3Q_relative_humidity_2m_max_d10,flattened SAWD,"JRA3Q relative_humidity_2m_max, 10 days before survey.",%,day -10
+JRA3Q_relative_humidity_2m_max_d9,flattened SAWD,"JRA3Q relative_humidity_2m_max, 9 days before survey.",%,day -9
+JRA3Q_relative_humidity_2m_max_d8,flattened SAWD,"JRA3Q relative_humidity_2m_max, 8 days before survey.",%,day -8
+JRA3Q_relative_humidity_2m_max_d7,flattened SAWD,"JRA3Q relative_humidity_2m_max, 7 days before survey.",%,day -7
+JRA3Q_relative_humidity_2m_max_d6,flattened SAWD,"JRA3Q relative_humidity_2m_max, 6 days before survey.",%,day -6
+JRA3Q_relative_humidity_2m_max_d5,flattened SAWD,"JRA3Q relative_humidity_2m_max, 5 days before survey.",%,day -5
+JRA3Q_relative_humidity_2m_max_d4,flattened SAWD,"JRA3Q relative_humidity_2m_max, 4 days before survey.",%,day -4
+JRA3Q_relative_humidity_2m_max_d3,flattened SAWD,"JRA3Q relative_humidity_2m_max, 3 days before survey.",%,day -3
+JRA3Q_relative_humidity_2m_min_d21,flattened SAWD,"JRA3Q relative_humidity_2m_min, 21 days before survey.",%,day -21
+JRA3Q_relative_humidity_2m_min_d20,flattened SAWD,"JRA3Q relative_humidity_2m_min, 20 days before survey.",%,day -20
+JRA3Q_relative_humidity_2m_min_d19,flattened SAWD,"JRA3Q relative_humidity_2m_min, 19 days before survey.",%,day -19
+JRA3Q_relative_humidity_2m_min_d18,flattened SAWD,"JRA3Q relative_humidity_2m_min, 18 days before survey.",%,day -18
+JRA3Q_relative_humidity_2m_min_d17,flattened SAWD,"JRA3Q relative_humidity_2m_min, 17 days before survey.",%,day -17
+JRA3Q_relative_humidity_2m_min_d16,flattened SAWD,"JRA3Q relative_humidity_2m_min, 16 days before survey.",%,day -16
+JRA3Q_relative_humidity_2m_min_d15,flattened SAWD,"JRA3Q relative_humidity_2m_min, 15 days before survey.",%,day -15
+JRA3Q_relative_humidity_2m_min_d14,flattened SAWD,"JRA3Q relative_humidity_2m_min, 14 days before survey.",%,day -14
+JRA3Q_relative_humidity_2m_min_d13,flattened SAWD,"JRA3Q relative_humidity_2m_min, 13 days before survey.",%,day -13
+JRA3Q_relative_humidity_2m_min_d12,flattened SAWD,"JRA3Q relative_humidity_2m_min, 12 days before survey.",%,day -12
+JRA3Q_relative_humidity_2m_min_d11,flattened SAWD,"JRA3Q relative_humidity_2m_min, 11 days before survey.",%,day -11
+JRA3Q_relative_humidity_2m_min_d10,flattened SAWD,"JRA3Q relative_humidity_2m_min, 10 days before survey.",%,day -10
+JRA3Q_relative_humidity_2m_min_d9,flattened SAWD,"JRA3Q relative_humidity_2m_min, 9 days before survey.",%,day -9
+JRA3Q_relative_humidity_2m_min_d8,flattened SAWD,"JRA3Q relative_humidity_2m_min, 8 days before survey.",%,day -8
+JRA3Q_relative_humidity_2m_min_d7,flattened SAWD,"JRA3Q relative_humidity_2m_min, 7 days before survey.",%,day -7
+JRA3Q_relative_humidity_2m_min_d6,flattened SAWD,"JRA3Q relative_humidity_2m_min, 6 days before survey.",%,day -6
+JRA3Q_relative_humidity_2m_min_d5,flattened SAWD,"JRA3Q relative_humidity_2m_min, 5 days before survey.",%,day -5
+JRA3Q_relative_humidity_2m_min_d4,flattened SAWD,"JRA3Q relative_humidity_2m_min, 4 days before survey.",%,day -4
+JRA3Q_relative_humidity_2m_min_d3,flattened SAWD,"JRA3Q relative_humidity_2m_min, 3 days before survey.",%,day -3
+JRA3Q_relative_humidity_2m_mean_d21,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 21 days before survey.",%,day -21
+JRA3Q_relative_humidity_2m_mean_d20,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 20 days before survey.",%,day -20
+JRA3Q_relative_humidity_2m_mean_d19,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 19 days before survey.",%,day -19
+JRA3Q_relative_humidity_2m_mean_d18,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 18 days before survey.",%,day -18
+JRA3Q_relative_humidity_2m_mean_d17,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 17 days before survey.",%,day -17
+JRA3Q_relative_humidity_2m_mean_d16,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 16 days before survey.",%,day -16
+JRA3Q_relative_humidity_2m_mean_d15,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 15 days before survey.",%,day -15
+JRA3Q_relative_humidity_2m_mean_d14,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 14 days before survey.",%,day -14
+JRA3Q_relative_humidity_2m_mean_d13,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 13 days before survey.",%,day -13
+JRA3Q_relative_humidity_2m_mean_d12,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 12 days before survey.",%,day -12
+JRA3Q_relative_humidity_2m_mean_d11,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 11 days before survey.",%,day -11
+JRA3Q_relative_humidity_2m_mean_d10,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 10 days before survey.",%,day -10
+JRA3Q_relative_humidity_2m_mean_d9,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 9 days before survey.",%,day -9
+JRA3Q_relative_humidity_2m_mean_d8,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 8 days before survey.",%,day -8
+JRA3Q_relative_humidity_2m_mean_d7,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 7 days before survey.",%,day -7
+JRA3Q_relative_humidity_2m_mean_d6,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 6 days before survey.",%,day -6
+JRA3Q_relative_humidity_2m_mean_d5,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 5 days before survey.",%,day -5
+JRA3Q_relative_humidity_2m_mean_d4,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 4 days before survey.",%,day -4
+JRA3Q_relative_humidity_2m_mean_d3,flattened SAWD,"JRA3Q relative_humidity_2m_mean, 3 days before survey.",%,day -3
+MERRA2_temperature_2m_mean_d21,flattened SAWD,"MERRA2 temperature_2m_mean, 21 days before survey.",degrees Celsius,day -21
+MERRA2_temperature_2m_mean_d20,flattened SAWD,"MERRA2 temperature_2m_mean, 20 days before survey.",degrees Celsius,day -20
+MERRA2_temperature_2m_mean_d19,flattened SAWD,"MERRA2 temperature_2m_mean, 19 days before survey.",degrees Celsius,day -19
+MERRA2_temperature_2m_mean_d18,flattened SAWD,"MERRA2 temperature_2m_mean, 18 days before survey.",degrees Celsius,day -18
+MERRA2_temperature_2m_mean_d17,flattened SAWD,"MERRA2 temperature_2m_mean, 17 days before survey.",degrees Celsius,day -17
+MERRA2_temperature_2m_mean_d16,flattened SAWD,"MERRA2 temperature_2m_mean, 16 days before survey.",degrees Celsius,day -16
+MERRA2_temperature_2m_mean_d15,flattened SAWD,"MERRA2 temperature_2m_mean, 15 days before survey.",degrees Celsius,day -15
+MERRA2_temperature_2m_mean_d14,flattened SAWD,"MERRA2 temperature_2m_mean, 14 days before survey.",degrees Celsius,day -14
+MERRA2_temperature_2m_mean_d13,flattened SAWD,"MERRA2 temperature_2m_mean, 13 days before survey.",degrees Celsius,day -13
+MERRA2_temperature_2m_mean_d12,flattened SAWD,"MERRA2 temperature_2m_mean, 12 days before survey.",degrees Celsius,day -12
+MERRA2_temperature_2m_mean_d11,flattened SAWD,"MERRA2 temperature_2m_mean, 11 days before survey.",degrees Celsius,day -11
+MERRA2_temperature_2m_mean_d10,flattened SAWD,"MERRA2 temperature_2m_mean, 10 days before survey.",degrees Celsius,day -10
+MERRA2_temperature_2m_mean_d9,flattened SAWD,"MERRA2 temperature_2m_mean, 9 days before survey.",degrees Celsius,day -9
+MERRA2_temperature_2m_mean_d8,flattened SAWD,"MERRA2 temperature_2m_mean, 8 days before survey.",degrees Celsius,day -8
+MERRA2_temperature_2m_mean_d7,flattened SAWD,"MERRA2 temperature_2m_mean, 7 days before survey.",degrees Celsius,day -7
+MERRA2_temperature_2m_mean_d6,flattened SAWD,"MERRA2 temperature_2m_mean, 6 days before survey.",degrees Celsius,day -6
+MERRA2_temperature_2m_mean_d5,flattened SAWD,"MERRA2 temperature_2m_mean, 5 days before survey.",degrees Celsius,day -5
+MERRA2_temperature_2m_mean_d4,flattened SAWD,"MERRA2 temperature_2m_mean, 4 days before survey.",degrees Celsius,day -4
+MERRA2_temperature_2m_mean_d3,flattened SAWD,"MERRA2 temperature_2m_mean, 3 days before survey.",degrees Celsius,day -3
+MERRA2_temperature_2m_max_d21,flattened SAWD,"MERRA2 temperature_2m_max, 21 days before survey.",degrees Celsius,day -21
+MERRA2_temperature_2m_max_d20,flattened SAWD,"MERRA2 temperature_2m_max, 20 days before survey.",degrees Celsius,day -20
+MERRA2_temperature_2m_max_d19,flattened SAWD,"MERRA2 temperature_2m_max, 19 days before survey.",degrees Celsius,day -19
+MERRA2_temperature_2m_max_d18,flattened SAWD,"MERRA2 temperature_2m_max, 18 days before survey.",degrees Celsius,day -18
+MERRA2_temperature_2m_max_d17,flattened SAWD,"MERRA2 temperature_2m_max, 17 days before survey.",degrees Celsius,day -17
+MERRA2_temperature_2m_max_d16,flattened SAWD,"MERRA2 temperature_2m_max, 16 days before survey.",degrees Celsius,day -16
+MERRA2_temperature_2m_max_d15,flattened SAWD,"MERRA2 temperature_2m_max, 15 days before survey.",degrees Celsius,day -15
+MERRA2_temperature_2m_max_d14,flattened SAWD,"MERRA2 temperature_2m_max, 14 days before survey.",degrees Celsius,day -14
+MERRA2_temperature_2m_max_d13,flattened SAWD,"MERRA2 temperature_2m_max, 13 days before survey.",degrees Celsius,day -13
+MERRA2_temperature_2m_max_d12,flattened SAWD,"MERRA2 temperature_2m_max, 12 days before survey.",degrees Celsius,day -12
+MERRA2_temperature_2m_max_d11,flattened SAWD,"MERRA2 temperature_2m_max, 11 days before survey.",degrees Celsius,day -11
+MERRA2_temperature_2m_max_d10,flattened SAWD,"MERRA2 temperature_2m_max, 10 days before survey.",degrees Celsius,day -10
+MERRA2_temperature_2m_max_d9,flattened SAWD,"MERRA2 temperature_2m_max, 9 days before survey.",degrees Celsius,day -9
+MERRA2_temperature_2m_max_d8,flattened SAWD,"MERRA2 temperature_2m_max, 8 days before survey.",degrees Celsius,day -8
+MERRA2_temperature_2m_max_d7,flattened SAWD,"MERRA2 temperature_2m_max, 7 days before survey.",degrees Celsius,day -7
+MERRA2_temperature_2m_max_d6,flattened SAWD,"MERRA2 temperature_2m_max, 6 days before survey.",degrees Celsius,day -6
+MERRA2_temperature_2m_max_d5,flattened SAWD,"MERRA2 temperature_2m_max, 5 days before survey.",degrees Celsius,day -5
+MERRA2_temperature_2m_max_d4,flattened SAWD,"MERRA2 temperature_2m_max, 4 days before survey.",degrees Celsius,day -4
+MERRA2_temperature_2m_max_d3,flattened SAWD,"MERRA2 temperature_2m_max, 3 days before survey.",degrees Celsius,day -3
+MERRA2_temperature_2m_min_d21,flattened SAWD,"MERRA2 temperature_2m_min, 21 days before survey.",degrees Celsius,day -21
+MERRA2_temperature_2m_min_d20,flattened SAWD,"MERRA2 temperature_2m_min, 20 days before survey.",degrees Celsius,day -20
+MERRA2_temperature_2m_min_d19,flattened SAWD,"MERRA2 temperature_2m_min, 19 days before survey.",degrees Celsius,day -19
+MERRA2_temperature_2m_min_d18,flattened SAWD,"MERRA2 temperature_2m_min, 18 days before survey.",degrees Celsius,day -18
+MERRA2_temperature_2m_min_d17,flattened SAWD,"MERRA2 temperature_2m_min, 17 days before survey.",degrees Celsius,day -17
+MERRA2_temperature_2m_min_d16,flattened SAWD,"MERRA2 temperature_2m_min, 16 days before survey.",degrees Celsius,day -16
+MERRA2_temperature_2m_min_d15,flattened SAWD,"MERRA2 temperature_2m_min, 15 days before survey.",degrees Celsius,day -15
+MERRA2_temperature_2m_min_d14,flattened SAWD,"MERRA2 temperature_2m_min, 14 days before survey.",degrees Celsius,day -14
+MERRA2_temperature_2m_min_d13,flattened SAWD,"MERRA2 temperature_2m_min, 13 days before survey.",degrees Celsius,day -13
+MERRA2_temperature_2m_min_d12,flattened SAWD,"MERRA2 temperature_2m_min, 12 days before survey.",degrees Celsius,day -12
+MERRA2_temperature_2m_min_d11,flattened SAWD,"MERRA2 temperature_2m_min, 11 days before survey.",degrees Celsius,day -11
+MERRA2_temperature_2m_min_d10,flattened SAWD,"MERRA2 temperature_2m_min, 10 days before survey.",degrees Celsius,day -10
+MERRA2_temperature_2m_min_d9,flattened SAWD,"MERRA2 temperature_2m_min, 9 days before survey.",degrees Celsius,day -9
+MERRA2_temperature_2m_min_d8,flattened SAWD,"MERRA2 temperature_2m_min, 8 days before survey.",degrees Celsius,day -8
+MERRA2_temperature_2m_min_d7,flattened SAWD,"MERRA2 temperature_2m_min, 7 days before survey.",degrees Celsius,day -7
+MERRA2_temperature_2m_min_d6,flattened SAWD,"MERRA2 temperature_2m_min, 6 days before survey.",degrees Celsius,day -6
+MERRA2_temperature_2m_min_d5,flattened SAWD,"MERRA2 temperature_2m_min, 5 days before survey.",degrees Celsius,day -5
+MERRA2_temperature_2m_min_d4,flattened SAWD,"MERRA2 temperature_2m_min, 4 days before survey.",degrees Celsius,day -4
+MERRA2_temperature_2m_min_d3,flattened SAWD,"MERRA2 temperature_2m_min, 3 days before survey.",degrees Celsius,day -3
+MERRA2_wind_speed_10m_max_d21,flattened SAWD,"MERRA2 wind_speed_10m_max, 21 days before survey.",m/s,day -21
+MERRA2_wind_speed_10m_max_d20,flattened SAWD,"MERRA2 wind_speed_10m_max, 20 days before survey.",m/s,day -20
+MERRA2_wind_speed_10m_max_d19,flattened SAWD,"MERRA2 wind_speed_10m_max, 19 days before survey.",m/s,day -19
+MERRA2_wind_speed_10m_max_d18,flattened SAWD,"MERRA2 wind_speed_10m_max, 18 days before survey.",m/s,day -18
+MERRA2_wind_speed_10m_max_d17,flattened SAWD,"MERRA2 wind_speed_10m_max, 17 days before survey.",m/s,day -17
+MERRA2_wind_speed_10m_max_d16,flattened SAWD,"MERRA2 wind_speed_10m_max, 16 days before survey.",m/s,day -16
+MERRA2_wind_speed_10m_max_d15,flattened SAWD,"MERRA2 wind_speed_10m_max, 15 days before survey.",m/s,day -15
+MERRA2_wind_speed_10m_max_d14,flattened SAWD,"MERRA2 wind_speed_10m_max, 14 days before survey.",m/s,day -14
+MERRA2_wind_speed_10m_max_d13,flattened SAWD,"MERRA2 wind_speed_10m_max, 13 days before survey.",m/s,day -13
+MERRA2_wind_speed_10m_max_d12,flattened SAWD,"MERRA2 wind_speed_10m_max, 12 days before survey.",m/s,day -12
+MERRA2_wind_speed_10m_max_d11,flattened SAWD,"MERRA2 wind_speed_10m_max, 11 days before survey.",m/s,day -11
+MERRA2_wind_speed_10m_max_d10,flattened SAWD,"MERRA2 wind_speed_10m_max, 10 days before survey.",m/s,day -10
+MERRA2_wind_speed_10m_max_d9,flattened SAWD,"MERRA2 wind_speed_10m_max, 9 days before survey.",m/s,day -9
+MERRA2_wind_speed_10m_max_d8,flattened SAWD,"MERRA2 wind_speed_10m_max, 8 days before survey.",m/s,day -8
+MERRA2_wind_speed_10m_max_d7,flattened SAWD,"MERRA2 wind_speed_10m_max, 7 days before survey.",m/s,day -7
+MERRA2_wind_speed_10m_max_d6,flattened SAWD,"MERRA2 wind_speed_10m_max, 6 days before survey.",m/s,day -6
+MERRA2_wind_speed_10m_max_d5,flattened SAWD,"MERRA2 wind_speed_10m_max, 5 days before survey.",m/s,day -5
+MERRA2_wind_speed_10m_max_d4,flattened SAWD,"MERRA2 wind_speed_10m_max, 4 days before survey.",m/s,day -4
+MERRA2_wind_speed_10m_max_d3,flattened SAWD,"MERRA2 wind_speed_10m_max, 3 days before survey.",m/s,day -3
+MERRA2_wind_speed_10m_mean_d21,flattened SAWD,"MERRA2 wind_speed_10m_mean, 21 days before survey.",m/s,day -21
+MERRA2_wind_speed_10m_mean_d20,flattened SAWD,"MERRA2 wind_speed_10m_mean, 20 days before survey.",m/s,day -20
+MERRA2_wind_speed_10m_mean_d19,flattened SAWD,"MERRA2 wind_speed_10m_mean, 19 days before survey.",m/s,day -19
+MERRA2_wind_speed_10m_mean_d18,flattened SAWD,"MERRA2 wind_speed_10m_mean, 18 days before survey.",m/s,day -18
+MERRA2_wind_speed_10m_mean_d17,flattened SAWD,"MERRA2 wind_speed_10m_mean, 17 days before survey.",m/s,day -17
+MERRA2_wind_speed_10m_mean_d16,flattened SAWD,"MERRA2 wind_speed_10m_mean, 16 days before survey.",m/s,day -16
+MERRA2_wind_speed_10m_mean_d15,flattened SAWD,"MERRA2 wind_speed_10m_mean, 15 days before survey.",m/s,day -15
+MERRA2_wind_speed_10m_mean_d14,flattened SAWD,"MERRA2 wind_speed_10m_mean, 14 days before survey.",m/s,day -14
+MERRA2_wind_speed_10m_mean_d13,flattened SAWD,"MERRA2 wind_speed_10m_mean, 13 days before survey.",m/s,day -13
+MERRA2_wind_speed_10m_mean_d12,flattened SAWD,"MERRA2 wind_speed_10m_mean, 12 days before survey.",m/s,day -12
+MERRA2_wind_speed_10m_mean_d11,flattened SAWD,"MERRA2 wind_speed_10m_mean, 11 days before survey.",m/s,day -11
+MERRA2_wind_speed_10m_mean_d10,flattened SAWD,"MERRA2 wind_speed_10m_mean, 10 days before survey.",m/s,day -10
+MERRA2_wind_speed_10m_mean_d9,flattened SAWD,"MERRA2 wind_speed_10m_mean, 9 days before survey.",m/s,day -9
+MERRA2_wind_speed_10m_mean_d8,flattened SAWD,"MERRA2 wind_speed_10m_mean, 8 days before survey.",m/s,day -8
+MERRA2_wind_speed_10m_mean_d7,flattened SAWD,"MERRA2 wind_speed_10m_mean, 7 days before survey.",m/s,day -7
+MERRA2_wind_speed_10m_mean_d6,flattened SAWD,"MERRA2 wind_speed_10m_mean, 6 days before survey.",m/s,day -6
+MERRA2_wind_speed_10m_mean_d5,flattened SAWD,"MERRA2 wind_speed_10m_mean, 5 days before survey.",m/s,day -5
+MERRA2_wind_speed_10m_mean_d4,flattened SAWD,"MERRA2 wind_speed_10m_mean, 4 days before survey.",m/s,day -4
+MERRA2_wind_speed_10m_mean_d3,flattened SAWD,"MERRA2 wind_speed_10m_mean, 3 days before survey.",m/s,day -3
+MERRA2_wind_speed_10m_min_d21,flattened SAWD,"MERRA2 wind_speed_10m_min, 21 days before survey.",m/s,day -21
+MERRA2_wind_speed_10m_min_d20,flattened SAWD,"MERRA2 wind_speed_10m_min, 20 days before survey.",m/s,day -20
+MERRA2_wind_speed_10m_min_d19,flattened SAWD,"MERRA2 wind_speed_10m_min, 19 days before survey.",m/s,day -19
+MERRA2_wind_speed_10m_min_d18,flattened SAWD,"MERRA2 wind_speed_10m_min, 18 days before survey.",m/s,day -18
+MERRA2_wind_speed_10m_min_d17,flattened SAWD,"MERRA2 wind_speed_10m_min, 17 days before survey.",m/s,day -17
+MERRA2_wind_speed_10m_min_d16,flattened SAWD,"MERRA2 wind_speed_10m_min, 16 days before survey.",m/s,day -16
+MERRA2_wind_speed_10m_min_d15,flattened SAWD,"MERRA2 wind_speed_10m_min, 15 days before survey.",m/s,day -15
+MERRA2_wind_speed_10m_min_d14,flattened SAWD,"MERRA2 wind_speed_10m_min, 14 days before survey.",m/s,day -14
+MERRA2_wind_speed_10m_min_d13,flattened SAWD,"MERRA2 wind_speed_10m_min, 13 days before survey.",m/s,day -13
+MERRA2_wind_speed_10m_min_d12,flattened SAWD,"MERRA2 wind_speed_10m_min, 12 days before survey.",m/s,day -12
+MERRA2_wind_speed_10m_min_d11,flattened SAWD,"MERRA2 wind_speed_10m_min, 11 days before survey.",m/s,day -11
+MERRA2_wind_speed_10m_min_d10,flattened SAWD,"MERRA2 wind_speed_10m_min, 10 days before survey.",m/s,day -10
+MERRA2_wind_speed_10m_min_d9,flattened SAWD,"MERRA2 wind_speed_10m_min, 9 days before survey.",m/s,day -9
+MERRA2_wind_speed_10m_min_d8,flattened SAWD,"MERRA2 wind_speed_10m_min, 8 days before survey.",m/s,day -8
+MERRA2_wind_speed_10m_min_d7,flattened SAWD,"MERRA2 wind_speed_10m_min, 7 days before survey.",m/s,day -7
+MERRA2_wind_speed_10m_min_d6,flattened SAWD,"MERRA2 wind_speed_10m_min, 6 days before survey.",m/s,day -6
+MERRA2_wind_speed_10m_min_d5,flattened SAWD,"MERRA2 wind_speed_10m_min, 5 days before survey.",m/s,day -5
+MERRA2_wind_speed_10m_min_d4,flattened SAWD,"MERRA2 wind_speed_10m_min, 4 days before survey.",m/s,day -4
+MERRA2_wind_speed_10m_min_d3,flattened SAWD,"MERRA2 wind_speed_10m_min, 3 days before survey.",m/s,day -3
+MERRA2_precipitation_sum_d21,flattened SAWD,"MERRA2 precipitation_sum, 21 days before survey.",mm/day,day -21
+MERRA2_precipitation_sum_d20,flattened SAWD,"MERRA2 precipitation_sum, 20 days before survey.",mm/day,day -20
+MERRA2_precipitation_sum_d19,flattened SAWD,"MERRA2 precipitation_sum, 19 days before survey.",mm/day,day -19
+MERRA2_precipitation_sum_d18,flattened SAWD,"MERRA2 precipitation_sum, 18 days before survey.",mm/day,day -18
+MERRA2_precipitation_sum_d17,flattened SAWD,"MERRA2 precipitation_sum, 17 days before survey.",mm/day,day -17
+MERRA2_precipitation_sum_d16,flattened SAWD,"MERRA2 precipitation_sum, 16 days before survey.",mm/day,day -16
+MERRA2_precipitation_sum_d15,flattened SAWD,"MERRA2 precipitation_sum, 15 days before survey.",mm/day,day -15
+MERRA2_precipitation_sum_d14,flattened SAWD,"MERRA2 precipitation_sum, 14 days before survey.",mm/day,day -14
+MERRA2_precipitation_sum_d13,flattened SAWD,"MERRA2 precipitation_sum, 13 days before survey.",mm/day,day -13
+MERRA2_precipitation_sum_d12,flattened SAWD,"MERRA2 precipitation_sum, 12 days before survey.",mm/day,day -12
+MERRA2_precipitation_sum_d11,flattened SAWD,"MERRA2 precipitation_sum, 11 days before survey.",mm/day,day -11
+MERRA2_precipitation_sum_d10,flattened SAWD,"MERRA2 precipitation_sum, 10 days before survey.",mm/day,day -10
+MERRA2_precipitation_sum_d9,flattened SAWD,"MERRA2 precipitation_sum, 9 days before survey.",mm/day,day -9
+MERRA2_precipitation_sum_d8,flattened SAWD,"MERRA2 precipitation_sum, 8 days before survey.",mm/day,day -8
+MERRA2_precipitation_sum_d7,flattened SAWD,"MERRA2 precipitation_sum, 7 days before survey.",mm/day,day -7
+MERRA2_precipitation_sum_d6,flattened SAWD,"MERRA2 precipitation_sum, 6 days before survey.",mm/day,day -6
+MERRA2_precipitation_sum_d5,flattened SAWD,"MERRA2 precipitation_sum, 5 days before survey.",mm/day,day -5
+MERRA2_precipitation_sum_d4,flattened SAWD,"MERRA2 precipitation_sum, 4 days before survey.",mm/day,day -4
+MERRA2_precipitation_sum_d3,flattened SAWD,"MERRA2 precipitation_sum, 3 days before survey.",mm/day,day -3
+MERRA2_relative_humidity_2m_max_d21,flattened SAWD,"MERRA2 relative_humidity_2m_max, 21 days before survey.",%,day -21
+MERRA2_relative_humidity_2m_max_d20,flattened SAWD,"MERRA2 relative_humidity_2m_max, 20 days before survey.",%,day -20
+MERRA2_relative_humidity_2m_max_d19,flattened SAWD,"MERRA2 relative_humidity_2m_max, 19 days before survey.",%,day -19
+MERRA2_relative_humidity_2m_max_d18,flattened SAWD,"MERRA2 relative_humidity_2m_max, 18 days before survey.",%,day -18
+MERRA2_relative_humidity_2m_max_d17,flattened SAWD,"MERRA2 relative_humidity_2m_max, 17 days before survey.",%,day -17
+MERRA2_relative_humidity_2m_max_d16,flattened SAWD,"MERRA2 relative_humidity_2m_max, 16 days before survey.",%,day -16
+MERRA2_relative_humidity_2m_max_d15,flattened SAWD,"MERRA2 relative_humidity_2m_max, 15 days before survey.",%,day -15
+MERRA2_relative_humidity_2m_max_d14,flattened SAWD,"MERRA2 relative_humidity_2m_max, 14 days before survey.",%,day -14
+MERRA2_relative_humidity_2m_max_d13,flattened SAWD,"MERRA2 relative_humidity_2m_max, 13 days before survey.",%,day -13
+MERRA2_relative_humidity_2m_max_d12,flattened SAWD,"MERRA2 relative_humidity_2m_max, 12 days before survey.",%,day -12
+MERRA2_relative_humidity_2m_max_d11,flattened SAWD,"MERRA2 relative_humidity_2m_max, 11 days before survey.",%,day -11
+MERRA2_relative_humidity_2m_max_d10,flattened SAWD,"MERRA2 relative_humidity_2m_max, 10 days before survey.",%,day -10
+MERRA2_relative_humidity_2m_max_d9,flattened SAWD,"MERRA2 relative_humidity_2m_max, 9 days before survey.",%,day -9
+MERRA2_relative_humidity_2m_max_d8,flattened SAWD,"MERRA2 relative_humidity_2m_max, 8 days before survey.",%,day -8
+MERRA2_relative_humidity_2m_max_d7,flattened SAWD,"MERRA2 relative_humidity_2m_max, 7 days before survey.",%,day -7
+MERRA2_relative_humidity_2m_max_d6,flattened SAWD,"MERRA2 relative_humidity_2m_max, 6 days before survey.",%,day -6
+MERRA2_relative_humidity_2m_max_d5,flattened SAWD,"MERRA2 relative_humidity_2m_max, 5 days before survey.",%,day -5
+MERRA2_relative_humidity_2m_max_d4,flattened SAWD,"MERRA2 relative_humidity_2m_max, 4 days before survey.",%,day -4
+MERRA2_relative_humidity_2m_max_d3,flattened SAWD,"MERRA2 relative_humidity_2m_max, 3 days before survey.",%,day -3
+MERRA2_relative_humidity_2m_min_d21,flattened SAWD,"MERRA2 relative_humidity_2m_min, 21 days before survey.",%,day -21
+MERRA2_relative_humidity_2m_min_d20,flattened SAWD,"MERRA2 relative_humidity_2m_min, 20 days before survey.",%,day -20
+MERRA2_relative_humidity_2m_min_d19,flattened SAWD,"MERRA2 relative_humidity_2m_min, 19 days before survey.",%,day -19
+MERRA2_relative_humidity_2m_min_d18,flattened SAWD,"MERRA2 relative_humidity_2m_min, 18 days before survey.",%,day -18
+MERRA2_relative_humidity_2m_min_d17,flattened SAWD,"MERRA2 relative_humidity_2m_min, 17 days before survey.",%,day -17
+MERRA2_relative_humidity_2m_min_d16,flattened SAWD,"MERRA2 relative_humidity_2m_min, 16 days before survey.",%,day -16
+MERRA2_relative_humidity_2m_min_d15,flattened SAWD,"MERRA2 relative_humidity_2m_min, 15 days before survey.",%,day -15
+MERRA2_relative_humidity_2m_min_d14,flattened SAWD,"MERRA2 relative_humidity_2m_min, 14 days before survey.",%,day -14
+MERRA2_relative_humidity_2m_min_d13,flattened SAWD,"MERRA2 relative_humidity_2m_min, 13 days before survey.",%,day -13
+MERRA2_relative_humidity_2m_min_d12,flattened SAWD,"MERRA2 relative_humidity_2m_min, 12 days before survey.",%,day -12
+MERRA2_relative_humidity_2m_min_d11,flattened SAWD,"MERRA2 relative_humidity_2m_min, 11 days before survey.",%,day -11
+MERRA2_relative_humidity_2m_min_d10,flattened SAWD,"MERRA2 relative_humidity_2m_min, 10 days before survey.",%,day -10
+MERRA2_relative_humidity_2m_min_d9,flattened SAWD,"MERRA2 relative_humidity_2m_min, 9 days before survey.",%,day -9
+MERRA2_relative_humidity_2m_min_d8,flattened SAWD,"MERRA2 relative_humidity_2m_min, 8 days before survey.",%,day -8
+MERRA2_relative_humidity_2m_min_d7,flattened SAWD,"MERRA2 relative_humidity_2m_min, 7 days before survey.",%,day -7
+MERRA2_relative_humidity_2m_min_d6,flattened SAWD,"MERRA2 relative_humidity_2m_min, 6 days before survey.",%,day -6
+MERRA2_relative_humidity_2m_min_d5,flattened SAWD,"MERRA2 relative_humidity_2m_min, 5 days before survey.",%,day -5
+MERRA2_relative_humidity_2m_min_d4,flattened SAWD,"MERRA2 relative_humidity_2m_min, 4 days before survey.",%,day -4
+MERRA2_relative_humidity_2m_min_d3,flattened SAWD,"MERRA2 relative_humidity_2m_min, 3 days before survey.",%,day -3
+MERRA2_relative_humidity_2m_mean_d21,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 21 days before survey.",%,day -21
+MERRA2_relative_humidity_2m_mean_d20,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 20 days before survey.",%,day -20
+MERRA2_relative_humidity_2m_mean_d19,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 19 days before survey.",%,day -19
+MERRA2_relative_humidity_2m_mean_d18,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 18 days before survey.",%,day -18
+MERRA2_relative_humidity_2m_mean_d17,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 17 days before survey.",%,day -17
+MERRA2_relative_humidity_2m_mean_d16,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 16 days before survey.",%,day -16
+MERRA2_relative_humidity_2m_mean_d15,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 15 days before survey.",%,day -15
+MERRA2_relative_humidity_2m_mean_d14,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 14 days before survey.",%,day -14
+MERRA2_relative_humidity_2m_mean_d13,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 13 days before survey.",%,day -13
+MERRA2_relative_humidity_2m_mean_d12,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 12 days before survey.",%,day -12
+MERRA2_relative_humidity_2m_mean_d11,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 11 days before survey.",%,day -11
+MERRA2_relative_humidity_2m_mean_d10,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 10 days before survey.",%,day -10
+MERRA2_relative_humidity_2m_mean_d9,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 9 days before survey.",%,day -9
+MERRA2_relative_humidity_2m_mean_d8,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 8 days before survey.",%,day -8
+MERRA2_relative_humidity_2m_mean_d7,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 7 days before survey.",%,day -7
+MERRA2_relative_humidity_2m_mean_d6,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 6 days before survey.",%,day -6
+MERRA2_relative_humidity_2m_mean_d5,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 5 days before survey.",%,day -5
+MERRA2_relative_humidity_2m_mean_d4,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 4 days before survey.",%,day -4
+MERRA2_relative_humidity_2m_mean_d3,flattened SAWD,"MERRA2 relative_humidity_2m_mean, 3 days before survey.",%,day -3
+ERA5_temperature_2m_mean_d21,flattened SAWD,"ERA5 temperature_2m_mean, 21 days before survey.",degrees Celsius,day -21
+ERA5_temperature_2m_mean_d20,flattened SAWD,"ERA5 temperature_2m_mean, 20 days before survey.",degrees Celsius,day -20
+ERA5_temperature_2m_mean_d19,flattened SAWD,"ERA5 temperature_2m_mean, 19 days before survey.",degrees Celsius,day -19
+ERA5_temperature_2m_mean_d18,flattened SAWD,"ERA5 temperature_2m_mean, 18 days before survey.",degrees Celsius,day -18
+ERA5_temperature_2m_mean_d17,flattened SAWD,"ERA5 temperature_2m_mean, 17 days before survey.",degrees Celsius,day -17
+ERA5_temperature_2m_mean_d16,flattened SAWD,"ERA5 temperature_2m_mean, 16 days before survey.",degrees Celsius,day -16
+ERA5_temperature_2m_mean_d15,flattened SAWD,"ERA5 temperature_2m_mean, 15 days before survey.",degrees Celsius,day -15
+ERA5_temperature_2m_mean_d14,flattened SAWD,"ERA5 temperature_2m_mean, 14 days before survey.",degrees Celsius,day -14
+ERA5_temperature_2m_mean_d13,flattened SAWD,"ERA5 temperature_2m_mean, 13 days before survey.",degrees Celsius,day -13
+ERA5_temperature_2m_mean_d12,flattened SAWD,"ERA5 temperature_2m_mean, 12 days before survey.",degrees Celsius,day -12
+ERA5_temperature_2m_mean_d11,flattened SAWD,"ERA5 temperature_2m_mean, 11 days before survey.",degrees Celsius,day -11
+ERA5_temperature_2m_mean_d10,flattened SAWD,"ERA5 temperature_2m_mean, 10 days before survey.",degrees Celsius,day -10
+ERA5_temperature_2m_mean_d9,flattened SAWD,"ERA5 temperature_2m_mean, 9 days before survey.",degrees Celsius,day -9
+ERA5_temperature_2m_mean_d8,flattened SAWD,"ERA5 temperature_2m_mean, 8 days before survey.",degrees Celsius,day -8
+ERA5_temperature_2m_mean_d7,flattened SAWD,"ERA5 temperature_2m_mean, 7 days before survey.",degrees Celsius,day -7
+ERA5_temperature_2m_mean_d6,flattened SAWD,"ERA5 temperature_2m_mean, 6 days before survey.",degrees Celsius,day -6
+ERA5_temperature_2m_mean_d5,flattened SAWD,"ERA5 temperature_2m_mean, 5 days before survey.",degrees Celsius,day -5
+ERA5_temperature_2m_mean_d4,flattened SAWD,"ERA5 temperature_2m_mean, 4 days before survey.",degrees Celsius,day -4
+ERA5_temperature_2m_mean_d3,flattened SAWD,"ERA5 temperature_2m_mean, 3 days before survey.",degrees Celsius,day -3
+ERA5_temperature_2m_max_d21,flattened SAWD,"ERA5 temperature_2m_max, 21 days before survey.",degrees Celsius,day -21
+ERA5_temperature_2m_max_d20,flattened SAWD,"ERA5 temperature_2m_max, 20 days before survey.",degrees Celsius,day -20
+ERA5_temperature_2m_max_d19,flattened SAWD,"ERA5 temperature_2m_max, 19 days before survey.",degrees Celsius,day -19
+ERA5_temperature_2m_max_d18,flattened SAWD,"ERA5 temperature_2m_max, 18 days before survey.",degrees Celsius,day -18
+ERA5_temperature_2m_max_d17,flattened SAWD,"ERA5 temperature_2m_max, 17 days before survey.",degrees Celsius,day -17
+ERA5_temperature_2m_max_d16,flattened SAWD,"ERA5 temperature_2m_max, 16 days before survey.",degrees Celsius,day -16
+ERA5_temperature_2m_max_d15,flattened SAWD,"ERA5 temperature_2m_max, 15 days before survey.",degrees Celsius,day -15
+ERA5_temperature_2m_max_d14,flattened SAWD,"ERA5 temperature_2m_max, 14 days before survey.",degrees Celsius,day -14
+ERA5_temperature_2m_max_d13,flattened SAWD,"ERA5 temperature_2m_max, 13 days before survey.",degrees Celsius,day -13
+ERA5_temperature_2m_max_d12,flattened SAWD,"ERA5 temperature_2m_max, 12 days before survey.",degrees Celsius,day -12
+ERA5_temperature_2m_max_d11,flattened SAWD,"ERA5 temperature_2m_max, 11 days before survey.",degrees Celsius,day -11
+ERA5_temperature_2m_max_d10,flattened SAWD,"ERA5 temperature_2m_max, 10 days before survey.",degrees Celsius,day -10
+ERA5_temperature_2m_max_d9,flattened SAWD,"ERA5 temperature_2m_max, 9 days before survey.",degrees Celsius,day -9
+ERA5_temperature_2m_max_d8,flattened SAWD,"ERA5 temperature_2m_max, 8 days before survey.",degrees Celsius,day -8
+ERA5_temperature_2m_max_d7,flattened SAWD,"ERA5 temperature_2m_max, 7 days before survey.",degrees Celsius,day -7
+ERA5_temperature_2m_max_d6,flattened SAWD,"ERA5 temperature_2m_max, 6 days before survey.",degrees Celsius,day -6
+ERA5_temperature_2m_max_d5,flattened SAWD,"ERA5 temperature_2m_max, 5 days before survey.",degrees Celsius,day -5
+ERA5_temperature_2m_max_d4,flattened SAWD,"ERA5 temperature_2m_max, 4 days before survey.",degrees Celsius,day -4
+ERA5_temperature_2m_max_d3,flattened SAWD,"ERA5 temperature_2m_max, 3 days before survey.",degrees Celsius,day -3
+ERA5_temperature_2m_min_d21,flattened SAWD,"ERA5 temperature_2m_min, 21 days before survey.",degrees Celsius,day -21
+ERA5_temperature_2m_min_d20,flattened SAWD,"ERA5 temperature_2m_min, 20 days before survey.",degrees Celsius,day -20
+ERA5_temperature_2m_min_d19,flattened SAWD,"ERA5 temperature_2m_min, 19 days before survey.",degrees Celsius,day -19
+ERA5_temperature_2m_min_d18,flattened SAWD,"ERA5 temperature_2m_min, 18 days before survey.",degrees Celsius,day -18
+ERA5_temperature_2m_min_d17,flattened SAWD,"ERA5 temperature_2m_min, 17 days before survey.",degrees Celsius,day -17
+ERA5_temperature_2m_min_d16,flattened SAWD,"ERA5 temperature_2m_min, 16 days before survey.",degrees Celsius,day -16
+ERA5_temperature_2m_min_d15,flattened SAWD,"ERA5 temperature_2m_min, 15 days before survey.",degrees Celsius,day -15
+ERA5_temperature_2m_min_d14,flattened SAWD,"ERA5 temperature_2m_min, 14 days before survey.",degrees Celsius,day -14
+ERA5_temperature_2m_min_d13,flattened SAWD,"ERA5 temperature_2m_min, 13 days before survey.",degrees Celsius,day -13
+ERA5_temperature_2m_min_d12,flattened SAWD,"ERA5 temperature_2m_min, 12 days before survey.",degrees Celsius,day -12
+ERA5_temperature_2m_min_d11,flattened SAWD,"ERA5 temperature_2m_min, 11 days before survey.",degrees Celsius,day -11
+ERA5_temperature_2m_min_d10,flattened SAWD,"ERA5 temperature_2m_min, 10 days before survey.",degrees Celsius,day -10
+ERA5_temperature_2m_min_d9,flattened SAWD,"ERA5 temperature_2m_min, 9 days before survey.",degrees Celsius,day -9
+ERA5_temperature_2m_min_d8,flattened SAWD,"ERA5 temperature_2m_min, 8 days before survey.",degrees Celsius,day -8
+ERA5_temperature_2m_min_d7,flattened SAWD,"ERA5 temperature_2m_min, 7 days before survey.",degrees Celsius,day -7
+ERA5_temperature_2m_min_d6,flattened SAWD,"ERA5 temperature_2m_min, 6 days before survey.",degrees Celsius,day -6
+ERA5_temperature_2m_min_d5,flattened SAWD,"ERA5 temperature_2m_min, 5 days before survey.",degrees Celsius,day -5
+ERA5_temperature_2m_min_d4,flattened SAWD,"ERA5 temperature_2m_min, 4 days before survey.",degrees Celsius,day -4
+ERA5_temperature_2m_min_d3,flattened SAWD,"ERA5 temperature_2m_min, 3 days before survey.",degrees Celsius,day -3
+ERA5_wind_speed_10m_max_d21,flattened SAWD,"ERA5 wind_speed_10m_max, 21 days before survey.",m/s,day -21
+ERA5_wind_speed_10m_max_d20,flattened SAWD,"ERA5 wind_speed_10m_max, 20 days before survey.",m/s,day -20
+ERA5_wind_speed_10m_max_d19,flattened SAWD,"ERA5 wind_speed_10m_max, 19 days before survey.",m/s,day -19
+ERA5_wind_speed_10m_max_d18,flattened SAWD,"ERA5 wind_speed_10m_max, 18 days before survey.",m/s,day -18
+ERA5_wind_speed_10m_max_d17,flattened SAWD,"ERA5 wind_speed_10m_max, 17 days before survey.",m/s,day -17
+ERA5_wind_speed_10m_max_d16,flattened SAWD,"ERA5 wind_speed_10m_max, 16 days before survey.",m/s,day -16
+ERA5_wind_speed_10m_max_d15,flattened SAWD,"ERA5 wind_speed_10m_max, 15 days before survey.",m/s,day -15
+ERA5_wind_speed_10m_max_d14,flattened SAWD,"ERA5 wind_speed_10m_max, 14 days before survey.",m/s,day -14
+ERA5_wind_speed_10m_max_d13,flattened SAWD,"ERA5 wind_speed_10m_max, 13 days before survey.",m/s,day -13
+ERA5_wind_speed_10m_max_d12,flattened SAWD,"ERA5 wind_speed_10m_max, 12 days before survey.",m/s,day -12
+ERA5_wind_speed_10m_max_d11,flattened SAWD,"ERA5 wind_speed_10m_max, 11 days before survey.",m/s,day -11
+ERA5_wind_speed_10m_max_d10,flattened SAWD,"ERA5 wind_speed_10m_max, 10 days before survey.",m/s,day -10
+ERA5_wind_speed_10m_max_d9,flattened SAWD,"ERA5 wind_speed_10m_max, 9 days before survey.",m/s,day -9
+ERA5_wind_speed_10m_max_d8,flattened SAWD,"ERA5 wind_speed_10m_max, 8 days before survey.",m/s,day -8
+ERA5_wind_speed_10m_max_d7,flattened SAWD,"ERA5 wind_speed_10m_max, 7 days before survey.",m/s,day -7
+ERA5_wind_speed_10m_max_d6,flattened SAWD,"ERA5 wind_speed_10m_max, 6 days before survey.",m/s,day -6
+ERA5_wind_speed_10m_max_d5,flattened SAWD,"ERA5 wind_speed_10m_max, 5 days before survey.",m/s,day -5
+ERA5_wind_speed_10m_max_d4,flattened SAWD,"ERA5 wind_speed_10m_max, 4 days before survey.",m/s,day -4
+ERA5_wind_speed_10m_max_d3,flattened SAWD,"ERA5 wind_speed_10m_max, 3 days before survey.",m/s,day -3
+ERA5_wind_speed_10m_mean_d21,flattened SAWD,"ERA5 wind_speed_10m_mean, 21 days before survey.",m/s,day -21
+ERA5_wind_speed_10m_mean_d20,flattened SAWD,"ERA5 wind_speed_10m_mean, 20 days before survey.",m/s,day -20
+ERA5_wind_speed_10m_mean_d19,flattened SAWD,"ERA5 wind_speed_10m_mean, 19 days before survey.",m/s,day -19
+ERA5_wind_speed_10m_mean_d18,flattened SAWD,"ERA5 wind_speed_10m_mean, 18 days before survey.",m/s,day -18
+ERA5_wind_speed_10m_mean_d17,flattened SAWD,"ERA5 wind_speed_10m_mean, 17 days before survey.",m/s,day -17
+ERA5_wind_speed_10m_mean_d16,flattened SAWD,"ERA5 wind_speed_10m_mean, 16 days before survey.",m/s,day -16
+ERA5_wind_speed_10m_mean_d15,flattened SAWD,"ERA5 wind_speed_10m_mean, 15 days before survey.",m/s,day -15
+ERA5_wind_speed_10m_mean_d14,flattened SAWD,"ERA5 wind_speed_10m_mean, 14 days before survey.",m/s,day -14
+ERA5_wind_speed_10m_mean_d13,flattened SAWD,"ERA5 wind_speed_10m_mean, 13 days before survey.",m/s,day -13
+ERA5_wind_speed_10m_mean_d12,flattened SAWD,"ERA5 wind_speed_10m_mean, 12 days before survey.",m/s,day -12
+ERA5_wind_speed_10m_mean_d11,flattened SAWD,"ERA5 wind_speed_10m_mean, 11 days before survey.",m/s,day -11
+ERA5_wind_speed_10m_mean_d10,flattened SAWD,"ERA5 wind_speed_10m_mean, 10 days before survey.",m/s,day -10
+ERA5_wind_speed_10m_mean_d9,flattened SAWD,"ERA5 wind_speed_10m_mean, 9 days before survey.",m/s,day -9
+ERA5_wind_speed_10m_mean_d8,flattened SAWD,"ERA5 wind_speed_10m_mean, 8 days before survey.",m/s,day -8
+ERA5_wind_speed_10m_mean_d7,flattened SAWD,"ERA5 wind_speed_10m_mean, 7 days before survey.",m/s,day -7
+ERA5_wind_speed_10m_mean_d6,flattened SAWD,"ERA5 wind_speed_10m_mean, 6 days before survey.",m/s,day -6
+ERA5_wind_speed_10m_mean_d5,flattened SAWD,"ERA5 wind_speed_10m_mean, 5 days before survey.",m/s,day -5
+ERA5_wind_speed_10m_mean_d4,flattened SAWD,"ERA5 wind_speed_10m_mean, 4 days before survey.",m/s,day -4
+ERA5_wind_speed_10m_mean_d3,flattened SAWD,"ERA5 wind_speed_10m_mean, 3 days before survey.",m/s,day -3
+ERA5_wind_speed_10m_min_d21,flattened SAWD,"ERA5 wind_speed_10m_min, 21 days before survey.",m/s,day -21
+ERA5_wind_speed_10m_min_d20,flattened SAWD,"ERA5 wind_speed_10m_min, 20 days before survey.",m/s,day -20
+ERA5_wind_speed_10m_min_d19,flattened SAWD,"ERA5 wind_speed_10m_min, 19 days before survey.",m/s,day -19
+ERA5_wind_speed_10m_min_d18,flattened SAWD,"ERA5 wind_speed_10m_min, 18 days before survey.",m/s,day -18
+ERA5_wind_speed_10m_min_d17,flattened SAWD,"ERA5 wind_speed_10m_min, 17 days before survey.",m/s,day -17
+ERA5_wind_speed_10m_min_d16,flattened SAWD,"ERA5 wind_speed_10m_min, 16 days before survey.",m/s,day -16
+ERA5_wind_speed_10m_min_d15,flattened SAWD,"ERA5 wind_speed_10m_min, 15 days before survey.",m/s,day -15
+ERA5_wind_speed_10m_min_d14,flattened SAWD,"ERA5 wind_speed_10m_min, 14 days before survey.",m/s,day -14
+ERA5_wind_speed_10m_min_d13,flattened SAWD,"ERA5 wind_speed_10m_min, 13 days before survey.",m/s,day -13
+ERA5_wind_speed_10m_min_d12,flattened SAWD,"ERA5 wind_speed_10m_min, 12 days before survey.",m/s,day -12
+ERA5_wind_speed_10m_min_d11,flattened SAWD,"ERA5 wind_speed_10m_min, 11 days before survey.",m/s,day -11
+ERA5_wind_speed_10m_min_d10,flattened SAWD,"ERA5 wind_speed_10m_min, 10 days before survey.",m/s,day -10
+ERA5_wind_speed_10m_min_d9,flattened SAWD,"ERA5 wind_speed_10m_min, 9 days before survey.",m/s,day -9
+ERA5_wind_speed_10m_min_d8,flattened SAWD,"ERA5 wind_speed_10m_min, 8 days before survey.",m/s,day -8
+ERA5_wind_speed_10m_min_d7,flattened SAWD,"ERA5 wind_speed_10m_min, 7 days before survey.",m/s,day -7
+ERA5_wind_speed_10m_min_d6,flattened SAWD,"ERA5 wind_speed_10m_min, 6 days before survey.",m/s,day -6
+ERA5_wind_speed_10m_min_d5,flattened SAWD,"ERA5 wind_speed_10m_min, 5 days before survey.",m/s,day -5
+ERA5_wind_speed_10m_min_d4,flattened SAWD,"ERA5 wind_speed_10m_min, 4 days before survey.",m/s,day -4
+ERA5_wind_speed_10m_min_d3,flattened SAWD,"ERA5 wind_speed_10m_min, 3 days before survey.",m/s,day -3
+ERA5_precipitation_sum_d21,flattened SAWD,"ERA5 precipitation_sum, 21 days before survey.",mm/day,day -21
+ERA5_precipitation_sum_d20,flattened SAWD,"ERA5 precipitation_sum, 20 days before survey.",mm/day,day -20
+ERA5_precipitation_sum_d19,flattened SAWD,"ERA5 precipitation_sum, 19 days before survey.",mm/day,day -19
+ERA5_precipitation_sum_d18,flattened SAWD,"ERA5 precipitation_sum, 18 days before survey.",mm/day,day -18
+ERA5_precipitation_sum_d17,flattened SAWD,"ERA5 precipitation_sum, 17 days before survey.",mm/day,day -17
+ERA5_precipitation_sum_d16,flattened SAWD,"ERA5 precipitation_sum, 16 days before survey.",mm/day,day -16
+ERA5_precipitation_sum_d15,flattened SAWD,"ERA5 precipitation_sum, 15 days before survey.",mm/day,day -15
+ERA5_precipitation_sum_d14,flattened SAWD,"ERA5 precipitation_sum, 14 days before survey.",mm/day,day -14
+ERA5_precipitation_sum_d13,flattened SAWD,"ERA5 precipitation_sum, 13 days before survey.",mm/day,day -13
+ERA5_precipitation_sum_d12,flattened SAWD,"ERA5 precipitation_sum, 12 days before survey.",mm/day,day -12
+ERA5_precipitation_sum_d11,flattened SAWD,"ERA5 precipitation_sum, 11 days before survey.",mm/day,day -11
+ERA5_precipitation_sum_d10,flattened SAWD,"ERA5 precipitation_sum, 10 days before survey.",mm/day,day -10
+ERA5_precipitation_sum_d9,flattened SAWD,"ERA5 precipitation_sum, 9 days before survey.",mm/day,day -9
+ERA5_precipitation_sum_d8,flattened SAWD,"ERA5 precipitation_sum, 8 days before survey.",mm/day,day -8
+ERA5_precipitation_sum_d7,flattened SAWD,"ERA5 precipitation_sum, 7 days before survey.",mm/day,day -7
+ERA5_precipitation_sum_d6,flattened SAWD,"ERA5 precipitation_sum, 6 days before survey.",mm/day,day -6
+ERA5_precipitation_sum_d5,flattened SAWD,"ERA5 precipitation_sum, 5 days before survey.",mm/day,day -5
+ERA5_precipitation_sum_d4,flattened SAWD,"ERA5 precipitation_sum, 4 days before survey.",mm/day,day -4
+ERA5_precipitation_sum_d3,flattened SAWD,"ERA5 precipitation_sum, 3 days before survey.",mm/day,day -3
+ERA5_relative_humidity_2m_max_d21,flattened SAWD,"ERA5 relative_humidity_2m_max, 21 days before survey.",%,day -21
+ERA5_relative_humidity_2m_max_d20,flattened SAWD,"ERA5 relative_humidity_2m_max, 20 days before survey.",%,day -20
+ERA5_relative_humidity_2m_max_d19,flattened SAWD,"ERA5 relative_humidity_2m_max, 19 days before survey.",%,day -19
+ERA5_relative_humidity_2m_max_d18,flattened SAWD,"ERA5 relative_humidity_2m_max, 18 days before survey.",%,day -18
+ERA5_relative_humidity_2m_max_d17,flattened SAWD,"ERA5 relative_humidity_2m_max, 17 days before survey.",%,day -17
+ERA5_relative_humidity_2m_max_d16,flattened SAWD,"ERA5 relative_humidity_2m_max, 16 days before survey.",%,day -16
+ERA5_relative_humidity_2m_max_d15,flattened SAWD,"ERA5 relative_humidity_2m_max, 15 days before survey.",%,day -15
+ERA5_relative_humidity_2m_max_d14,flattened SAWD,"ERA5 relative_humidity_2m_max, 14 days before survey.",%,day -14
+ERA5_relative_humidity_2m_max_d13,flattened SAWD,"ERA5 relative_humidity_2m_max, 13 days before survey.",%,day -13
+ERA5_relative_humidity_2m_max_d12,flattened SAWD,"ERA5 relative_humidity_2m_max, 12 days before survey.",%,day -12
+ERA5_relative_humidity_2m_max_d11,flattened SAWD,"ERA5 relative_humidity_2m_max, 11 days before survey.",%,day -11
+ERA5_relative_humidity_2m_max_d10,flattened SAWD,"ERA5 relative_humidity_2m_max, 10 days before survey.",%,day -10
+ERA5_relative_humidity_2m_max_d9,flattened SAWD,"ERA5 relative_humidity_2m_max, 9 days before survey.",%,day -9
+ERA5_relative_humidity_2m_max_d8,flattened SAWD,"ERA5 relative_humidity_2m_max, 8 days before survey.",%,day -8
+ERA5_relative_humidity_2m_max_d7,flattened SAWD,"ERA5 relative_humidity_2m_max, 7 days before survey.",%,day -7
+ERA5_relative_humidity_2m_max_d6,flattened SAWD,"ERA5 relative_humidity_2m_max, 6 days before survey.",%,day -6
+ERA5_relative_humidity_2m_max_d5,flattened SAWD,"ERA5 relative_humidity_2m_max, 5 days before survey.",%,day -5
+ERA5_relative_humidity_2m_max_d4,flattened SAWD,"ERA5 relative_humidity_2m_max, 4 days before survey.",%,day -4
+ERA5_relative_humidity_2m_max_d3,flattened SAWD,"ERA5 relative_humidity_2m_max, 3 days before survey.",%,day -3
+ERA5_relative_humidity_2m_min_d21,flattened SAWD,"ERA5 relative_humidity_2m_min, 21 days before survey.",%,day -21
+ERA5_relative_humidity_2m_min_d20,flattened SAWD,"ERA5 relative_humidity_2m_min, 20 days before survey.",%,day -20
+ERA5_relative_humidity_2m_min_d19,flattened SAWD,"ERA5 relative_humidity_2m_min, 19 days before survey.",%,day -19
+ERA5_relative_humidity_2m_min_d18,flattened SAWD,"ERA5 relative_humidity_2m_min, 18 days before survey.",%,day -18
+ERA5_relative_humidity_2m_min_d17,flattened SAWD,"ERA5 relative_humidity_2m_min, 17 days before survey.",%,day -17
+ERA5_relative_humidity_2m_min_d16,flattened SAWD,"ERA5 relative_humidity_2m_min, 16 days before survey.",%,day -16
+ERA5_relative_humidity_2m_min_d15,flattened SAWD,"ERA5 relative_humidity_2m_min, 15 days before survey.",%,day -15
+ERA5_relative_humidity_2m_min_d14,flattened SAWD,"ERA5 relative_humidity_2m_min, 14 days before survey.",%,day -14
+ERA5_relative_humidity_2m_min_d13,flattened SAWD,"ERA5 relative_humidity_2m_min, 13 days before survey.",%,day -13
+ERA5_relative_humidity_2m_min_d12,flattened SAWD,"ERA5 relative_humidity_2m_min, 12 days before survey.",%,day -12
+ERA5_relative_humidity_2m_min_d11,flattened SAWD,"ERA5 relative_humidity_2m_min, 11 days before survey.",%,day -11
+ERA5_relative_humidity_2m_min_d10,flattened SAWD,"ERA5 relative_humidity_2m_min, 10 days before survey.",%,day -10
+ERA5_relative_humidity_2m_min_d9,flattened SAWD,"ERA5 relative_humidity_2m_min, 9 days before survey.",%,day -9
+ERA5_relative_humidity_2m_min_d8,flattened SAWD,"ERA5 relative_humidity_2m_min, 8 days before survey.",%,day -8
+ERA5_relative_humidity_2m_min_d7,flattened SAWD,"ERA5 relative_humidity_2m_min, 7 days before survey.",%,day -7
+ERA5_relative_humidity_2m_min_d6,flattened SAWD,"ERA5 relative_humidity_2m_min, 6 days before survey.",%,day -6
+ERA5_relative_humidity_2m_min_d5,flattened SAWD,"ERA5 relative_humidity_2m_min, 5 days before survey.",%,day -5
+ERA5_relative_humidity_2m_min_d4,flattened SAWD,"ERA5 relative_humidity_2m_min, 4 days before survey.",%,day -4
+ERA5_relative_humidity_2m_min_d3,flattened SAWD,"ERA5 relative_humidity_2m_min, 3 days before survey.",%,day -3
+ERA5_relative_humidity_2m_mean_d21,flattened SAWD,"ERA5 relative_humidity_2m_mean, 21 days before survey.",%,day -21
+ERA5_relative_humidity_2m_mean_d20,flattened SAWD,"ERA5 relative_humidity_2m_mean, 20 days before survey.",%,day -20
+ERA5_relative_humidity_2m_mean_d19,flattened SAWD,"ERA5 relative_humidity_2m_mean, 19 days before survey.",%,day -19
+ERA5_relative_humidity_2m_mean_d18,flattened SAWD,"ERA5 relative_humidity_2m_mean, 18 days before survey.",%,day -18
+ERA5_relative_humidity_2m_mean_d17,flattened SAWD,"ERA5 relative_humidity_2m_mean, 17 days before survey.",%,day -17
+ERA5_relative_humidity_2m_mean_d16,flattened SAWD,"ERA5 relative_humidity_2m_mean, 16 days before survey.",%,day -16
+ERA5_relative_humidity_2m_mean_d15,flattened SAWD,"ERA5 relative_humidity_2m_mean, 15 days before survey.",%,day -15
+ERA5_relative_humidity_2m_mean_d14,flattened SAWD,"ERA5 relative_humidity_2m_mean, 14 days before survey.",%,day -14
+ERA5_relative_humidity_2m_mean_d13,flattened SAWD,"ERA5 relative_humidity_2m_mean, 13 days before survey.",%,day -13
+ERA5_relative_humidity_2m_mean_d12,flattened SAWD,"ERA5 relative_humidity_2m_mean, 12 days before survey.",%,day -12
+ERA5_relative_humidity_2m_mean_d11,flattened SAWD,"ERA5 relative_humidity_2m_mean, 11 days before survey.",%,day -11
+ERA5_relative_humidity_2m_mean_d10,flattened SAWD,"ERA5 relative_humidity_2m_mean, 10 days before survey.",%,day -10
+ERA5_relative_humidity_2m_mean_d9,flattened SAWD,"ERA5 relative_humidity_2m_mean, 9 days before survey.",%,day -9
+ERA5_relative_humidity_2m_mean_d8,flattened SAWD,"ERA5 relative_humidity_2m_mean, 8 days before survey.",%,day -8
+ERA5_relative_humidity_2m_mean_d7,flattened SAWD,"ERA5 relative_humidity_2m_mean, 7 days before survey.",%,day -7
+ERA5_relative_humidity_2m_mean_d6,flattened SAWD,"ERA5 relative_humidity_2m_mean, 6 days before survey.",%,day -6
+ERA5_relative_humidity_2m_mean_d5,flattened SAWD,"ERA5 relative_humidity_2m_mean, 5 days before survey.",%,day -5
+ERA5_relative_humidity_2m_mean_d4,flattened SAWD,"ERA5 relative_humidity_2m_mean, 4 days before survey.",%,day -4
+ERA5_relative_humidity_2m_mean_d3,flattened SAWD,"ERA5 relative_humidity_2m_mean, 3 days before survey.",%,day -3
+ERA5_2xCoarse_temperature_2m_mean_d21,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 21 days before survey.",degrees Celsius,day -21
+ERA5_2xCoarse_temperature_2m_mean_d20,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 20 days before survey.",degrees Celsius,day -20
+ERA5_2xCoarse_temperature_2m_mean_d19,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 19 days before survey.",degrees Celsius,day -19
+ERA5_2xCoarse_temperature_2m_mean_d18,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 18 days before survey.",degrees Celsius,day -18
+ERA5_2xCoarse_temperature_2m_mean_d17,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 17 days before survey.",degrees Celsius,day -17
+ERA5_2xCoarse_temperature_2m_mean_d16,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 16 days before survey.",degrees Celsius,day -16
+ERA5_2xCoarse_temperature_2m_mean_d15,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 15 days before survey.",degrees Celsius,day -15
+ERA5_2xCoarse_temperature_2m_mean_d14,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 14 days before survey.",degrees Celsius,day -14
+ERA5_2xCoarse_temperature_2m_mean_d13,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 13 days before survey.",degrees Celsius,day -13
+ERA5_2xCoarse_temperature_2m_mean_d12,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 12 days before survey.",degrees Celsius,day -12
+ERA5_2xCoarse_temperature_2m_mean_d11,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 11 days before survey.",degrees Celsius,day -11
+ERA5_2xCoarse_temperature_2m_mean_d10,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 10 days before survey.",degrees Celsius,day -10
+ERA5_2xCoarse_temperature_2m_mean_d9,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 9 days before survey.",degrees Celsius,day -9
+ERA5_2xCoarse_temperature_2m_mean_d8,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 8 days before survey.",degrees Celsius,day -8
+ERA5_2xCoarse_temperature_2m_mean_d7,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 7 days before survey.",degrees Celsius,day -7
+ERA5_2xCoarse_temperature_2m_mean_d6,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 6 days before survey.",degrees Celsius,day -6
+ERA5_2xCoarse_temperature_2m_mean_d5,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 5 days before survey.",degrees Celsius,day -5
+ERA5_2xCoarse_temperature_2m_mean_d4,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 4 days before survey.",degrees Celsius,day -4
+ERA5_2xCoarse_temperature_2m_mean_d3,flattened SAWD,"ERA5_2xCoarse temperature_2m_mean, 3 days before survey.",degrees Celsius,day -3
+ERA5_2xCoarse_temperature_2m_max_d21,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 21 days before survey.",degrees Celsius,day -21
+ERA5_2xCoarse_temperature_2m_max_d20,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 20 days before survey.",degrees Celsius,day -20
+ERA5_2xCoarse_temperature_2m_max_d19,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 19 days before survey.",degrees Celsius,day -19
+ERA5_2xCoarse_temperature_2m_max_d18,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 18 days before survey.",degrees Celsius,day -18
+ERA5_2xCoarse_temperature_2m_max_d17,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 17 days before survey.",degrees Celsius,day -17
+ERA5_2xCoarse_temperature_2m_max_d16,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 16 days before survey.",degrees Celsius,day -16
+ERA5_2xCoarse_temperature_2m_max_d15,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 15 days before survey.",degrees Celsius,day -15
+ERA5_2xCoarse_temperature_2m_max_d14,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 14 days before survey.",degrees Celsius,day -14
+ERA5_2xCoarse_temperature_2m_max_d13,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 13 days before survey.",degrees Celsius,day -13
+ERA5_2xCoarse_temperature_2m_max_d12,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 12 days before survey.",degrees Celsius,day -12
+ERA5_2xCoarse_temperature_2m_max_d11,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 11 days before survey.",degrees Celsius,day -11
+ERA5_2xCoarse_temperature_2m_max_d10,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 10 days before survey.",degrees Celsius,day -10
+ERA5_2xCoarse_temperature_2m_max_d9,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 9 days before survey.",degrees Celsius,day -9
+ERA5_2xCoarse_temperature_2m_max_d8,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 8 days before survey.",degrees Celsius,day -8
+ERA5_2xCoarse_temperature_2m_max_d7,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 7 days before survey.",degrees Celsius,day -7
+ERA5_2xCoarse_temperature_2m_max_d6,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 6 days before survey.",degrees Celsius,day -6
+ERA5_2xCoarse_temperature_2m_max_d5,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 5 days before survey.",degrees Celsius,day -5
+ERA5_2xCoarse_temperature_2m_max_d4,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 4 days before survey.",degrees Celsius,day -4
+ERA5_2xCoarse_temperature_2m_max_d3,flattened SAWD,"ERA5_2xCoarse temperature_2m_max, 3 days before survey.",degrees Celsius,day -3
+ERA5_2xCoarse_temperature_2m_min_d21,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 21 days before survey.",degrees Celsius,day -21
+ERA5_2xCoarse_temperature_2m_min_d20,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 20 days before survey.",degrees Celsius,day -20
+ERA5_2xCoarse_temperature_2m_min_d19,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 19 days before survey.",degrees Celsius,day -19
+ERA5_2xCoarse_temperature_2m_min_d18,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 18 days before survey.",degrees Celsius,day -18
+ERA5_2xCoarse_temperature_2m_min_d17,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 17 days before survey.",degrees Celsius,day -17
+ERA5_2xCoarse_temperature_2m_min_d16,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 16 days before survey.",degrees Celsius,day -16
+ERA5_2xCoarse_temperature_2m_min_d15,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 15 days before survey.",degrees Celsius,day -15
+ERA5_2xCoarse_temperature_2m_min_d14,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 14 days before survey.",degrees Celsius,day -14
+ERA5_2xCoarse_temperature_2m_min_d13,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 13 days before survey.",degrees Celsius,day -13
+ERA5_2xCoarse_temperature_2m_min_d12,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 12 days before survey.",degrees Celsius,day -12
+ERA5_2xCoarse_temperature_2m_min_d11,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 11 days before survey.",degrees Celsius,day -11
+ERA5_2xCoarse_temperature_2m_min_d10,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 10 days before survey.",degrees Celsius,day -10
+ERA5_2xCoarse_temperature_2m_min_d9,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 9 days before survey.",degrees Celsius,day -9
+ERA5_2xCoarse_temperature_2m_min_d8,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 8 days before survey.",degrees Celsius,day -8
+ERA5_2xCoarse_temperature_2m_min_d7,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 7 days before survey.",degrees Celsius,day -7
+ERA5_2xCoarse_temperature_2m_min_d6,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 6 days before survey.",degrees Celsius,day -6
+ERA5_2xCoarse_temperature_2m_min_d5,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 5 days before survey.",degrees Celsius,day -5
+ERA5_2xCoarse_temperature_2m_min_d4,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 4 days before survey.",degrees Celsius,day -4
+ERA5_2xCoarse_temperature_2m_min_d3,flattened SAWD,"ERA5_2xCoarse temperature_2m_min, 3 days before survey.",degrees Celsius,day -3
+ERA5_2xCoarse_wind_speed_10m_max_d21,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 21 days before survey.",m/s,day -21
+ERA5_2xCoarse_wind_speed_10m_max_d20,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 20 days before survey.",m/s,day -20
+ERA5_2xCoarse_wind_speed_10m_max_d19,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 19 days before survey.",m/s,day -19
+ERA5_2xCoarse_wind_speed_10m_max_d18,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 18 days before survey.",m/s,day -18
+ERA5_2xCoarse_wind_speed_10m_max_d17,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 17 days before survey.",m/s,day -17
+ERA5_2xCoarse_wind_speed_10m_max_d16,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 16 days before survey.",m/s,day -16
+ERA5_2xCoarse_wind_speed_10m_max_d15,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 15 days before survey.",m/s,day -15
+ERA5_2xCoarse_wind_speed_10m_max_d14,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 14 days before survey.",m/s,day -14
+ERA5_2xCoarse_wind_speed_10m_max_d13,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 13 days before survey.",m/s,day -13
+ERA5_2xCoarse_wind_speed_10m_max_d12,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 12 days before survey.",m/s,day -12
+ERA5_2xCoarse_wind_speed_10m_max_d11,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 11 days before survey.",m/s,day -11
+ERA5_2xCoarse_wind_speed_10m_max_d10,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 10 days before survey.",m/s,day -10
+ERA5_2xCoarse_wind_speed_10m_max_d9,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 9 days before survey.",m/s,day -9
+ERA5_2xCoarse_wind_speed_10m_max_d8,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 8 days before survey.",m/s,day -8
+ERA5_2xCoarse_wind_speed_10m_max_d7,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 7 days before survey.",m/s,day -7
+ERA5_2xCoarse_wind_speed_10m_max_d6,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 6 days before survey.",m/s,day -6
+ERA5_2xCoarse_wind_speed_10m_max_d5,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 5 days before survey.",m/s,day -5
+ERA5_2xCoarse_wind_speed_10m_max_d4,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 4 days before survey.",m/s,day -4
+ERA5_2xCoarse_wind_speed_10m_max_d3,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_max, 3 days before survey.",m/s,day -3
+ERA5_2xCoarse_wind_speed_10m_mean_d21,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 21 days before survey.",m/s,day -21
+ERA5_2xCoarse_wind_speed_10m_mean_d20,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 20 days before survey.",m/s,day -20
+ERA5_2xCoarse_wind_speed_10m_mean_d19,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 19 days before survey.",m/s,day -19
+ERA5_2xCoarse_wind_speed_10m_mean_d18,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 18 days before survey.",m/s,day -18
+ERA5_2xCoarse_wind_speed_10m_mean_d17,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 17 days before survey.",m/s,day -17
+ERA5_2xCoarse_wind_speed_10m_mean_d16,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 16 days before survey.",m/s,day -16
+ERA5_2xCoarse_wind_speed_10m_mean_d15,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 15 days before survey.",m/s,day -15
+ERA5_2xCoarse_wind_speed_10m_mean_d14,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 14 days before survey.",m/s,day -14
+ERA5_2xCoarse_wind_speed_10m_mean_d13,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 13 days before survey.",m/s,day -13
+ERA5_2xCoarse_wind_speed_10m_mean_d12,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 12 days before survey.",m/s,day -12
+ERA5_2xCoarse_wind_speed_10m_mean_d11,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 11 days before survey.",m/s,day -11
+ERA5_2xCoarse_wind_speed_10m_mean_d10,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 10 days before survey.",m/s,day -10
+ERA5_2xCoarse_wind_speed_10m_mean_d9,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 9 days before survey.",m/s,day -9
+ERA5_2xCoarse_wind_speed_10m_mean_d8,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 8 days before survey.",m/s,day -8
+ERA5_2xCoarse_wind_speed_10m_mean_d7,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 7 days before survey.",m/s,day -7
+ERA5_2xCoarse_wind_speed_10m_mean_d6,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 6 days before survey.",m/s,day -6
+ERA5_2xCoarse_wind_speed_10m_mean_d5,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 5 days before survey.",m/s,day -5
+ERA5_2xCoarse_wind_speed_10m_mean_d4,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 4 days before survey.",m/s,day -4
+ERA5_2xCoarse_wind_speed_10m_mean_d3,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_mean, 3 days before survey.",m/s,day -3
+ERA5_2xCoarse_wind_speed_10m_min_d21,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 21 days before survey.",m/s,day -21
+ERA5_2xCoarse_wind_speed_10m_min_d20,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 20 days before survey.",m/s,day -20
+ERA5_2xCoarse_wind_speed_10m_min_d19,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 19 days before survey.",m/s,day -19
+ERA5_2xCoarse_wind_speed_10m_min_d18,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 18 days before survey.",m/s,day -18
+ERA5_2xCoarse_wind_speed_10m_min_d17,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 17 days before survey.",m/s,day -17
+ERA5_2xCoarse_wind_speed_10m_min_d16,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 16 days before survey.",m/s,day -16
+ERA5_2xCoarse_wind_speed_10m_min_d15,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 15 days before survey.",m/s,day -15
+ERA5_2xCoarse_wind_speed_10m_min_d14,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 14 days before survey.",m/s,day -14
+ERA5_2xCoarse_wind_speed_10m_min_d13,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 13 days before survey.",m/s,day -13
+ERA5_2xCoarse_wind_speed_10m_min_d12,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 12 days before survey.",m/s,day -12
+ERA5_2xCoarse_wind_speed_10m_min_d11,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 11 days before survey.",m/s,day -11
+ERA5_2xCoarse_wind_speed_10m_min_d10,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 10 days before survey.",m/s,day -10
+ERA5_2xCoarse_wind_speed_10m_min_d9,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 9 days before survey.",m/s,day -9
+ERA5_2xCoarse_wind_speed_10m_min_d8,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 8 days before survey.",m/s,day -8
+ERA5_2xCoarse_wind_speed_10m_min_d7,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 7 days before survey.",m/s,day -7
+ERA5_2xCoarse_wind_speed_10m_min_d6,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 6 days before survey.",m/s,day -6
+ERA5_2xCoarse_wind_speed_10m_min_d5,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 5 days before survey.",m/s,day -5
+ERA5_2xCoarse_wind_speed_10m_min_d4,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 4 days before survey.",m/s,day -4
+ERA5_2xCoarse_wind_speed_10m_min_d3,flattened SAWD,"ERA5_2xCoarse wind_speed_10m_min, 3 days before survey.",m/s,day -3
+ERA5_2xCoarse_precipitation_sum_d21,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 21 days before survey.",mm/day,day -21
+ERA5_2xCoarse_precipitation_sum_d20,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 20 days before survey.",mm/day,day -20
+ERA5_2xCoarse_precipitation_sum_d19,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 19 days before survey.",mm/day,day -19
+ERA5_2xCoarse_precipitation_sum_d18,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 18 days before survey.",mm/day,day -18
+ERA5_2xCoarse_precipitation_sum_d17,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 17 days before survey.",mm/day,day -17
+ERA5_2xCoarse_precipitation_sum_d16,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 16 days before survey.",mm/day,day -16
+ERA5_2xCoarse_precipitation_sum_d15,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 15 days before survey.",mm/day,day -15
+ERA5_2xCoarse_precipitation_sum_d14,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 14 days before survey.",mm/day,day -14
+ERA5_2xCoarse_precipitation_sum_d13,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 13 days before survey.",mm/day,day -13
+ERA5_2xCoarse_precipitation_sum_d12,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 12 days before survey.",mm/day,day -12
+ERA5_2xCoarse_precipitation_sum_d11,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 11 days before survey.",mm/day,day -11
+ERA5_2xCoarse_precipitation_sum_d10,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 10 days before survey.",mm/day,day -10
+ERA5_2xCoarse_precipitation_sum_d9,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 9 days before survey.",mm/day,day -9
+ERA5_2xCoarse_precipitation_sum_d8,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 8 days before survey.",mm/day,day -8
+ERA5_2xCoarse_precipitation_sum_d7,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 7 days before survey.",mm/day,day -7
+ERA5_2xCoarse_precipitation_sum_d6,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 6 days before survey.",mm/day,day -6
+ERA5_2xCoarse_precipitation_sum_d5,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 5 days before survey.",mm/day,day -5
+ERA5_2xCoarse_precipitation_sum_d4,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 4 days before survey.",mm/day,day -4
+ERA5_2xCoarse_precipitation_sum_d3,flattened SAWD,"ERA5_2xCoarse precipitation_sum, 3 days before survey.",mm/day,day -3
+ERA5_2xCoarse_relative_humidity_2m_max_d21,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 21 days before survey.",%,day -21
+ERA5_2xCoarse_relative_humidity_2m_max_d20,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 20 days before survey.",%,day -20
+ERA5_2xCoarse_relative_humidity_2m_max_d19,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 19 days before survey.",%,day -19
+ERA5_2xCoarse_relative_humidity_2m_max_d18,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 18 days before survey.",%,day -18
+ERA5_2xCoarse_relative_humidity_2m_max_d17,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 17 days before survey.",%,day -17
+ERA5_2xCoarse_relative_humidity_2m_max_d16,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 16 days before survey.",%,day -16
+ERA5_2xCoarse_relative_humidity_2m_max_d15,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 15 days before survey.",%,day -15
+ERA5_2xCoarse_relative_humidity_2m_max_d14,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 14 days before survey.",%,day -14
+ERA5_2xCoarse_relative_humidity_2m_max_d13,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 13 days before survey.",%,day -13
+ERA5_2xCoarse_relative_humidity_2m_max_d12,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 12 days before survey.",%,day -12
+ERA5_2xCoarse_relative_humidity_2m_max_d11,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 11 days before survey.",%,day -11
+ERA5_2xCoarse_relative_humidity_2m_max_d10,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 10 days before survey.",%,day -10
+ERA5_2xCoarse_relative_humidity_2m_max_d9,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 9 days before survey.",%,day -9
+ERA5_2xCoarse_relative_humidity_2m_max_d8,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 8 days before survey.",%,day -8
+ERA5_2xCoarse_relative_humidity_2m_max_d7,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 7 days before survey.",%,day -7
+ERA5_2xCoarse_relative_humidity_2m_max_d6,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 6 days before survey.",%,day -6
+ERA5_2xCoarse_relative_humidity_2m_max_d5,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 5 days before survey.",%,day -5
+ERA5_2xCoarse_relative_humidity_2m_max_d4,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 4 days before survey.",%,day -4
+ERA5_2xCoarse_relative_humidity_2m_max_d3,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_max, 3 days before survey.",%,day -3
+ERA5_2xCoarse_relative_humidity_2m_min_d21,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 21 days before survey.",%,day -21
+ERA5_2xCoarse_relative_humidity_2m_min_d20,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 20 days before survey.",%,day -20
+ERA5_2xCoarse_relative_humidity_2m_min_d19,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 19 days before survey.",%,day -19
+ERA5_2xCoarse_relative_humidity_2m_min_d18,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 18 days before survey.",%,day -18
+ERA5_2xCoarse_relative_humidity_2m_min_d17,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 17 days before survey.",%,day -17
+ERA5_2xCoarse_relative_humidity_2m_min_d16,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 16 days before survey.",%,day -16
+ERA5_2xCoarse_relative_humidity_2m_min_d15,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 15 days before survey.",%,day -15
+ERA5_2xCoarse_relative_humidity_2m_min_d14,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 14 days before survey.",%,day -14
+ERA5_2xCoarse_relative_humidity_2m_min_d13,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 13 days before survey.",%,day -13
+ERA5_2xCoarse_relative_humidity_2m_min_d12,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 12 days before survey.",%,day -12
+ERA5_2xCoarse_relative_humidity_2m_min_d11,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 11 days before survey.",%,day -11
+ERA5_2xCoarse_relative_humidity_2m_min_d10,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 10 days before survey.",%,day -10
+ERA5_2xCoarse_relative_humidity_2m_min_d9,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 9 days before survey.",%,day -9
+ERA5_2xCoarse_relative_humidity_2m_min_d8,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 8 days before survey.",%,day -8
+ERA5_2xCoarse_relative_humidity_2m_min_d7,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 7 days before survey.",%,day -7
+ERA5_2xCoarse_relative_humidity_2m_min_d6,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 6 days before survey.",%,day -6
+ERA5_2xCoarse_relative_humidity_2m_min_d5,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 5 days before survey.",%,day -5
+ERA5_2xCoarse_relative_humidity_2m_min_d4,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 4 days before survey.",%,day -4
+ERA5_2xCoarse_relative_humidity_2m_min_d3,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_min, 3 days before survey.",%,day -3
+ERA5_2xCoarse_relative_humidity_2m_mean_d21,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 21 days before survey.",%,day -21
+ERA5_2xCoarse_relative_humidity_2m_mean_d20,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 20 days before survey.",%,day -20
+ERA5_2xCoarse_relative_humidity_2m_mean_d19,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 19 days before survey.",%,day -19
+ERA5_2xCoarse_relative_humidity_2m_mean_d18,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 18 days before survey.",%,day -18
+ERA5_2xCoarse_relative_humidity_2m_mean_d17,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 17 days before survey.",%,day -17
+ERA5_2xCoarse_relative_humidity_2m_mean_d16,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 16 days before survey.",%,day -16
+ERA5_2xCoarse_relative_humidity_2m_mean_d15,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 15 days before survey.",%,day -15
+ERA5_2xCoarse_relative_humidity_2m_mean_d14,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 14 days before survey.",%,day -14
+ERA5_2xCoarse_relative_humidity_2m_mean_d13,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 13 days before survey.",%,day -13
+ERA5_2xCoarse_relative_humidity_2m_mean_d12,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 12 days before survey.",%,day -12
+ERA5_2xCoarse_relative_humidity_2m_mean_d11,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 11 days before survey.",%,day -11
+ERA5_2xCoarse_relative_humidity_2m_mean_d10,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 10 days before survey.",%,day -10
+ERA5_2xCoarse_relative_humidity_2m_mean_d9,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 9 days before survey.",%,day -9
+ERA5_2xCoarse_relative_humidity_2m_mean_d8,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 8 days before survey.",%,day -8
+ERA5_2xCoarse_relative_humidity_2m_mean_d7,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 7 days before survey.",%,day -7
+ERA5_2xCoarse_relative_humidity_2m_mean_d6,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 6 days before survey.",%,day -6
+ERA5_2xCoarse_relative_humidity_2m_mean_d5,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 5 days before survey.",%,day -5
+ERA5_2xCoarse_relative_humidity_2m_mean_d4,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 4 days before survey.",%,day -4
+ERA5_2xCoarse_relative_humidity_2m_mean_d3,flattened SAWD,"ERA5_2xCoarse relative_humidity_2m_mean, 3 days before survey.",%,day -3

@@ -1,0 +1,8 @@
+﻿mode,eval_source,first_risk_category,n_pairs,fraction
+mean_variance_corrected,CWA,after class 1 survey,5,0.1
+mean_variance_corrected,CWA,by/on class 1 survey,42,0.84
+mean_variance_corrected,CWA,no risk within -21..+21,3,0.06
+raw_substitution,CWA,after class 1 survey,2,0.04
+raw_substitution,CWA,by/on class 1 survey,40,0.8
+raw_substitution,CWA,no risk within -21..+21,8,0.16
+within_source,ERA5Land,by/on class 1 survey,50,1.0

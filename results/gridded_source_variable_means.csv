@@ -1,0 +1,41 @@
+variable,display,unit,source,mean,sd
+temperature_2m_mean,Temp mean,$^\circ$C,ERA5Land,25.5601564474439,1.960188605969879
+temperature_2m_mean,Temp mean,$^\circ$C,ERA5_2xCoarse,25.433908211176508,1.9492813014817272
+temperature_2m_mean,Temp mean,$^\circ$C,JRA3Q,24.732825887768513,2.568672728391544
+temperature_2m_mean,Temp mean,$^\circ$C,MERRA2,26.0650106280219,2.040424757873349
+temperature_2m_max,Temp max,$^\circ$C,ERA5Land,28.177275710033857,2.1154147602847146
+temperature_2m_max,Temp max,$^\circ$C,ERA5_2xCoarse,28.073219296533427,2.1376611413490485
+temperature_2m_max,Temp max,$^\circ$C,JRA3Q,27.459923009191595,2.5905073645155143
+temperature_2m_max,Temp max,$^\circ$C,MERRA2,29.024085465789526,2.1776784908038476
+temperature_2m_min,Temp min,$^\circ$C,ERA5Land,23.188011677529822,2.2118771368191097
+temperature_2m_min,Temp min,$^\circ$C,ERA5_2xCoarse,23.07861004422395,2.1476202049940416
+temperature_2m_min,Temp min,$^\circ$C,JRA3Q,22.335438456493097,2.9935218058091198
+temperature_2m_min,Temp min,$^\circ$C,MERRA2,23.786549029964032,2.4241892934369202
+wind_speed_10m_max,Wind max,m s$^{-1}$,ERA5Land,3.6452477954034013,2.2226572599639303
+wind_speed_10m_max,Wind max,m s$^{-1}$,ERA5_2xCoarse,3.509339758048264,2.060195980356397
+wind_speed_10m_max,Wind max,m s$^{-1}$,JRA3Q,4.540369253269765,1.8369235072833825
+wind_speed_10m_max,Wind max,m s$^{-1}$,MERRA2,5.62398932138851,2.8277497528461546
+wind_speed_10m_mean,Wind mean,m s$^{-1}$,ERA5Land,2.3829839305049676,1.8801090870527508
+wind_speed_10m_mean,Wind mean,m s$^{-1}$,ERA5_2xCoarse,2.283405794608291,1.7321595332821027
+wind_speed_10m_mean,Wind mean,m s$^{-1}$,JRA3Q,2.854545981041338,1.5397677260810991
+wind_speed_10m_mean,Wind mean,m s$^{-1}$,MERRA2,3.759584213550231,2.3958514301147598
+wind_speed_10m_min,Wind min,m s$^{-1}$,ERA5Land,1.1865123837511047,1.588144610893171
+wind_speed_10m_min,Wind min,m s$^{-1}$,ERA5_2xCoarse,1.1236996641279944,1.4624468348553539
+wind_speed_10m_min,Wind min,m s$^{-1}$,JRA3Q,1.3166849574854538,1.4602913079162059
+wind_speed_10m_min,Wind min,m s$^{-1}$,MERRA2,2.0306205997588584,2.0685894699450396
+precipitation_sum,Precip,mm d$^{-1}$,ERA5Land,9.229417422070124,20.5262273658689
+precipitation_sum,Precip,mm d$^{-1}$,ERA5_2xCoarse,9.262985352475102,20.05236040041401
+precipitation_sum,Precip,mm d$^{-1}$,JRA3Q,6.578633705050204,13.388797431394202
+precipitation_sum,Precip,mm d$^{-1}$,MERRA2,10.331606352014992,20.00527193152867
+relative_humidity_2m_max,RH max,%,ERA5Land,93.08426892295861,4.765917218463103
+relative_humidity_2m_max,RH max,%,ERA5_2xCoarse,92.92667014637767,4.571989579145336
+relative_humidity_2m_max,RH max,%,JRA3Q,92.84948638778853,6.662719786982073
+relative_humidity_2m_max,RH max,%,MERRA2,92.22072660854671,4.531160858793816
+relative_humidity_2m_min,RH min,%,ERA5Land,72.55506949598848,8.331526775112946
+relative_humidity_2m_min,RH min,%,ERA5_2xCoarse,72.60576172250343,8.320366283001402
+relative_humidity_2m_min,RH min,%,JRA3Q,73.0491155300866,9.354661492140277
+relative_humidity_2m_min,RH min,%,MERRA2,68.6756980271312,10.634927857391189
+relative_humidity_2m_mean,RH mean,%,ERA5Land,83.70319601816362,5.977951310622208
+relative_humidity_2m_mean,RH mean,%,ERA5_2xCoarse,83.75444750059391,5.887022098323384
+relative_humidity_2m_mean,RH mean,%,JRA3Q,83.77610623159404,7.485992126917728
+relative_humidity_2m_mean,RH mean,%,MERRA2,82.22353168028354,6.40611194153429

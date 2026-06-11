@@ -1,0 +1,34 @@
+{
+  "source": "ERA5Land",
+  "best_epoch": 10,
+  "best_val_loss": 0.5578960262495896,
+  "used_train_seed": 39551,
+  "retry_count": 0,
+  "n_train": 266,
+  "n_val": 58,
+  "n_test": 80,
+  "val": {
+    "n": 58,
+    "class0": 29,
+    "class1": 29,
+    "accuracy": 0.7241379310344828,
+    "mcc": 0.49241011240107063,
+    "roc_auc": 0.8263971462544589,
+    "tn": 27,
+    "fp": 2,
+    "fn": 14,
+    "tp": 15
+  },
+  "test": {
+    "n": 80,
+    "class0": 40,
+    "class1": 40,
+    "accuracy": 0.75,
+    "mcc": 0.502518907629606,
+    "roc_auc": 0.8756250000000001,
+    "tn": 28,
+    "fp": 12,
+    "fn": 8,
+    "tp": 32
+  }
+}

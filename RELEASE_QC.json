@@ -1,0 +1,17 @@
+{
+  "records": 404,
+  "pairs": 202,
+  "fields": 198,
+  "classes": {
+    "0": 202,
+    "1": 202
+  },
+  "wide_columns": 954,
+  "sawd_flat_columns": 950,
+  "sequence_columns": 50,
+  "direct_location_or_date_columns_public": 0,
+  "exact_duplicate_rows_wide": 0,
+  "missing_cells_wide": 0,
+  "sequence_wide_max_abs_difference": 0,
+  "model_count": 250
+}

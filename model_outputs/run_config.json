@@ -1,0 +1,54 @@
+{
+  "data_path": "data/blb_training_sawd_sequences_public.csv",
+  "out_dir": "model_outputs",
+  "sources": {
+    "CWA": "cwa_sawd",
+    "JRA3Q": "jra3q_sawd",
+    "MERRA2": "merra2_sawd",
+    "ERA5Land": "era5land_sawd",
+    "ERA5_2xCoarse": "era5_2xcoarse_sawd"
+  },
+  "variable_bases": [
+    "temperature_2m_mean",
+    "temperature_2m_max",
+    "temperature_2m_min",
+    "wind_speed_10m_max",
+    "wind_speed_10m_mean",
+    "wind_speed_10m_min",
+    "precipitation_sum",
+    "relative_humidity_2m_max",
+    "relative_humidity_2m_min",
+    "relative_humidity_2m_mean"
+  ],
+  "batch_size": 16,
+  "learning_rate": 0.002,
+  "weight_decay": 0.0001,
+  "num_epochs": 40,
+  "k_folds": 5,
+  "ensemble_seeds": [
+    6469,
+    174,
+    9919,
+    3299,
+    3489,
+    5168,
+    5319,
+    5018,
+    1497,
+    4065
+  ],
+  "train_seeds": [
+    2290,
+    4767,
+    7851,
+    9034,
+    9351,
+    4407,
+    2117,
+    1255,
+    3589,
+    3796
+  ],
+  "device": "cpu",
+  "notes": "Final 404-record strict-grid/date dataset; paths sanitized for public release."
+}
